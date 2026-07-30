@@ -39,7 +39,6 @@ export default function TestResult() {
 
     }
 
-    console.log(result)
 
     return (
 
