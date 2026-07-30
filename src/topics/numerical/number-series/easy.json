@@ -1,0 +1,250 @@
+[
+   {
+      "id":"NS-E-001",
+      "question":"What number comes next in the series?\n\n2, 5, 8, 11, ___",
+      "options":[
+         "13",
+         "14",
+         "15",
+         "16"
+      ],
+      "correctAnswer":1,
+      "explanation":"The pattern increases by 3 each time: 2 + 3 = 5, 5 + 3 = 8, 8 + 3 = 11. The next number is 11 + 3 = 14.",
+      "tags":[
+         "number-series",
+         "arithmetic-sequence",
+         "addition"
+      ]
+   },
+   {
+      "id":"NS-E-002",
+      "question":"What number comes next in the series?\n\n50, 45, 40, 35, ___",
+      "options":[
+         "25",
+         "28",
+         "30",
+         "32"
+      ],
+      "correctAnswer":2,
+      "explanation":"The pattern decreases by 5 each time: 50 − 5 = 45, 45 − 5 = 40, 40 − 5 = 35. The next number is 35 − 5 = 30.",
+      "tags":[
+         "number-series",
+         "arithmetic-sequence",
+         "subtraction"
+      ]
+   },
+   {
+      "id":"NS-E-003",
+      "question":"What number comes next in the series?\n\n3, 6, 12, 24, ___",
+      "options":[
+         "36",
+         "42",
+         "48",
+         "52"
+      ],
+      "correctAnswer":2,
+      "explanation":"Each number is multiplied by 2: 3 × 2 = 6, 6 × 2 = 12, 12 × 2 = 24. The next number is 24 × 2 = 48.",
+      "tags":[
+         "number-series",
+         "multiplication-pattern"
+      ]
+   },
+   {
+      "id":"NS-E-004",
+      "question":"What number comes next in the series?\n\n7, 14, 21, 28, ___",
+      "options":[
+         "32",
+         "35",
+         "36",
+         "42"
+      ],
+      "correctAnswer":1,
+      "explanation":"The pattern increases by 7 each time: 7 + 7 = 14, 14 + 7 = 21, 21 + 7 = 28. The next number is 28 + 7 = 35.",
+      "tags":[
+         "number-series",
+         "arithmetic-sequence",
+         "addition"
+      ]
+   },
+   {
+      "id":"NS-E-005",
+      "question":"What number comes next in the series?\n\n100, 90, 80, 70, ___",
+      "options":[
+         "50",
+         "55",
+         "60",
+         "65"
+      ],
+      "correctAnswer":2,
+      "explanation":"The pattern decreases by 10 each time: 100 − 10 = 90, 90 − 10 = 80, 80 − 10 = 70. The next number is 70 − 10 = 60.",
+      "tags":[
+         "number-series",
+         "arithmetic-sequence",
+         "subtraction"
+      ]
+   },
+   {
+      "id":"NS-E-006",
+      "question":"What number comes next in the series?\n\n1, 4, 9, 16, ___",
+      "options":[
+         "20",
+         "24",
+         "25",
+         "30"
+      ],
+      "correctAnswer":2,
+      "explanation":"The numbers are perfect squares: 1² = 1, 2² = 4, 3² = 9, 4² = 16. The next number is 5² = 25.",
+      "tags":[
+         "number-series",
+         "square-numbers"
+      ]
+   },
+   {
+      "id":"NS-E-007",
+      "question":"What number comes next in the series?\n\n15, 20, 25, 30, ___",
+      "options":[
+         "32",
+         "34",
+         "35",
+         "40"
+      ],
+      "correctAnswer":2,
+      "explanation":"The pattern increases by 5 each time: 15 + 5 = 20, 20 + 5 = 25, 25 + 5 = 30. The next number is 30 + 5 = 35.",
+      "tags":[
+         "number-series",
+         "arithmetic-sequence",
+         "addition"
+      ]
+   },
+   {
+      "id":"NS-E-008",
+      "question":"What number comes next in the series?\n\n64, 32, 16, 8, ___",
+      "options":[
+         "2",
+         "4",
+         "6",
+         "10"
+      ],
+      "correctAnswer":1,
+      "explanation":"The pattern divides each number by 2: 64 ÷ 2 = 32, 32 ÷ 2 = 16, 16 ÷ 2 = 8. The next number is 8 ÷ 2 = 4.",
+      "tags":[
+         "number-series",
+         "division-pattern"
+      ]
+   },
+   {
+      "id":"NS-E-009",
+      "question":"What number comes next in the series?\n\n2, 5, 10, 17, ___",
+      "options":[
+         "24",
+         "25",
+         "26",
+         "27"
+      ],
+      "correctAnswer":2,
+      "explanation":"The differences increase by 2: +3, +5, +7. The next difference is +9. Therefore, 17 + 9 = 26.",
+      "tags":[
+         "number-series",
+         "increasing-difference"
+      ]
+   },
+   {
+      "id":"NS-E-010",
+      "question":"What number comes next in the series?\n\n11, 22, 33, 44, ___",
+      "options":[
+         "50",
+         "55",
+         "56",
+         "66"
+      ],
+      "correctAnswer":1,
+      "explanation":"The pattern increases by 11 each time: 11 + 11 = 22, 22 + 11 = 33, 33 + 11 = 44. The next number is 44 + 11 = 55.",
+      "tags":[
+         "number-series",
+         "arithmetic-sequence",
+         "addition"
+      ]
+   },
+   {
+      "id":"NS-E-011",
+      "question":"What number comes next in the series?\n\n81, 72, 63, 54, ___",
+      "options":[
+         "42",
+         "43",
+         "45",
+         "46"
+      ],
+      "correctAnswer":2,
+      "explanation":"The pattern decreases by 9 each time: 81 − 9 = 72, 72 − 9 = 63, 63 − 9 = 54. The next number is 54 − 9 = 45.",
+      "tags":[
+         "number-series",
+         "arithmetic-sequence",
+         "subtraction"
+      ]
+   },
+   {
+      "id":"NS-E-012",
+      "question":"What number comes next in the series?\n\n5, 10, 20, 40, ___",
+      "options":[
+         "60",
+         "70",
+         "80",
+         "90"
+      ],
+      "correctAnswer":2,
+      "explanation":"The pattern doubles each time: 5 × 2 = 10, 10 × 2 = 20, 20 × 2 = 40. The next number is 40 × 2 = 80.",
+      "tags":[
+         "number-series",
+         "multiplication-pattern"
+      ]
+   },
+   {
+      "id":"NS-E-013",
+      "question":"What number comes next in the series?\n\n4, 8, 12, 16, ___",
+      "options":[
+         "18",
+         "20",
+         "22",
+         "24"
+      ],
+      "correctAnswer":1,
+      "explanation":"The pattern increases by 4 each time: 4 + 4 = 8, 8 + 4 = 12, 12 + 4 = 16. The next number is 16 + 4 = 20.",
+      "tags":[
+         "number-series",
+         "arithmetic-sequence",
+         "addition"
+      ]
+   },
+   {
+      "id":"NS-E-014",
+      "question":"What number comes next in the series?\n\n96, 48, 24, 12, ___",
+      "options":[
+         "3",
+         "4",
+         "6",
+         "8"
+      ],
+      "correctAnswer":2,
+      "explanation":"The pattern divides each number by 2: 96 ÷ 2 = 48, 48 ÷ 2 = 24, 24 ÷ 2 = 12. The next number is 12 ÷ 2 = 6.",
+      "tags":[
+         "number-series",
+         "division-pattern"
+      ]
+   },
+   {
+      "id":"NS-E-015",
+      "question":"What number comes next in the series?\n\n1, 3, 6, 10, ___",
+      "options":[
+         "12",
+         "14",
+         "15",
+         "16"
+      ],
+      "correctAnswer":2,
+      "explanation":"The differences increase by 1 each time: +2, +3, +4. The next difference is +5. Therefore, 10 + 5 = 15.",
+      "tags":[
+         "number-series",
+         "increasing-difference"
+      ]
+   }
+]
