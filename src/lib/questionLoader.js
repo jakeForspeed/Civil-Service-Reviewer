@@ -1,8 +1,9 @@
 
 const modules = import.meta.glob("../topics/**/hard.json",{eager: true, import: "default"})
-
+console.log("test",modules);
 
 export function loadMockTestQuestions(){
+
 
     const result = [];
 

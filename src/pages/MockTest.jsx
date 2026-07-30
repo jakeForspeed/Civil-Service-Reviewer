@@ -54,17 +54,12 @@ export default function MockTest() {
 
 }, [result, navigate]);
 
-useEffect(() => {
-
-    console.log("MockTest mounted");
-
-    return () => {
-
-        console.log("MockTest unmounted");
-
-    };
-
-}, []);
+// useEffect(() => {
+//     console.log("MockTest mounted");
+//     return () => {
+//         console.log("MockTest unmounted");
+//     };
+// }, []);
 
     return (
 
