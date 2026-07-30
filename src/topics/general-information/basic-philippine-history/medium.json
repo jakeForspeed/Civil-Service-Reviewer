@@ -1,0 +1,273 @@
+[
+  {
+    "id": "HIST-M-001",
+    "question": "What was the title of Jose Rizal's first novel that exposed the abuses of Spanish colonial rule in the Philippines?",
+    "options": [
+      "El Filibusterismo",
+      "Mi Ultimo Adios",
+      "Noli Me Tangere",
+      "La Solidaridad"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Noli Me Tangere, published in 1887, was Jose Rizal's first novel. It exposed the social injustices and abuses committed during the Spanish colonial period and inspired Filipino nationalism.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "jose-rizal",
+      "noli-me-tangere"
+    ]
+  },
+  {
+    "id": "HIST-M-002",
+    "question": "Which treaty formally ended the Spanish-American War and resulted in Spain ceding the Philippines to the United States?",
+    "options": [
+      "Treaty of Tordesillas",
+      "Treaty of Paris (1898)",
+      "Treaty of Manila",
+      "Treaty of Versailles"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Treaty of Paris, signed on December 10, 1898, ended the Spanish-American War. Spain ceded the Philippines, Puerto Rico, and Guam to the United States, with the Philippines transferred for US$20 million.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "treaty-of-paris",
+      "spanish-american-war"
+    ]
+  },
+  {
+    "id": "HIST-M-003",
+    "question": "The Propaganda Movement primarily sought to:",
+    "options": [
+      "Immediately declare Philippine independence through armed revolution",
+      "Promote reforms and equal rights for Filipinos under Spanish rule",
+      "Establish the Commonwealth Government",
+      "Support Japanese occupation during World War II"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Propaganda Movement, led by Filipino reformists such as Jose Rizal, Marcelo H. del Pilar, and Graciano Lopez Jaena, sought peaceful reforms, equal rights, and representation for Filipinos under Spanish colonial rule—not immediate independence through armed revolt.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "propaganda-movement",
+      "philippine-reform-movement"
+    ]
+  },
+  {
+    "id": "HIST-M-004",
+    "question": "Which document served as the code of conduct and moral guide for members of the Katipunan?",
+    "options": [
+      "Mi Ultimo Adios",
+      "Kartilya ng Katipunan",
+      "Biak-na-Bato Constitution",
+      "Malolos Constitution"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Kartilya ng Katipunan, written primarily by Emilio Jacinto, served as the moral and ethical guide for members of the Katipunan. It emphasized equality, patriotism, integrity, and love of country.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "katipunan",
+      "kartilya-ng-katipunan"
+    ]
+  },
+  {
+    "id": "HIST-M-005",
+    "question": "Who became President of the Philippines after Manuel L. Quezon died in office in 1944?",
+    "options": [
+      "Jose P. Laurel",
+      "Sergio Osmena",
+      "Elpidio Quirino",
+      "Manuel Roxas"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Upon the death of President Manuel L. Quezon on August 1, 1944, Vice President Sergio Osmena succeeded him as President of the Philippine Commonwealth in accordance with the Constitution.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "commonwealth",
+      "sergio-osmena"
+    ]
+  },
+  {
+    "id": "HIST-M-006",
+    "question": "Which constitution established the First Philippine Republic, also known as the Malolos Republic?",
+    "options": [
+      "1935 Constitution",
+      "1973 Constitution",
+      "Malolos Constitution",
+      "1987 Constitution"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Malolos Constitution, promulgated in 1899, established the First Philippine Republic. It is recognized as the first republican constitution in Asia.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "malolos-constitution",
+      "first-philippine-republic"
+    ]
+  },
+  {
+    "id": "HIST-M-007",
+    "question": "Which event is generally recognized as the beginning of the Philippine Revolution against Spain in 1896?",
+    "options": [
+      "Cry of Pugad Lawin",
+      "Battle of Mactan",
+      "Tejeros Convention",
+      "Pact of Biak-na-Bato"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Cry of Pugad Lawin, during which members of the Katipunan tore their cedulas (community tax certificates), is generally recognized today as the symbolic beginning of the Philippine Revolution against Spain in August 1896.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "philippine-revolution",
+      "cry-of-pugad-lawin"
+    ]
+  },
+  {
+    "id": "HIST-M-008",
+    "question": "Who authored the essay 'La Indolencia de los Filipinos,' which analyzed the causes of the perceived indolence of Filipinos under Spanish rule?",
+    "options": [
+      "Marcelo H. del Pilar",
+      "Graciano Lopez Jaena",
+      "Jose Rizal",
+      "Antonio Luna"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Jose Rizal wrote 'La Indolencia de los Filipinos' (The Indolence of the Filipinos), published in 1890, arguing that the alleged indolence of Filipinos resulted largely from the conditions imposed by Spanish colonial rule rather than from the character of the Filipino people.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "jose-rizal",
+      "propaganda-movement"
+    ]
+  },
+  {
+    "id": "HIST-M-009",
+    "question": "Which law provided for a ten-year Commonwealth period before the granting of Philippine independence by the United States?",
+    "options": [
+      "Jones Law of 1916",
+      "Bell Trade Act",
+      "Tydings-McDuffie Act",
+      "Philippine Organic Act of 1902"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Tydings-McDuffie Act of 1934 established the Commonwealth of the Philippines as a transitional government for a ten-year period before the country was granted full independence, which occurred on July 4, 1946.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "commonwealth",
+      "tydings-mcduffie-act"
+    ]
+  },
+  {
+    "id": "HIST-M-010",
+    "question": "Which Filipino general earned the title 'The Great Plebeian' because of his humble origins and leadership in the Philippine Revolution?",
+    "options": [
+      "Emilio Aguinaldo",
+      "Andres Bonifacio",
+      "Antonio Luna",
+      "Gregorio del Pilar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Andres Bonifacio is known as 'The Great Plebeian' because he came from a humble family and rose to become the founder and Supremo of the Katipunan, leading the Philippine Revolution against Spain.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "andres-bonifacio",
+      "philippine-revolution"
+    ]
+  },
+  {
+    "id": "HIST-M-011",
+    "question": "What was the primary purpose of the Pact of Biak-na-Bato signed in 1897?",
+    "options": [
+      "To declare Philippine independence",
+      "To establish the Commonwealth Government",
+      "To temporarily end hostilities between Spanish authorities and Filipino revolutionaries",
+      "To transfer the Philippines to the United States"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Pact of Biak-na-Bato was a peace agreement signed in December 1897 between the Spanish colonial government and the revolutionary forces led by Emilio Aguinaldo. It temporarily ended the fighting, and Aguinaldo went into exile in Hong Kong.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "biak-na-bato",
+      "philippine-revolution"
+    ]
+  },
+  {
+    "id": "HIST-M-012",
+    "question": "Which Filipino military leader was known as the 'Brains of the Philippine Army' for reorganizing the revolutionary forces during the Philippine-American War?",
+    "options": [
+      "Gregorio del Pilar",
+      "Antonio Luna",
+      "Artemio Ricarte",
+      "Miguel Malvar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "General Antonio Luna, a skilled military strategist, reorganized the Philippine Army and established disciplined military training during the Philippine-American War. He is often referred to as the 'Brains of the Philippine Army.'",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "antonio-luna",
+      "philippine-american-war"
+    ]
+  },
+  {
+    "id": "HIST-M-013",
+    "question": "Which event marked the formal inauguration of the First Philippine Republic?",
+    "options": [
+      "The signing of the Pact of Biak-na-Bato",
+      "The proclamation of Philippine independence in Kawit",
+      "The inauguration of the Malolos Republic on January 23, 1899",
+      "The opening of the Philippine Assembly in 1907"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The First Philippine Republic, also known as the Malolos Republic, was formally inaugurated on January 23, 1899, in Malolos, Bulacan, with Emilio Aguinaldo serving as its first President.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "first-philippine-republic",
+      "malolos-republic"
+    ]
+  },
+  {
+    "id": "HIST-M-014",
+    "question": "Which Filipino reformist founded the newspaper 'La Solidaridad' and became its first editor?",
+    "options": [
+      "Jose Rizal",
+      "Graciano Lopez Jaena",
+      "Marcelo H. del Pilar",
+      "Mariano Ponce"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Graciano Lopez Jaena founded La Solidaridad in Spain in 1889 and served as its first editor. The newspaper became the principal publication of the Propaganda Movement. Marcelo H. del Pilar later succeeded him as editor.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "propaganda-movement",
+      "la-solidaridad"
+    ]
+  },
+  {
+    "id": "HIST-M-015",
+    "question": "Which battle is best known for the death of Ferdinand Magellan in 1521?",
+    "options": [
+      "Battle of Tirad Pass",
+      "Battle of Mactan",
+      "Battle of Manila Bay",
+      "Battle of Binakayan"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Battle of Mactan was fought on April 27, 1521, between the forces of Lapu-Lapu and Ferdinand Magellan's expedition. Magellan was killed during the battle, making it one of the most significant events in early Philippine history.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "battle-of-mactan",
+      "lapu-lapu",
+      "magellan"
+    ]
+  }
+]

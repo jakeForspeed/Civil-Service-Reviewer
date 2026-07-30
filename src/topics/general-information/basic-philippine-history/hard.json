@@ -1,0 +1,272 @@
+[
+  {
+    "id": "HIST-H-001",
+    "question": "Which agreement ended the fighting between the Spanish colonial government and the Filipino revolutionaries in 1897, resulting in Emilio Aguinaldo's exile to Hong Kong?",
+    "options": [
+      "Treaty of Paris",
+      "Pact of Biak-na-Bato",
+      "Treaty of Manila",
+      "Malolos Constitution"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Pact of Biak-na-Bato was signed in December 1897 between the Spanish colonial government and the revolutionary forces led by Emilio Aguinaldo. It temporarily ended hostilities, and Aguinaldo, together with other revolutionary leaders, went into voluntary exile in Hong Kong.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "pact-of-biak-na-bato",
+      "philippine-revolution"
+    ]
+  },
+  {
+    "id": "HIST-H-002",
+    "question": "Which law replaced the Philippine Organic Act of 1902 and declared it to be the policy of the United States to eventually grant Philippine independence?",
+    "options": [
+      "Bell Trade Act",
+      "Jones Law of 1916",
+      "Tydings-McDuffie Act",
+      "Philippine Rehabilitation Act"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Jones Law (Philippine Autonomy Act) of 1916 replaced the Philippine Organic Act of 1902 and declared that it was the policy of the United States to recognize Philippine independence as soon as a stable government could be established.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "jones-law",
+      "american-period"
+    ]
+  },
+  {
+    "id": "HIST-H-003",
+    "question": "Which Filipino general earned the title 'Hero of Tirad Pass' after leading a rearguard defense against American forces in 1899?",
+    "options": [
+      "Antonio Luna",
+      "Miguel Malvar",
+      "Gregorio del Pilar",
+      "Artemio Ricarte"
+    ],
+    "correctAnswer": 2,
+    "explanation": "General Gregorio del Pilar became known as the 'Hero of Tirad Pass' after sacrificing his life while defending Tirad Pass on December 2, 1899, to delay pursuing American forces and allow President Emilio Aguinaldo to escape.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "gregorio-del-pilar",
+      "tirad-pass"
+    ]
+  },
+  {
+    "id": "HIST-H-004",
+    "question": "Which constitutional document served as the legal framework of the First Philippine Republic established in Malolos in 1899?",
+    "options": [
+      "Biak-na-Bato Constitution",
+      "Malolos Constitution",
+      "1935 Constitution",
+      "Tejeros Constitution"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Malolos Constitution, promulgated on January 21, 1899, served as the legal framework of the First Philippine Republic, which was inaugurated in Malolos, Bulacan, on January 23, 1899.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "malolos-constitution",
+      "first-philippine-republic"
+    ]
+  },
+  {
+    "id": "HIST-H-005",
+    "question": "Which event led to the formation of the revolutionary government that replaced the Katipunan leadership structure in 1897?",
+    "options": [
+      "Cry of Pugad Lawin",
+      "Tejeros Convention",
+      "Battle of Mactan",
+      "Treaty of Paris"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Tejeros Convention, held on March 22, 1897, resulted in the election of revolutionary government officials, including Emilio Aguinaldo as President. It marked a transition from the Katipunan's organizational structure to a revolutionary government.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "tejeros-convention",
+      "philippine-revolution"
+    ]
+  },
+  {
+    "id": "HIST-H-006",
+    "question": "Which policy was introduced by the United States in the Philippines through the establishment of the civil government in 1901?",
+    "options": [
+      "Immediate recognition of Philippine independence",
+      "American colonial administration under civilian authority",
+      "Restoration of Spanish colonial rule",
+      "Transfer of Philippine sovereignty to Japan"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The establishment of the civil government in 1901 marked the shift from primarily military administration to American civilian colonial administration. William Howard Taft became the first Civil Governor of the Philippines.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "american-period",
+      "civil-government"
+    ]
+  },
+  {
+    "id": "HIST-H-007",
+    "question": "Which event marked the first major armed clash between Filipino revolutionaries and American forces during the Philippine-American War?",
+    "options": [
+      "Battle of Manila Bay",
+      "Battle of Mactan",
+      "Battle of Manila",
+      "Battle of Caloocan"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Battle of Caloocan in February 1899 was among the first major armed clashes between Filipino revolutionary forces and American troops after tensions escalated following the Treaty of Paris and the establishment of American control over the Philippines.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "philippine-american-war",
+      "battle-of-caloocan"
+    ]
+  },
+  {
+    "id": "HIST-H-008",
+    "question": "Which organization was founded by Jose Rizal in 1892 to promote peaceful reforms and unity among Filipinos?",
+    "options": [
+      "Katipunan",
+      "La Liga Filipina",
+      "La Solidaridad",
+      "Asociacion Hispano-Filipina"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Jose Rizal founded La Liga Filipina on July 3, 1892, in Manila. Its objectives included uniting Filipinos, promoting mutual assistance, and advocating peaceful reforms. Its establishment occurred shortly before Rizal's arrest and exile to Dapitan.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "jose-rizal",
+      "la-liga-filipina"
+    ]
+  },
+  {
+    "id": "HIST-H-009",
+    "question": "Which agreement recognized the independence of the Philippines from the United States after World War II?",
+    "options": [
+      "Treaty of Paris (1898)",
+      "Tydings-McDuffie Act",
+      "Treaty of General Relations (1946)",
+      "Jones Law of 1916"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Treaty of General Relations, signed on July 4, 1946, formally recognized Philippine independence and established diplomatic relations between the Philippines and the United States after the Commonwealth period and World War II.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "philippine-independence",
+      "treaty-of-general-relations"
+    ]
+  },
+  {
+    "id": "HIST-H-010",
+    "question": "Which event is considered the official end of Spanish colonial rule in the Philippines?",
+    "options": [
+      "The Cry of Pugad Lawin in 1896",
+      "The signing of the Treaty of Paris in 1898",
+      "The inauguration of the Malolos Republic in 1899",
+      "The declaration of Philippine independence in 1946"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Treaty of Paris, signed on December 10, 1898, ended the Spanish-American War and resulted in Spain ceding the Philippines to the United States. This formally ended Spanish colonial rule over the Philippines.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "treaty-of-paris",
+      "spanish-colonial-period"
+    ]
+  },
+  {
+    "id": "HIST-H-011",
+    "question": "Which Filipino revolutionary leader wrote the 'Decalogue' or Ten Commandments of the Katipunan?",
+    "options": [
+      "Emilio Jacinto",
+      "Andres Bonifacio",
+      "Apolinario Mabini",
+      "Jose Rizal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Andres Bonifacio wrote the 'Decalogue' (Sampung Utos ng mga Anak ng Bayan), which contained principles and duties expected of Katipunan members. Emilio Jacinto wrote the Kartilya ng Katipunan, another important Katipunan guide.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "andres-bonifacio",
+      "katipunan"
+    ]
+  },
+  {
+    "id": "HIST-H-012",
+    "question": "Which event led to the capture of Emilio Aguinaldo by American forces in 1901?",
+    "options": [
+      "Battle of Tirad Pass",
+      "Capture at Palanan, Isabela",
+      "Battle of Manila Bay",
+      "Pact of Biak-na-Bato"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Emilio Aguinaldo was captured by American forces led by General Frederick Funston on March 23, 1901, at Palanan, Isabela. His capture weakened organized Filipino resistance during the Philippine-American War.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "emilio-aguinaldo",
+      "philippine-american-war"
+    ]
+  },
+  {
+    "id": "HIST-H-013",
+    "question": "Which document formally established the revolutionary government headed by Emilio Aguinaldo after the declaration of Philippine independence in 1898?",
+    "options": [
+      "Malolos Constitution",
+      "Decree of June 18, 1898",
+      "Treaty of Paris",
+      "Jones Law"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Decree of June 18, 1898, issued by Emilio Aguinaldo, established municipal governments and helped organize the revolutionary government after the declaration of independence. The Malolos Constitution later provided the legal framework of the First Philippine Republic in 1899.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "emilio-aguinaldo",
+      "revolutionary-government"
+    ]
+  },
+  {
+    "id": "HIST-H-014",
+    "question": "Which Filipino leader was known as the 'Brains of the Revolution' because of his role as adviser and chief strategist of the revolutionary government?",
+    "options": [
+      "Antonio Luna",
+      "Apolinario Mabini",
+      "Emilio Jacinto",
+      "Marcelo H. del Pilar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Apolinario Mabini was known as the 'Brains of the Revolution' because of his political and strategic advice to Emilio Aguinaldo and his major role in shaping the policies of the revolutionary government and the First Philippine Republic.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "apolinario-mabini",
+      "philippine-revolution"
+    ]
+  },
+  {
+    "id": "HIST-H-015",
+  "question": "Which act issued by the United States in 1902 granted amnesty to Filipinos who participated in the Philippine-American War?",
+  "options": [
+    "Treaty of Paris (1898)",
+    "Pact of Biak-na-Bato",
+    "General Amnesty Act of 1902",
+    "Treaty of General Relations"
+  ],
+  "correctAnswer": 2,
+  "explanation": "The General Amnesty Act of 1902 was issued by the United States to grant amnesty to Filipinos who participated in the Philippine-American War. It marked the end of the major phase of organized Filipino resistance against American forces.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "philippine-american-war",
+      "general-amnesty-act"
+    ]
+  }
+]

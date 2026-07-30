@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CURR-E-001",
+    "question": "Who is the President of the Philippines as of 2026?",
+    "options": [
+      "Rodrigo Duterte",
+      "Ferdinand Marcos Jr.",
+      "Benigno Aquino III",
+      "Gloria Macapagal-Arroyo"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ferdinand Romualdez Marcos Jr. became the 17th President of the Philippines after winning the 2022 presidential election and assuming office on June 30, 2022.",
+    "tags": [
+      "general-information",
+      "current-events",
+      "philippine-government",
+      "president-of-the-philippines"
+    ]
+  },
+  {
+    "id": "CURR-E-002",
+    "question": "What government agency is primarily responsible for monitoring earthquakes, volcanic activity, and weather-related hazards in the Philippines?",
+    "options": [
+      "Department of Health (DOH)",
+      "Philippine Statistics Authority (PSA)",
+      "Philippine Institute of Volcanology and Seismology (PHIVOLCS)",
+      "Department of Agriculture (DA)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Philippine Institute of Volcanology and Seismology (PHIVOLCS) is responsible for monitoring earthquakes, volcanic eruptions, tsunamis, and other geologic hazards in the Philippines.",
+    "tags": [
+      "general-information",
+      "current-events",
+      "disaster-preparedness",
+      "phivolcs"
+    ]
+  },
+  {
+    "id": "CURR-E-003",
+    "question": "Which international organization is responsible for coordinating global public health efforts, including responses to disease outbreaks?",
+    "options": [
+      "United Nations Educational, Scientific and Cultural Organization (UNESCO)",
+      "World Health Organization (WHO)",
+      "World Trade Organization (WTO)",
+      "International Monetary Fund (IMF)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The World Health Organization (WHO) is a specialized agency of the United Nations responsible for international public health, including disease prevention, health emergencies, and global health coordination.",
+    "tags": [
+      "general-information",
+      "current-events",
+      "international-organizations",
+      "world-health-organization"
+    ]
+  },
+  {
+    "id": "CURR-E-004",
+    "question": "What government agency is responsible for conducting the national census and providing official statistical information in the Philippines?",
+    "options": [
+      "National Economic and Development Authority (NEDA)",
+      "Philippine Statistics Authority (PSA)",
+      "Department of Budget and Management (DBM)",
+      "Commission on Elections (COMELEC)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Philippine Statistics Authority (PSA) is the central statistical authority of the Philippines responsible for collecting, compiling, analyzing, and releasing official statistics, including population census data.",
+    "tags": [
+      "general-information",
+      "current-events",
+      "philippine-government",
+      "philippine-statistics-authority"
+    ]
+  },
+  {
+    "id": "CURR-E-005",
+    "question": "Which government program provides conditional cash assistance to qualified poor households in the Philippines?",
+    "options": [
+      "Pantawid Pamilyang Pilipino Program (4Ps)",
+      "Kadiwa Program",
+      "Build Better More Program",
+      "Balik Probinsya Program"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Pantawid Pamilyang Pilipino Program (4Ps) is a government social protection program that provides conditional cash grants to qualified poor households to improve health, nutrition, and education outcomes.",
+    "tags": [
+      "general-information",
+      "current-events",
+      "social-programs",
+      "4ps"
+    ]
+  },
+  {
+    "id": "CURR-E-006",
+    "question": "Which organization is responsible for maintaining international peace and security among nations?",
+    "options": [
+      "Association of Southeast Asian Nations (ASEAN)",
+      "United Nations (UN)",
+      "European Union (EU)",
+      "World Bank"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The United Nations (UN) is an international organization founded in 1945 with the primary goals of maintaining international peace and security, promoting cooperation among countries, and addressing global challenges.",
+    "tags": [
+      "general-information",
+      "current-events",
+      "international-organizations",
+      "united-nations"
+    ]
+  },
+  {
+    "id": "CURR-E-007",
+    "question": "Which Philippine government department is primarily responsible for the country's foreign relations and diplomatic affairs?",
+    "options": [
+      "Department of National Defense (DND)",
+      "Department of Foreign Affairs (DFA)",
+      "Department of Interior and Local Government (DILG)",
+      "Department of Justice (DOJ)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Department of Foreign Affairs (DFA) is the executive department responsible for promoting and protecting Philippine interests abroad, managing diplomatic relations, and assisting Filipino citizens overseas.",
+    "tags": [
+      "general-information",
+      "current-events",
+      "philippine-government",
+      "department-of-foreign-affairs"
+    ]
+  },
+  {
+    "id": "CURR-E-008",
+    "question": "What is the main purpose of the ASEAN organization, which includes the Philippines as a member?",
+    "options": [
+      "To regulate global banking systems",
+      "To promote cooperation among Southeast Asian countries",
+      "To control international oil prices",
+      "To replace the United Nations"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Association of Southeast Asian Nations (ASEAN) promotes cooperation among Southeast Asian countries in areas such as economic growth, regional peace, security, education, and cultural development.",
+    "tags": [
+      "general-information",
+      "current-events",
+      "international-relations",
+      "asean"
+    ]
+  },
+  {
+    "id": "CURR-E-009",
+    "question": "Which Philippine agency is responsible for preparing and issuing forecasts about tropical cyclones and weather conditions?",
+    "options": [
+      "PAGASA",
+      "PHIVOLCS",
+      "MMDA",
+      "DENR"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Philippine Atmospheric, Geophysical and Astronomical Services Administration (PAGASA) is the government agency responsible for weather forecasting, tropical cyclone monitoring, flood warnings, and other atmospheric services.",
+    "tags": [
+      "general-information",
+      "current-events",
+      "disaster-preparedness",
+      "pagasa"
+    ]
+  },
+  {
+    "id": "CURR-E-010",
+    "question": "Which Philippine government agency is responsible for implementing programs related to environmental protection and natural resources management?",
+    "options": [
+      "Department of Environment and Natural Resources (DENR)",
+      "Department of Public Works and Highways (DPWH)",
+      "Department of Transportation (DOTr)",
+      "Department of Tourism (DOT)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Department of Environment and Natural Resources (DENR) is responsible for conserving, managing, and developing the country's environment and natural resources, including forests, land, minerals, and protected areas.",
+    "tags": [
+      "general-information",
+      "current-events",
+      "environmental-management",
+      "denr"
+    ]
+  },
+  {
+    "id": "CURR-E-011",
+    "question": "Which body is responsible for administering elections in the Philippines?",
+    "options": [
+      "Civil Service Commission (CSC)",
+      "Commission on Audit (COA)",
+      "Commission on Elections (COMELEC)",
+      "Commission on Human Rights (CHR)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Commission on Elections (COMELEC) is the constitutional body responsible for enforcing election laws, supervising elections, and ensuring fair and orderly electoral processes in the Philippines.",
+    "tags": [
+      "general-information",
+      "current-events",
+      "philippine-government",
+      "comelec"
+    ]
+  },
+  {
+    "id": "CURR-E-012",
+    "question": "What does GDP, a commonly used economic indicator, stand for?",
+    "options": [
+      "General Development Program",
+      "Gross Domestic Product",
+      "Global Debt Percentage",
+      "Government Distribution Plan"
+    ],
+    "correctAnswer": 1,
+    "explanation": "GDP stands for Gross Domestic Product. It measures the total monetary value of goods and services produced within a country's borders during a specific period and is commonly used to assess economic performance.",
+    "tags": [
+      "general-information",
+      "current-events",
+      "economics",
+      "gross-domestic-product"
+    ]
+  },
+  {
+    "id": "CURR-E-013",
+    "question": "Which Philippine government agency is responsible for protecting consumers and regulating trade practices?",
+    "options": [
+      "Department of Trade and Industry (DTI)",
+      "Department of Finance (DOF)",
+      "Bangko Sentral ng Pilipinas (BSP)",
+      "Bureau of Internal Revenue (BIR)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Department of Trade and Industry (DTI) promotes consumer protection, fair trade practices, and the growth of Philippine industries and businesses.",
+    "tags": [
+      "general-information",
+      "current-events",
+      "philippine-government",
+      "consumer-protection"
+    ]
+  },
+  {
+    "id": "CURR-E-014",
+    "question": "Which international event is held every four years and features competitions among athletes from around the world?",
+    "options": [
+      "World Economic Forum",
+      "Olympic Games",
+      "United Nations General Assembly",
+      "ASEAN Summit"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Olympic Games are an international multi-sport event held every four years where athletes from different countries compete in various sports.",
+    "tags": [
+      "general-information",
+      "current-events",
+      "international-events",
+      "olympic-games"
+    ]
+  },
+  {
+    "id": "CURR-E-015",
+    "question": "Which Philippine institution is responsible for maintaining price stability and supervising banks in the country?",
+    "options": [
+      "Department of Budget and Management (DBM)",
+      "Bangko Sentral ng Pilipinas (BSP)",
+      "Philippine Stock Exchange (PSE)",
+      "Department of Agriculture (DA)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Bangko Sentral ng Pilipinas (BSP) is the country's central monetary authority responsible for maintaining price stability, issuing currency, and supervising banks and financial institutions.",
+    "tags": [
+      "general-information",
+      "current-events",
+      "philippine-economy",
+      "bangko-sentral-ng-pilipinas"
+    ]
+  }
+]
