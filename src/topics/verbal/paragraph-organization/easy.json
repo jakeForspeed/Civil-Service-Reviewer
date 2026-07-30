@@ -1,0 +1,244 @@
+[
+  {
+    "id": "PO-E-001",
+    "question": "Arrange the following sentences into a coherent paragraph.\n\nI. Finally, everyone enjoyed eating the delicious meal together.\nII. First, Mother bought fresh ingredients from the market.\nIII. Next, she cooked everyone's favorite dishes.\nIV. After that, the family gathered around the dining table.",
+    "options": [
+      "II - III - IV - I",
+      "II - IV - III - I",
+      "III - II - IV - I",
+      "IV - II - III - I"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is 'II - III - IV - I'. Mother first bought the ingredients, then cooked the food, after which the family gathered around the table, and finally everyone enjoyed the meal. This sequence follows the natural order of preparing and eating a meal.",
+    "tags": [
+      "chronological order",
+      "paragraph organization"
+    ]
+  },
+  {
+    "id": "PO-E-002",
+    "question": "Arrange the following sentences into a coherent paragraph.\n\nI. They planted the seeds in the garden.\nII. After a few weeks, the plants began to grow.\nIII. They watered the plants every day.\nIV. The class decided to start a vegetable garden.",
+    "options": [
+      "IV - I - III - II",
+      "IV - III - I - II",
+      "I - IV - III - II",
+      "III - IV - I - II"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is 'IV - I - III - II'. The class first decided to start a garden, then planted the seeds, watered them regularly, and eventually the plants grew. The sequence follows the proper timeline.",
+    "tags": [
+      "chronological order",
+      "context clues"
+    ]
+  },
+  {
+    "id": "PO-E-003",
+    "question": "Arrange the following sentences into a coherent paragraph.\n\nI. Everyone listened carefully to the speaker.\nII. The seminar officially began.\nIII. Participants registered at the entrance.\nIV. At the end, certificates were distributed.",
+    "options": [
+      "III - II - I - IV",
+      "II - III - I - IV",
+      "III - I - II - IV",
+      "I - II - III - IV"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is 'III - II - I - IV'. Participants first registered, the seminar began, everyone listened to the speaker, and certificates were distributed at the end. This follows the natural order of a seminar.",
+    "tags": [
+      "events",
+      "chronological order"
+    ]
+  },
+  {
+    "id": "PO-E-004",
+    "question": "Arrange the following sentences into a coherent paragraph.\n\nI. She submitted her application before the deadline.\nII. Maria prepared all the required documents.\nIII. A week later, she received an interview invitation.\nIV. She carefully reviewed the job requirements.",
+    "options": [
+      "IV - II - I - III",
+      "II - IV - I - III",
+      "IV - I - II - III",
+      "I - II - IV - III"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is 'IV - II - I - III'. Maria first reviewed the job requirements, then prepared the documents, submitted her application, and later received an interview invitation. The events occur in logical chronological order.",
+    "tags": [
+      "workplace",
+      "chronological order"
+    ]
+  },
+  {
+    "id": "PO-E-005",
+    "question": "Arrange the following sentences into a coherent paragraph.\n\nI. As a result, many people experienced flooding.\nII. Continuous heavy rain fell throughout the day.\nIII. Rescue teams immediately assisted affected residents.\nIV. Rivers overflowed because of the persistent rainfall.",
+    "options": [
+      "II - IV - I - III",
+      "II - I - IV - III",
+      "IV - II - I - III",
+      "I - II - IV - III"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is 'II - IV - I - III'. Heavy rain caused the rivers to overflow, which resulted in flooding. Rescue teams then responded to help the affected residents. The paragraph follows a clear cause-and-effect sequence.",
+    "tags": [
+      "cause and effect",
+      "paragraph organization"
+    ]
+  }
+,
+  {
+    "id": "PO-E-006",
+    "question": "Arrange the following sentences into a coherent paragraph.\n\nI. The librarian issued him a library card.\nII. Carlo filled out the registration form.\nIII. He borrowed his first book.\nIV. Carlo visited the public library for the first time.",
+    "options": [
+      "IV - II - I - III",
+      "II - IV - I - III",
+      "IV - I - II - III",
+      "II - I - IV - III"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is 'IV - II - I - III'. Carlo first visited the library, completed the registration form, received his library card, and finally borrowed his first book. This follows the logical process of becoming a library member.",
+    "tags": [
+      "chronological order",
+      "daily life"
+    ]
+  },
+  {
+    "id": "PO-E-007",
+    "question": "Arrange the following sentences into a coherent paragraph.\n\nI. The teacher explained the classroom rules.\nII. The students introduced themselves.\nIII. Classes officially started.\nIV. The students entered the classroom on the first day of school.",
+    "options": [
+      "IV - III - I - II",
+      "III - IV - II - I",
+      "IV - II - III - I",
+      "II - IV - III - I"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is 'IV - III - I - II'. The students first entered the classroom, classes officially started, the teacher explained the rules, and the students then introduced themselves. This is the most logical classroom sequence.",
+    "tags": [
+      "school",
+      "paragraph organization"
+    ]
+  },
+  {
+    "id": "PO-E-008",
+    "question": "Arrange the following sentences into a coherent paragraph.\n\nI. She mixed all the ingredients in a bowl.\nII. Maria baked the cake for forty minutes.\nIII. She served the cake after it had cooled.\nIV. Maria carefully measured all the ingredients.",
+    "options": [
+      "IV - I - II - III",
+      "I - IV - II - III",
+      "IV - II - I - III",
+      "II - I - IV - III"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is 'IV - I - II - III'. The ingredients must first be measured, then mixed, baked, and finally served after cooling. This follows the correct baking process.",
+    "tags": [
+      "process",
+      "chronological order"
+    ]
+  },
+  {
+    "id": "PO-E-009",
+    "question": "Arrange the following sentences into a coherent paragraph.\n\nI. The passengers safely boarded the bus.\nII. The bus arrived at the terminal.\nIII. The driver checked the vehicle before departure.\nIV. The trip began shortly afterward.",
+    "options": [
+      "II - I - III - IV",
+      "II - III - I - IV",
+      "III - II - I - IV",
+      "I - II - III - IV"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct answer is 'II - III - I - IV'. The bus first arrived at the terminal, the driver inspected the vehicle before leaving, the passengers boarded, and then the trip began. This follows the logical order of preparing for a bus trip.",
+    "tags": [
+      "transportation",
+      "logical sequence"
+    ]
+  },
+  {
+    "id": "PO-E-010",
+    "question": "Arrange the following sentences into a coherent paragraph.\n\nI. Therefore, many trees were planted throughout the community.\nII. The local government launched an environmental campaign.\nIII. Volunteers participated in the tree-planting activity.\nIV. The project encouraged residents to care for the environment.",
+    "options": [
+      "II - I - III - IV",
+      "II - III - I - IV",
+      "III - II - I - IV",
+      "II - IV - III - I"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct answer is 'II - III - I - IV'. The local government first launched the campaign, volunteers joined the activity, many trees were planted as a result, and the project ultimately encouraged environmental awareness. The paragraph follows a logical cause-and-effect sequence.",
+    "tags": [
+      "cause and effect",
+      "community"
+    ]
+  }
+  ,
+  {
+    "id": "PO-E-011",
+    "question": "Arrange the following sentences into a coherent paragraph.\n\nI. The doctor examined the patient carefully.\nII. The nurse called the patient's name.\nIII. The patient waited quietly in the clinic.\nIV. The doctor prescribed the necessary medicine.",
+    "options": [
+      "III - II - I - IV",
+      "II - III - I - IV",
+      "III - I - II - IV",
+      "II - I - III - IV"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is 'III - II - I - IV'. The patient first waited in the clinic, the nurse called the patient's name, the doctor conducted the examination, and finally prescribed the appropriate medicine.",
+    "tags": [
+      "chronological order",
+      "health"
+    ]
+  },
+  {
+    "id": "PO-E-012",
+    "question": "Arrange the following sentences into a coherent paragraph.\n\nI. He placed the document inside an envelope.\nII. Carlo wrote the letter.\nIII. He mailed it at the post office.\nIV. He sealed the envelope securely.",
+    "options": [
+      "II - I - IV - III",
+      "II - IV - I - III",
+      "I - II - IV - III",
+      "IV - II - I - III"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is 'II - I - IV - III'. Carlo first wrote the letter, placed it inside the envelope, sealed it, and then mailed it. This is the natural sequence for sending a letter.",
+    "tags": [
+      "process",
+      "daily life"
+    ]
+  },
+  {
+    "id": "PO-E-013",
+    "question": "Arrange the following sentences into a coherent paragraph.\n\nI. Everyone applauded after the performance.\nII. The curtain opened.\nIII. The actors performed the play.\nIV. The audience found their seats.",
+    "options": [
+      "IV - II - III - I",
+      "II - IV - III - I",
+      "IV - III - II - I",
+      "III - II - IV - I"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is 'IV - II - III - I'. The audience first sat down, the curtain opened, the actors performed, and everyone applauded after the performance ended.",
+    "tags": [
+      "events",
+      "chronological order"
+    ]
+  },
+  {
+    "id": "PO-E-014",
+    "question": "Arrange the following sentences into a coherent paragraph.\n\nI. The teacher checked everyone's work.\nII. The students answered the activity sheet.\nIII. The lesson was explained to the class.\nIV. The teacher discussed the correct answers.",
+    "options": [
+      "III - II - I - IV",
+      "II - III - I - IV",
+      "III - I - II - IV",
+      "II - I - III - IV"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is 'III - II - I - IV'. The teacher first explained the lesson, the students completed the activity, the teacher checked their work, and finally discussed the correct answers.",
+    "tags": [
+      "education",
+      "logical order"
+    ]
+  },
+  {
+    "id": "PO-E-015",
+    "question": "Arrange the following sentences into a coherent paragraph.\n\nI. The electricity suddenly went out.\nII. The maintenance team repaired the damaged power line.\nIII. Power was restored a few hours later.\nIV. Residents immediately reported the outage to the electric company.",
+    "options": [
+      "I - IV - II - III",
+      "IV - I - II - III",
+      "I - II - IV - III",
+      "II - I - IV - III"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is 'I - IV - II - III'. The power outage happened first, residents reported it, the maintenance team repaired the damaged line, and electricity was restored afterward. This follows a clear cause-and-effect sequence.",
+    "tags": [
+      "cause and effect",
+      "community"
+    ]
+  }
+]

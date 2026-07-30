@@ -1,0 +1,457 @@
+[
+  {
+    "id": "VOC-M-001",
+    "question": "Choose the word that is closest in meaning to 'Reluctant'.",
+    "options": [
+      "Eager",
+      "Hesitant",
+      "Cheerful",
+      "Fearless"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Reluctant' means unwilling or hesitant to do something. A reluctant person may delay or resist taking action. 'Hesitant' is the closest synonym. 'Eager' is the opposite, while 'Cheerful' and 'Fearless' describe different qualities.",
+    "tags": ["synonym"]
+  },
+  {
+    "id": "VOC-M-002",
+    "question": "Choose the word opposite in meaning to 'Expand'.",
+    "options": [
+      "Increase",
+      "Stretch",
+      "Contract",
+      "Enlarge"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Expand' means to become larger or more extensive. The opposite is 'Contract', which means to become smaller or shrink. The other choices all indicate growth or enlargement.",
+    "tags": ["antonym"]
+  },
+  {
+    "id": "VOC-M-003",
+    "question": "Choose the word closest in meaning to 'Diligent'.",
+    "options": [
+      "Lazy",
+      "Careless",
+      "Hardworking",
+      "Forgetful"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Diligent' describes someone who works carefully, consistently, and with great effort. 'Hardworking' is the best synonym. The other options describe opposite or unrelated traits.",
+    "tags": ["synonym"]
+  },
+  {
+    "id": "VOC-M-004",
+    "question": "Choose the word opposite in meaning to 'Scarce'.",
+    "options": [
+      "Rare",
+      "Limited",
+      "Abundant",
+      "Small"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Scarce' means existing in small amounts or difficult to find. The opposite is 'Abundant', meaning existing in large quantities. 'Rare' is similar to scarce, while 'Limited' also suggests a shortage.",
+    "tags": ["antonym"]
+  },
+  {
+    "id": "VOC-M-005",
+    "question": "Choose the word closest in meaning to 'Obtain'.",
+    "options": [
+      "Acquire",
+      "Lose",
+      "Destroy",
+      "Reject"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Obtain' means to get or acquire something through effort or request. 'Acquire' is the closest synonym. The remaining choices have meanings opposite or unrelated to obtaining something.",
+    "tags": ["synonym"]
+  },
+  {
+    "id": "VOC-M-006",
+    "question": "Choose the word opposite in meaning to 'Generous'.",
+    "options": [
+      "Helpful",
+      "Selfish",
+      "Friendly",
+      "Kind"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Generous' means willing to give or share freely. 'Selfish' is its opposite because it describes someone concerned primarily with their own interests. The other choices are generally positive traits similar to generosity.",
+    "tags": ["antonym"]
+  },
+  {
+    "id": "VOC-M-007",
+    "question": "Choose the word closest in meaning to 'Accurate'.",
+    "options": [
+      "Correct",
+      "Confusing",
+      "Incorrect",
+      "Random"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Accurate' means free from mistakes or errors. 'Correct' has the closest meaning. The remaining options describe the opposite or unrelated concepts.",
+    "tags": ["synonym"]
+  },
+  {
+    "id": "VOC-M-008",
+    "question": "Choose the word opposite in meaning to 'Permanent'.",
+    "options": [
+      "Enduring",
+      "Temporary",
+      "Lasting",
+      "Constant"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Permanent' means lasting forever or for a very long time. 'Temporary' means existing for only a limited period and is therefore the correct opposite.",
+    "tags": ["antonym"]
+  },
+  {
+    "id": "VOC-M-009",
+    "question": "Choose the word closest in meaning to 'Reject'.",
+    "options": [
+      "Accept",
+      "Approve",
+      "Refuse",
+      "Support"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Reject' means to refuse to accept, consider, or approve something. 'Refuse' is the closest synonym. 'Accept' and 'Approve' are opposite in meaning.",
+    "tags": ["synonym"]
+  },
+  {
+    "id": "VOC-M-010",
+    "question": "Choose the word opposite in meaning to 'Optimistic'.",
+    "options": [
+      "Positive",
+      "Hopeful",
+      "Confident",
+      "Pessimistic"
+    ],
+    "correctAnswer": 3,
+    "explanation": "'Optimistic' means expecting good outcomes or having a positive outlook. 'Pessimistic' means expecting negative outcomes and is the direct opposite. The other choices all express positive attitudes similar to optimism.",
+    "tags": ["antonym"]
+  },
+  {
+    "id": "VOC-M-011",
+    "question": "Choose the word that is closest in meaning to 'Conceal'.",
+    "options": [
+      "Hide",
+      "Reveal",
+      "Display",
+      "Expose"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Conceal' means to keep something from being seen or known. 'Hide' is the closest synonym. 'Reveal', 'Display', and 'Expose' all mean to make something visible or known, making them opposites.",
+    "tags": ["synonym"]
+  },
+  {
+    "id": "VOC-M-012",
+    "question": "Choose the word opposite in meaning to 'Fragile'.",
+    "options": [
+      "Weak",
+      "Delicate",
+      "Sturdy",
+      "Breakable"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Fragile' describes something easily broken or damaged. 'Sturdy' means strong, solid, and not easily broken, making it the correct opposite.",
+    "tags": ["antonym"]
+  },
+  {
+    "id": "VOC-M-013",
+    "question": "Choose the word that is closest in meaning to 'Abandon'.",
+    "options": [
+      "Leave",
+      "Protect",
+      "Guard",
+      "Recover"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Abandon' means to leave behind permanently or give up completely. 'Leave' is the closest synonym. The remaining choices imply keeping or recovering something rather than giving it up.",
+    "tags": ["synonym"]
+  },
+  {
+    "id": "VOC-M-014",
+    "question": "Choose the word opposite in meaning to 'Artificial'.",
+    "options": [
+      "Synthetic",
+      "Natural",
+      "Imitation",
+      "Plastic"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Artificial' refers to something made by humans rather than occurring naturally. 'Natural' is its direct opposite. The other options describe things that are also man-made.",
+    "tags": ["antonym"]
+  },
+  {
+    "id": "VOC-M-015",
+    "question": "Choose the word that is closest in meaning to 'Vivid'.",
+    "options": [
+      "Bright",
+      "Dull",
+      "Weak",
+      "Ordinary"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Vivid' means producing clear, powerful, or detailed images in the mind. 'Bright' best captures this meaning. The remaining options suggest the absence of intensity or clarity.",
+    "tags": ["synonym"]
+  },
+  {
+    "id": "VOC-M-016",
+    "question": "Choose the word opposite in meaning to 'Ancient'.",
+    "options": [
+      "Historic",
+      "Traditional",
+      "Modern",
+      "Primitive"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Ancient' means belonging to the distant past. 'Modern' refers to the present or recent times and is therefore the correct opposite.",
+    "tags": ["antonym"]
+  },
+  {
+    "id": "VOC-M-017",
+    "question": "Choose the word that is closest in meaning to 'Modify'.",
+    "options": [
+      "Change",
+      "Destroy",
+      "Ignore",
+      "Preserve"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Modify' means to change something partially in order to improve it or make it suitable for a purpose. 'Change' is the closest synonym. The other options do not convey the idea of alteration.",
+    "tags": ["synonym"]
+  },
+  {
+    "id": "VOC-M-018",
+    "question": "Choose the word opposite in meaning to 'Accept'.",
+    "options": [
+      "Receive",
+      "Welcome",
+      "Reject",
+      "Approve"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Accept' means to receive willingly or agree to something. 'Reject' means to refuse or decline, making it the direct opposite.",
+    "tags": ["antonym"]
+  },
+  {
+    "id": "VOC-M-019",
+    "question": "Choose the word that is closest in meaning to 'Essential'.",
+    "options": [
+      "Necessary",
+      "Optional",
+      "Minor",
+      "Unimportant"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Essential' means absolutely necessary or extremely important. 'Necessary' is the closest synonym. The remaining choices indicate something that is not required or not significant.",
+    "tags": ["synonym"]
+  },
+  {
+    "id": "VOC-M-020",
+    "question": "Choose the word opposite in meaning to 'Permanent'.",
+    "options": [
+      "Enduring",
+      "Stable",
+      "Temporary",
+      "Constant"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Permanent' means lasting indefinitely or for a very long time. 'Temporary' means lasting only for a limited period and is therefore the correct opposite.",
+    "tags": ["antonym"]
+  },
+  {
+    "id": "VOC-M-021",
+    "question": "Choose the word that is closest in meaning to 'Coherent'.",
+    "options": [
+      "Logical",
+      "Confusing",
+      "Random",
+      "Broken"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Coherent' means clear, logical, and well-organized. A coherent paragraph presents ideas in a logical sequence that is easy to understand. 'Logical' is the closest synonym.",
+    "tags": ["synonym"]
+  },
+  {
+    "id": "VOC-M-022",
+    "question": "Choose the word opposite in meaning to 'Scarcity'.",
+    "options": [
+      "Poverty",
+      "Need",
+      "Abundance",
+      "Deficiency"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Scarcity' means a shortage or limited supply. 'Abundance' means a plentiful or large quantity, making it the correct opposite.",
+    "tags": ["antonym"]
+  },
+  {
+    "id": "VOC-M-023",
+    "question": "Choose the word that is closest in meaning to 'Feasible'.",
+    "options": [
+      "Possible",
+      "Impossible",
+      "Dangerous",
+      "Uncertain"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Feasible' means capable of being done successfully or realistically. 'Possible' best matches this meaning.",
+    "tags": ["synonym"]
+  },
+  {
+    "id": "VOC-M-024",
+    "question": "Choose the word opposite in meaning to 'Hostile'.",
+    "options": [
+      "Aggressive",
+      "Friendly",
+      "Angry",
+      "Cruel"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Hostile' means unfriendly or antagonistic. 'Friendly' is its direct opposite.",
+    "tags": ["antonym"]
+  },
+  {
+    "id": "VOC-M-025",
+    "question": "Choose the word that is closest in meaning to 'Explicit'.",
+    "options": [
+      "Clear",
+      "Hidden",
+      "Doubtful",
+      "Confusing"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Explicit' means stated clearly and in detail, leaving no room for confusion. 'Clear' is the closest synonym.",
+    "tags": ["synonym"]
+  },
+  {
+    "id": "VOC-M-026",
+    "question": "Choose the word opposite in meaning to 'Generous'.",
+    "options": [
+      "Kind",
+      "Helpful",
+      "Selfish",
+      "Considerate"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Generous' refers to someone willing to give or share freely. 'Selfish' describes someone who is primarily concerned with personal interests and is therefore the opposite.",
+    "tags": ["antonym"]
+  },
+  {
+    "id": "VOC-M-027",
+    "question": "Choose the word that is closest in meaning to 'Prudent'.",
+    "options": [
+      "Wise",
+      "Reckless",
+      "Careless",
+      "Impulsive"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Prudent' means acting with wisdom, caution, and good judgment. 'Wise' is the closest synonym, while the other options describe poor decision-making.",
+    "tags": ["synonym"]
+  },
+  {
+    "id": "VOC-M-028",
+    "question": "Choose the word opposite in meaning to 'Permanent'.",
+    "options": [
+      "Enduring",
+      "Lasting",
+      "Temporary",
+      "Stable"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Permanent' means lasting indefinitely. 'Temporary' means existing only for a limited period, making it the opposite.",
+    "tags": ["antonym"]
+  },
+  {
+    "id": "VOC-M-029",
+    "question": "Choose the word that is closest in meaning to 'Versatile'.",
+    "options": [
+      "Flexible",
+      "Rigid",
+      "Limited",
+      "Ordinary"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Versatile' describes someone or something capable of adapting to many different functions or activities. 'Flexible' best captures this meaning.",
+    "tags": ["synonym"]
+  },
+  {
+    "id": "VOC-M-030",
+    "question": "Choose the word opposite in meaning to 'Ambiguous'.",
+    "options": [
+      "Uncertain",
+      "Confusing",
+      "Clear",
+      "Vague"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Ambiguous' means open to more than one interpretation or not clear. 'Clear' is the correct opposite because it conveys a definite and easily understood meaning.",
+    "tags": ["antonym"]
+  },
+  {
+    "id": "VOC-M-031",
+    "question": "Choose the word that is closest in meaning to 'Allocate'.",
+    "options": [
+      "Distribute",
+      "Collect",
+      "Destroy",
+      "Hide"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Allocate' means to distribute or assign resources, responsibilities, or funds for a particular purpose. For example, a government may allocate a budget for education. 'Distribute' is the closest synonym. The other choices describe actions that are unrelated to assigning or setting aside resources.",
+    "tags": ["synonym"]
+  },
+  {
+    "id": "VOC-M-032",
+    "question": "Choose the word opposite in meaning to 'Approve'.",
+    "options": [
+      "Support",
+      "Accept",
+      "Reject",
+      "Recommend"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Approve' means to officially agree with or accept something as satisfactory. The opposite is 'Reject', which means to refuse, decline, or disapprove. The remaining options all indicate agreement or support rather than opposition.",
+    "tags": ["antonym"]
+  },
+  {
+    "id": "VOC-M-033",
+    "question": "Choose the word that is closest in meaning to 'Reliable'.",
+    "options": [
+      "Dependable",
+      "Careless",
+      "Uncertain",
+      "Weak"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Reliable' describes someone or something that can be trusted to perform consistently and accurately. 'Dependable' is the closest synonym because both emphasize trustworthiness and consistency. The remaining options do not express these qualities.",
+    "tags": ["synonym"]
+  },
+  {
+    "id": "VOC-M-034",
+    "question": "Choose the word opposite in meaning to 'Increase'.",
+    "options": [
+      "Expand",
+      "Multiply",
+      "Reduce",
+      "Develop"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Increase' means to become larger in amount, size, or number. The opposite is 'Reduce', which means to make something smaller or less. 'Expand' and 'Multiply' also indicate growth, while 'Develop' refers to improvement or progress rather than a direct opposite.",
+    "tags": ["antonym"]
+  },
+  {
+    "id": "VOC-M-035",
+    "question": "Choose the word that is closest in meaning to 'Competent'.",
+    "options": [
+      "Skilled",
+      "Careless",
+      "Ignorant",
+      "Inexperienced"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Competent' means having the necessary ability, knowledge, or skill to perform a task successfully. 'Skilled' is the closest synonym because both describe someone who performs work effectively through ability and experience. The other choices describe a lack of ability or knowledge.",
+    "tags": ["synonym"]
+  }
+]
