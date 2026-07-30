@@ -1,0 +1,249 @@
+[
+   {
+      "id":"ALG-M-001",
+      "question":"Solve for x:\n\n3x + 5 = 26",
+      "options":[
+         "5",
+         "6",
+         "7",
+         "8"
+      ],
+      "correctAnswer":2,
+      "explanation":"Subtract 5 from both sides: 3x = 21. Then divide both sides by 3: x = 7.",
+      "tags":[
+         "basic-algebra",
+         "two-step-equation"
+      ]
+   },
+   {
+      "id":"ALG-M-002",
+      "question":"If 4a - 3 = 17, what is the value of 2a?",
+      "options":[
+         "8",
+         "9",
+         "10",
+         "11"
+      ],
+      "correctAnswer":2,
+      "explanation":"Solve for a first: 4a - 3 = 17 → 4a = 20 → a = 5. Therefore, 2a = 2 × 5 = 10.",
+      "tags":[
+         "basic-algebra",
+         "linear-equation",
+         "expression-evaluation"
+      ]
+   },
+   {
+      "id":"ALG-M-003",
+      "question":"Simplify the expression:\n\n5x - 2x + 7",
+      "options":[
+         "3x + 5",
+         "3x + 7",
+         "7x - 2",
+         "5x + 7"
+      ],
+      "correctAnswer":1,
+      "explanation":"Combine like terms: 5x - 2x = 3x. The simplified expression is 3x + 7.",
+      "tags":[
+         "basic-algebra",
+         "combining-like-terms"
+      ]
+   },
+   {
+      "id":"ALG-M-004",
+      "question":"Solve for x:\n\n5x - 8 = 27",
+      "options":[
+         "5",
+         "6",
+         "7",
+         "8"
+      ],
+      "correctAnswer":2,
+      "explanation":"Add 8 to both sides: 5x = 35. Divide both sides by 5: x = 7.",
+      "tags":[
+         "basic-algebra",
+         "two-step-equation"
+      ]
+   },
+   {
+      "id":"ALG-M-005",
+      "question":"If x = 4 and y = 7, what is the value of 3x + 2y?",
+      "options":[
+         "24",
+         "25",
+         "26",
+         "27"
+      ],
+      "correctAnswer":2,
+      "explanation":"Substitute the given values: 3(4) + 2(7) = 12 + 14 = 26.",
+      "tags":[
+         "basic-algebra",
+         "substitution",
+         "expression-evaluation"
+      ]
+   },
+   {
+      "id":"ALG-M-006",
+      "question":"Simplify the expression:\n\n4a + 3 - 2a + 5",
+      "options":[
+         "2a + 8",
+         "6a + 2",
+         "2a + 2",
+         "6a + 8"
+      ],
+      "correctAnswer":0,
+      "explanation":"Combine like terms: 4a - 2a = 2a and 3 + 5 = 8. Therefore, the simplified expression is 2a + 8.",
+      "tags":[
+         "basic-algebra",
+         "combining-like-terms"
+      ]
+   },
+   {
+      "id":"ALG-M-007",
+      "question":"Solve for x:\n\n2(x + 4) = 18",
+      "options":[
+         "4",
+         "5",
+         "6",
+         "7"
+      ],
+      "correctAnswer":1,
+      "explanation":"Divide both sides by 2: x + 4 = 9. Then subtract 4 from both sides: x = 5.",
+      "tags":[
+         "basic-algebra",
+         "two-step-equation",
+         "distributive-property"
+      ]
+   },
+   {
+      "id":"ALG-M-008",
+      "question":"If 3a = 18 and 2b = 14, what is the value of a + b?",
+      "options":[
+         "11",
+         "12",
+         "13",
+         "14"
+      ],
+      "correctAnswer":2,
+      "explanation":"Solve each equation separately: a = 18 ÷ 3 = 6 and b = 14 ÷ 2 = 7. Therefore, a + b = 6 + 7 = 13.",
+      "tags":[
+         "basic-algebra",
+         "linear-equation",
+         "substitution"
+      ]
+   },
+   {
+      "id":"ALG-M-009",
+      "question":"Simplify the expression:\n\n7x - 3 + 2x + 5",
+      "options":[
+         "9x + 2",
+         "5x + 8",
+         "9x - 8",
+         "5x + 2"
+      ],
+      "correctAnswer":0,
+      "explanation":"Combine like terms: 7x + 2x = 9x and -3 + 5 = 2. Therefore, the simplified expression is 9x + 2.",
+      "tags":[
+         "basic-algebra",
+         "combining-like-terms"
+      ]
+   },
+   {
+      "id":"ALG-M-010",
+      "question":"Solve for x:\n\n4x - 7 = 21",
+      "options":[
+         "6",
+         "7",
+         "8",
+         "9"
+      ],
+      "correctAnswer":1,
+      "explanation":"Add 7 to both sides: 4x = 28. Divide both sides by 4: x = 7.",
+      "tags":[
+         "basic-algebra",
+         "two-step-equation"
+      ]
+   },
+   {
+      "id":"ALG-M-011",
+      "question":"If 2m + 5 = 17, what is the value of 3m?",
+      "options":[
+         "15",
+         "18",
+         "21",
+         "24"
+      ],
+      "correctAnswer":1,
+      "explanation":"Solve for m first: 2m + 5 = 17 → 2m = 12 → m = 6. Then compute 3m = 3 × 6 = 18.",
+      "tags":[
+         "basic-algebra",
+         "linear-equation",
+         "expression-evaluation"
+      ]
+   },
+   {
+      "id":"ALG-M-012",
+      "question":"Simplify the expression:\n\n6y - 4 + y + 9",
+      "options":[
+         "6y + 5",
+         "7y + 13",
+         "7y + 5",
+         "5y + 13"
+      ],
+      "correctAnswer":2,
+      "explanation":"Combine like terms: 6y + y = 7y and -4 + 9 = 5. Therefore, the simplified expression is 7y + 5.",
+      "tags":[
+         "basic-algebra",
+         "combining-like-terms"
+      ]
+   },
+   {
+      "id":"ALG-M-013",
+      "question":"Solve for x:\n\n3(x - 2) = 21",
+      "options":[
+         "7",
+         "8",
+         "9",
+         "10"
+      ],
+      "correctAnswer":2,
+      "explanation":"Divide both sides by 3: x - 2 = 7. Then add 2 to both sides: x = 9.",
+      "tags":[
+         "basic-algebra",
+         "linear-equation",
+         "distributive-property"
+      ]
+   },
+   {
+      "id":"ALG-M-014",
+      "question":"If x = 5 and y = 3, what is the value of 2x + 4y - 1?",
+      "options":[
+         "19",
+         "20",
+         "21",
+         "22"
+      ],
+      "correctAnswer":2,
+      "explanation":"Substitute the given values: 2(5) + 4(3) - 1 = 10 + 12 - 1 = 21.",
+      "tags":[
+         "basic-algebra",
+         "substitution",
+         "expression-evaluation"
+      ]
+   },
+   {
+      "id":"ALG-M-015",
+      "question":"Simplify the expression:\n\n8a - 5 - 3a + 2",
+      "options":[
+         "5a - 7",
+         "5a - 3",
+         "11a - 3",
+         "11a - 7"
+      ],
+      "correctAnswer":1,
+      "explanation":"Combine like terms: 8a - 3a = 5a and -5 + 2 = -3. Therefore, the simplified expression is 5a - 3.",
+      "tags":[
+         "basic-algebra",
+         "combining-like-terms"
+      ]
+   }
+]

@@ -1,0 +1,252 @@
+[
+   {
+      "id":"AVG-M-001",
+      "question":"The average of 6 numbers is 42. If one number is removed, the average of the remaining 5 numbers becomes 40. What was the removed number?",
+      "options":[
+         "42",
+         "48",
+         "52",
+         "62"
+      ],
+      "correctAnswer":3,
+      "explanation":"The total of the 6 numbers is 42 × 6 = 252. The total of the remaining 5 numbers is 40 × 5 = 200. The removed number is 252 − 200 = 52.",
+      "tags":[
+         "average",
+         "missing value",
+         "change in average"
+      ]
+   },
+   {
+      "id":"AVG-M-002",
+      "question":"The average score of 8 students is 75. If a ninth student joins the group and the new average becomes 78, what is the score of the ninth student?",
+      "options":[
+         "90",
+         "96",
+         "102",
+         "108"
+      ],
+      "correctAnswer":2,
+      "explanation":"The total score of the first 8 students is 75 × 8 = 600. The total score of 9 students is 78 × 9 = 702. The ninth student's score is 702 − 600 = 102.",
+      "tags":[
+         "average",
+         "new average",
+         "missing value"
+      ]
+   },
+   {
+      "id":"AVG-M-003",
+      "question":"The average monthly electricity bill of a family for 4 months is ₱2,400. If the bills for the first three months were ₱2,100, ₱2,300, and ₱2,500, how much was the bill for the fourth month?",
+      "options":[
+         "₱2,500",
+         "₱2,600",
+         "₱2,700",
+         "₱2,800"
+      ],
+      "correctAnswer":2,
+      "explanation":"The total bill for 4 months is ₱2,400 × 4 = ₱9,600. The first three months total ₱2,100 + ₱2,300 + ₱2,500 = ₱6,900. The fourth month was ₱9,600 − ₱6,900 = ₱2,700.",
+      "tags":[
+         "average",
+         "word problems",
+         "missing value"
+      ]
+   },
+   {
+      "id":"AVG-M-004",
+      "question":"The average age of 5 employees is 34 years. If another employee aged 40 years joins the group, what is the new average age?",
+      "options":[
+         "34 years",
+         "35 years",
+         "36 years",
+         "37 years"
+      ],
+      "correctAnswer":1,
+      "explanation":"The total age of the first 5 employees is 34 × 5 = 170 years. Add the new employee's age: 170 + 40 = 210 years. Divide by 6 employees: 210 ÷ 6 = 35 years.",
+      "tags":[
+         "average",
+         "new average"
+      ]
+   },
+   {
+      "id":"AVG-M-005",
+      "question":"The average score of a team in five games is 84 points. In the first four games, the team scored 78, 82, 90, and 86 points. What was the team's score in the fifth game?",
+      "options":[
+         "80",
+         "82",
+         "84",
+         "88"
+      ],
+      "correctAnswer":2,
+      "explanation":"The total score for five games is 84 × 5 = 420. The first four games total 78 + 82 + 90 + 86 = 336. The fifth game score is 420 − 336 = 84.",
+      "tags":[
+         "average",
+         "missing value",
+         "sports scores"
+      ]
+   },
+   {
+      "id":"AVG-M-006",
+      "question":"The average of 7 numbers is 56. If six of the numbers have a total of 300, what is the value of the seventh number?",
+      "options":[
+         "82",
+         "86",
+         "92",
+         "96"
+      ],
+      "correctAnswer":2,
+      "explanation":"The total value of the 7 numbers is 56 × 7 = 392. The total of the six numbers is 300. The seventh number is 392 − 300 = 92.",
+      "tags":[
+         "average",
+         "missing value"
+      ]
+   },
+   {
+      "id":"AVG-M-007",
+      "question":"The average production of a factory for 5 days is 240 units per day. If the factory produced 280 units on the sixth day, what is the average production for all 6 days?",
+      "options":[
+         "240 units",
+         "245 units",
+         "246.67 units",
+         "250 units"
+      ],
+      "correctAnswer":2,
+      "explanation":"The total production for the first 5 days is 240 × 5 = 1,200 units. Add the sixth day production: 1,200 + 280 = 1,480 units. Divide by 6 days: 1,480 ÷ 6 = 246.67 units.",
+      "tags":[
+         "average",
+         "new average",
+         "word problems"
+      ]
+   },
+   {
+      "id":"AVG-M-008",
+      "question":"The average score of 10 players is 68 points. If the highest scorer with 95 points leaves the group, what is the new average score of the remaining players?",
+      "options":[
+         "64",
+         "65",
+         "66",
+         "67"
+      ],
+      "correctAnswer":1,
+      "explanation":"The total score of 10 players is 68 × 10 = 680. Subtract the highest score: 680 − 95 = 585. Divide by the remaining 9 players: 585 ÷ 9 = 65.",
+      "tags":[
+         "average",
+         "removing value"
+      ]
+   },
+   {
+      "id":"AVG-M-009",
+      "question":"The average temperature for 4 days was 30°C. If the temperatures on the first three days were 28°C, 32°C, and 31°C, what was the temperature on the fourth day?",
+      "options":[
+         "27°C",
+         "28°C",
+         "29°C",
+         "30°C"
+      ],
+      "correctAnswer":2,
+      "explanation":"The total temperature for 4 days is 30 × 4 = 120°C. The first three days total 28 + 32 + 31 = 91°C. The fourth day temperature was 120 − 91 = 29°C.",
+      "tags":[
+         "average",
+         "missing value",
+         "word problems"
+      ]
+   },
+   {
+      "id":"AVG-M-010",
+      "question":"The average salary of 8 employees is ₱22,500. If two employees earning ₱20,000 and ₱24,000 leave the company, what is the average salary of the remaining employees?",
+      "options":[
+         "₱22,000",
+         "₱22,166.67",
+         "₱22,500",
+         "₱22,666.67"
+      ],
+      "correctAnswer":1,
+      "explanation":"The total salary of 8 employees is ₱22,500 × 8 = ₱180,000. The removed salaries total ₱20,000 + ₱24,000 = ₱44,000. The remaining salary total is ₱136,000. Divide by the remaining 6 employees: ₱136,000 ÷ 6 = ₱22,666.67.",
+      "tags":[
+         "average",
+         "removing values",
+         "salary"
+      ]
+   },
+   {
+      "id":"AVG-M-011",
+      "question":"The average score of 12 students in an examination is 82. If the average score of 8 students is 78, what is the average score of the remaining 4 students?",
+      "options":[
+         "86",
+         "88",
+         "90",
+         "92"
+      ],
+      "correctAnswer":1,
+      "explanation":"The total score of 12 students is 82 × 12 = 984. The total score of 8 students is 78 × 8 = 624. The remaining 4 students scored 984 − 624 = 360. Their average is 360 ÷ 4 = 90.",
+      "tags":[
+         "average",
+         "group average",
+         "missing average"
+      ]
+   },
+   {
+      "id":"AVG-M-012",
+      "question":"A company has 15 employees with an average monthly salary of ₱28,000. If 5 new employees with an average salary of ₱24,000 are hired, what is the new average salary of all employees?",
+      "options":[
+         "₱26,500",
+         "₱26,666.67",
+         "₱27,000",
+         "₱27,333.33"
+      ],
+      "correctAnswer":2,
+      "explanation":"The total salary of the original employees is ₱28,000 × 15 = ₱420,000. The total salary of the new employees is ₱24,000 × 5 = ₱120,000. Combined salary is ₱540,000. Divide by 20 employees: ₱540,000 ÷ 20 = ₱27,000.",
+      "tags":[
+         "average",
+         "combined average",
+         "salary"
+      ]
+   },
+   {
+      "id":"AVG-M-013",
+      "question":"The average number of pages read by a student in 6 days is 45 pages. If the student reads 66 pages on the seventh day, what is the new average number of pages read per day?",
+      "options":[
+         "46 pages",
+         "47 pages",
+         "48 pages",
+         "49 pages"
+      ],
+      "correctAnswer":2,
+      "explanation":"The total pages read in 6 days is 45 × 6 = 270 pages. Add the seventh day: 270 + 66 = 336 pages. Divide by 7 days: 336 ÷ 7 = 48 pages.",
+      "tags":[
+         "average",
+         "new average"
+      ]
+   },
+   {
+      "id":"AVG-M-014",
+      "question":"The average weight of 9 boxes is 25 kilograms. If one box weighing 33 kilograms is removed, what is the average weight of the remaining boxes?",
+      "options":[
+         "23 kilograms",
+         "24 kilograms",
+         "25 kilograms",
+         "26 kilograms"
+      ],
+      "correctAnswer":1,
+      "explanation":"The total weight of 9 boxes is 25 × 9 = 225 kilograms. Remove the 33-kilogram box: 225 − 33 = 192 kilograms. Divide by the remaining 8 boxes: 192 ÷ 8 = 24 kilograms.",
+      "tags":[
+         "average",
+         "removing value"
+      ]
+   },
+   {
+      "id":"AVG-M-015",
+      "question":"The average age of a group of 6 people is 28 years. When another person joins the group, the average becomes 30 years. How old is the new member?",
+      "options":[
+         "36 years",
+         "40 years",
+         "42 years",
+         "44 years"
+      ],
+      "correctAnswer":2,
+      "explanation":"The total age of the first 6 people is 28 × 6 = 168 years. The total age of 7 people is 30 × 7 = 210 years. The new member's age is 210 − 168 = 42 years.",
+      "tags":[
+         "average",
+         "new average",
+         "missing value"
+      ]
+   }
+]

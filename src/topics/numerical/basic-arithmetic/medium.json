@@ -1,0 +1,243 @@
+[
+   {
+      "id":"BA-M-001",
+      "question":"Evaluate: (48 ÷ 6) × 9 − 14",
+      "options":[
+         "48",
+         "56",
+         "58",
+         "60"
+      ],
+      "correctAnswer":2,
+      "explanation":"Apply the order of operations. First, 48 ÷ 6 = 8. Then 8 × 9 = 72. Finally, 72 − 14 = 58.",
+      "tags":[
+         "order of operations",
+         "mixed operations"
+      ]
+   },
+   {
+      "id":"BA-M-002",
+      "question":"A shirt originally costs ₱800 and is discounted by 15%. What is the sale price?",
+      "options":[
+         "₱660",
+         "₱670",
+         "₱680",
+         "₱690"
+      ],
+      "correctAnswer":2,
+      "explanation":"Find 15% of ₱800: 0.15 × 800 = ₱120. Subtract the discount from the original price: ₱800 − ₱120 = ₱680.",
+      "tags":[
+         "percentage",
+         "discount"
+      ]
+   },
+   {
+      "id":"BA-M-003",
+      "question":"A recipe requires 3/4 cup of sugar. How much sugar is needed for 4 batches?",
+      "options":[
+         "2 cups",
+         "2 1/2 cups",
+         "3 cups",
+         "3 1/4 cups"
+      ],
+      "correctAnswer":2,
+      "explanation":"Multiply: 3/4 × 4 = 12/4 = 3 cups.",
+      "tags":[
+         "fractions",
+         "multiplication"
+      ]
+   },
+   {
+      "id":"BA-M-004",
+      "question":"The average of five numbers is 24. What is the sum of the five numbers?",
+      "options":[
+         "96",
+         "110",
+         "120",
+         "125"
+      ],
+      "correctAnswer":2,
+      "explanation":"Average = Sum ÷ Number of Values. Therefore, Sum = 24 × 5 = 120.",
+      "tags":[
+         "average",
+         "mean"
+      ]
+   },
+   {
+      "id":"BA-M-005",
+      "question":"A classroom has boys and girls in the ratio 3:5. If there are 40 students in all, how many are boys?",
+      "options":[
+         "12",
+         "15",
+         "18",
+         "20"
+      ],
+      "correctAnswer":1,
+      "explanation":"The total number of parts is 3 + 5 = 8. Each part represents 40 ÷ 8 = 5 students. Boys = 3 × 5 = 15.",
+      "tags":[
+         "ratio",
+         "word problems"
+      ]
+   },
+   {
+      "id":"BA-M-006",
+      "question":"A bank pays simple interest of 5% per year. How much interest will ₱4,000 earn in 3 years?",
+      "options":[
+         "₱500",
+         "₱550",
+         "₱600",
+         "₱650"
+      ],
+      "correctAnswer":2,
+      "explanation":"Use the simple interest formula: Interest = Principal × Rate × Time. Therefore, ₱4,000 × 0.05 × 3 = ₱600.",
+      "tags":[
+         "simple interest",
+         "financial arithmetic"
+      ]
+   },
+   {
+      "id":"BA-M-007",
+      "question":"What is the value of 18.6 ÷ 3?",
+      "options":[
+         "6.2",
+         "6.4",
+         "6.6",
+         "7.2"
+      ],
+      "correctAnswer":0,
+      "explanation":"Divide the decimal normally: 18.6 ÷ 3 = 6.2.",
+      "tags":[
+         "decimals",
+         "division"
+      ]
+   },
+   {
+      "id":"BA-M-008",
+      "question":"A television costs ₱12,500. A buyer pays a down payment of 20%. How much is the down payment?",
+      "options":[
+         "₱2,000",
+         "₱2,250",
+         "₱2,500",
+         "₱3,000"
+      ],
+      "correctAnswer":2,
+      "explanation":"Find 20% of ₱12,500: 0.20 × 12,500 = ₱2,500.",
+      "tags":[
+         "percentage",
+         "word problems"
+      ]
+   },
+   {
+      "id":"BA-M-009",
+      "question":"What is 5/6 of 48?",
+      "options":[
+         "36",
+         "38",
+         "40",
+         "42"
+      ],
+      "correctAnswer":2,
+      "explanation":"Multiply: (5/6) × 48 = 5 × 8 = 40.",
+      "tags":[
+         "fractions",
+         "multiplication"
+      ]
+   },
+   {
+      "id":"BA-M-010",
+      "question":"A worker earns ₱650 per day. If he works for 12 days, how much will he earn?",
+      "options":[
+         "₱7,200",
+         "₱7,500",
+         "₱7,800",
+         "₱8,000"
+      ],
+      "correctAnswer":2,
+      "explanation":"Multiply the daily wage by the number of days: ₱650 × 12 = ₱7,800.",
+      "tags":[
+         "multiplication",
+         "word problems"
+      ]
+   },
+   {
+      "id":"BA-M-011",
+      "question":"A store offers a 25% discount on a bag originally priced at ₱960. How much will the customer pay after the discount?",
+      "options":[
+         "₱700",
+         "₱710",
+         "₱720",
+         "₱730"
+      ],
+      "correctAnswer":2,
+      "explanation":"First, find the discount: 25% of ₱960 = 0.25 × 960 = ₱240. Then subtract the discount from the original price: ₱960 − ₱240 = ₱720.",
+      "tags":[
+         "discount",
+         "percentage",
+         "word problems"
+      ]
+   },
+   {
+      "id":"BA-M-012",
+      "question":"A water tank contains 240 liters of water. If 35 liters are used, how many liters remain?",
+      "options":[
+         "195",
+         "200",
+         "205",
+         "215"
+      ],
+      "correctAnswer":2,
+      "explanation":"Subtract the amount used from the original amount: 240 − 35 = 205 liters.",
+      "tags":[
+         "subtraction",
+         "word problems"
+      ]
+   },
+   {
+      "id":"BA-M-013",
+      "question":"A class has 24 boys and 16 girls. What percentage of the class are girls?",
+      "options":[
+         "35%",
+         "40%",
+         "45%",
+         "50%"
+      ],
+      "correctAnswer":1,
+      "explanation":"Total students = 24 + 16 = 40. Girls = 16. Percentage = (16 ÷ 40) × 100 = 40%.",
+      "tags":[
+         "percentage",
+         "word problems"
+      ]
+   },
+   {
+      "id":"BA-M-014",
+      "question":"What is the value of (45 + 27) ÷ 8?",
+      "options":[
+         "8",
+         "8.5",
+         "9",
+         "9.5"
+      ],
+      "correctAnswer":2,
+      "explanation":"Add first: 45 + 27 = 72. Then divide: 72 ÷ 8 = 9.",
+      "tags":[
+         "order of operations",
+         "division"
+      ]
+   },
+   {
+      "id":"BA-M-015",
+      "question":"A school purchased 18 boxes of paper, with each box containing 250 sheets. How many sheets of paper were purchased in all?",
+      "options":[
+         "4,000",
+         "4,250",
+         "4,500",
+         "4,750"
+      ],
+      "correctAnswer":2,
+      "explanation":"Multiply the number of boxes by the number of sheets per box: 18 × 250 = 4,500 sheets.",
+      "tags":[
+         "multiplication",
+         "word problems"
+      ]
+   }
+]

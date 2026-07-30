@@ -1,0 +1,257 @@
+[
+   {
+      "id":"DEC-H-001",
+      "question":"A company bought 48.5 meters of cable at ₱125.75 per meter. If the company paid ₱1,500.00 as an initial payment, how much balance remains?",
+      "options":[
+         "₱4,498.88",
+         "₱4,598.88",
+         "₱4,698.88",
+         "₱4,798.88"
+      ],
+      "correctAnswer":1,
+      "explanation":"Total cost of cable = 48.5 × ₱125.75 = ₱6,098.875, which becomes ₱6,098.88 when rounded to the nearest centavo. Balance = ₱6,098.88 − ₱1,500.00 = ₱4,598.88.",
+      "tags":[
+         "decimals",
+         "money",
+         "multi-step"
+      ]
+   },
+   {
+      "id":"DEC-H-002",
+      "question":"A machine produces 36.75 parts per hour. The machine operates for 8 hours each day for 5 days. How many parts will the machine produce in total?",
+      "options":[
+         "1,270 parts",
+         "1,370 parts",
+         "1,470 parts",
+         "1,570 parts"
+      ],
+      "correctAnswer":2,
+      "explanation":"Total operating hours = 8 × 5 = 40 hours. Total production = 36.75 × 40 = 1,470 parts.",
+      "tags":[
+         "decimals",
+         "multiplication",
+         "rate"
+      ]
+   },
+   {
+      "id":"DEC-H-003",
+      "question":"A warehouse has 1,250.5 kilograms of goods. It shipped 28.4% of the goods on Monday and 17.6% on Tuesday. How many kilograms of goods remained?",
+      "options":[
+         "650.26 kilograms",
+         "675.27 kilograms",
+         "700.28 kilograms",
+         "725.29 kilograms"
+      ],
+      "correctAnswer":1,
+      "explanation":"Total percentage shipped = 28.4% + 17.6% = 46%. Remaining percentage = 54%. Remaining goods = 1,250.5 × 0.54 = 675.27 kilograms.",
+      "tags":[
+         "decimals",
+         "percentage",
+         "multi-step"
+      ]
+   },
+   {
+      "id":"DEC-H-004",
+      "question":"A construction company bought 75.5 meters of steel bars at ₱82.40 per meter. It also bought 24.5 meters of the same material at the same price. How much did the company spend in total?",
+      "options":[
+         "₱8,140.00",
+         "₱8,200.00",
+         "₱8,240.00",
+         "₱8,300.00"
+      ],
+      "correctAnswer":2,
+      "explanation":"Total length purchased = 75.5 + 24.5 = 100 meters. Total cost = 100 × ₱82.40 = ₱8,240.00.",
+      "tags":[
+         "decimals",
+         "money",
+         "multi-step"
+      ]
+   },
+   {
+      "id":"DEC-H-005",
+      "question":"A warehouse contains 2,450.75 kilograms of rice. It ships 685.25 kilograms on Monday and 725.50 kilograms on Tuesday. How many kilograms of rice remain?",
+      "options":[
+         "1,030.00 kilograms",
+         "1,040.00 kilograms",
+         "1,050.00 kilograms",
+         "1,060.00 kilograms"
+      ],
+      "correctAnswer":1,
+      "explanation":"Total rice shipped = 685.25 + 725.50 = 1,410.75 kilograms. Remaining rice = 2,450.75 − 1,410.75 = 1,040.00 kilograms. The correct answer should be option index 1.",
+      "tags":[
+         "decimals",
+         "subtraction",
+         "multi-step"
+      ]
+   },
+   {
+      "id":"DEC-H-006",
+      "question":"A machine produces 48.75 parts every hour. The machine operates 7.5 hours per day for 4 days. How many parts does the machine produce in total?",
+      "options":[
+         "1,462.50 parts",
+         "1,462.75 parts",
+         "1,462.50 parts",
+         "1,472.50 parts"
+      ],
+      "correctAnswer":0,
+      "explanation":"Total operating hours = 7.5 × 4 = 30 hours. Total production = 48.75 × 30 = 1,462.50 parts.",
+      "tags":[
+         "decimals",
+         "multiplication",
+         "rate"
+      ]
+   },
+   {
+      "id":"DEC-H-007",
+      "question":"A company bought 85.5 meters of electrical wire at ₱48.75 per meter. It also bought 64.5 meters of the same wire at ₱48.75 per meter. How much did the company spend in total?",
+      "options":[
+         "₱6,825.00",
+         "₱7,312.50",
+         "₱7,312.75",
+         "₱7,412.50"
+      ],
+      "correctAnswer":1,
+      "explanation":"Total wire length = 85.5 + 64.5 = 150 meters. Total cost = 150 × ₱48.75 = ₱7,312.50.",
+      "tags":[
+         "decimals",
+         "money",
+         "multi-step"
+      ]
+   },
+   {
+      "id":"DEC-H-008",
+      "question":"A warehouse has 4,250.75 kilograms of goods. It sends 1,125.50 kilograms to Branch A and 875.25 kilograms to Branch B. The remaining goods are packed equally into 5 containers. How many kilograms are placed in each container?",
+      "options":[
+         "450.00 kilograms",
+         "460.00 kilograms",
+         "470.00 kilograms",
+         "480.00 kilograms"
+      ],
+      "correctAnswer":0,
+      "explanation":"Total goods sent = 1,125.50 + 875.25 = 2,000.75 kilograms. Remaining goods = 4,250.75 − 2,000.75 = 2,250.00 kilograms. Divide equally: 2,250.00 ÷ 5 = 450.00 kilograms. The correct answer should be option index 0.",
+      "tags":[
+         "decimals",
+         "division",
+         "multi-step"
+      ]
+   },
+   {
+      "id":"DEC-H-009",
+      "question":"A company uses 18.75 liters of fuel each day for 12 days. If fuel costs ₱62.50 per liter, how much does the company spend on fuel?",
+      "options":[
+         "₱13,750.00",
+         "₱14,062.50",
+         "₱14,250.00",
+         "₱14,500.00"
+      ],
+      "correctAnswer":1,
+      "explanation":"Total fuel used = 18.75 × 12 = 225 liters. Total cost = 225 × ₱62.50 = ₱14,062.50.",
+      "tags":[
+         "decimals",
+         "money",
+         "multiplication"
+      ]
+   },
+   {
+      "id":"DEC-H-010",
+      "question":"A factory purchased 125.5 kilograms of raw material at ₱48.00 per kilogram. The factory used 75.5 kilograms for production. How much was the cost of the unused raw material?",
+      "options":[
+         "₱2,000.00",
+         "₱2,250.00",
+         "₱2,400.00",
+         "₱2,500.00"
+      ],
+      "correctAnswer":2,
+      "explanation":"Unused material = 125.5 − 75.5 = 50 kilograms. Cost of unused material = 50 × ₱48.00 = ₱2,400.00.",
+      "tags":[
+         "decimals",
+         "money",
+         "multi-step"
+      ]
+   },
+   {
+      "id":"DEC-H-011",
+      "question":"A machine produces 42.75 units per hour. It operates for 6 hours each day for 5 days. How many units does the machine produce in total?",
+      "options":[
+         "1,252.50 units",
+         "1,282.50 units",
+         "1,302.50 units",
+         "1,342.50 units"
+      ],
+      "correctAnswer":1,
+      "explanation":"Total operating hours = 6 × 5 = 30 hours. Total production = 42.75 × 30 = 1,282.50 units.",
+      "tags":[
+         "decimals",
+         "multiplication",
+         "rate"
+      ]
+   },
+   {
+      "id":"DEC-H-012",
+      "question":"A warehouse has 5,250.75 kilograms of goods. It ships 1,425.25 kilograms to Branch A and 1,325.50 kilograms to Branch B. The remaining goods are divided equally among 5 trucks. How many kilograms does each truck carry?",
+      "options":[
+         "480.00 kilograms",
+         "490.00 kilograms",
+         "500.00 kilograms",
+         "510.00 kilograms"
+      ],
+      "correctAnswer":2,
+      "explanation":"Total shipped = 1,425.25 + 1,325.50 = 2,750.75 kilograms. Remaining goods = 5,250.75 − 2,750.75 = 2,500.00 kilograms. Each truck carries 2,500.00 ÷ 5 = 500.00 kilograms.",
+      "tags":[
+         "decimals",
+         "division",
+         "multi-step"
+      ]
+   },
+   {
+      "id":"DEC-H-013",
+      "question":"A company purchased 245.5 meters of cable. It used 78.75 meters for Project A and 96.25 meters for Project B. The remaining cable was divided equally among 5 teams. How many meters of cable did each team receive?",
+      "options":[
+         "12.50 meters",
+         "14.10 meters",
+         "14.15 meters",
+         "15.25 meters"
+      ],
+      "correctAnswer":1,
+      "explanation":"Total cable used = 78.75 + 96.25 = 175.00 meters. Remaining cable = 245.50 − 175.00 = 70.50 meters. Each team receives 70.50 ÷ 5 = 14.10 meters. The correct answer should be 14.10 meters, which is option index 1.",
+      "tags":[
+         "decimals",
+         "division",
+         "multi-step"
+      ]
+   },
+   {
+      "id":"DEC-H-014",
+      "question":"A supplier delivered 1,850.75 kilograms of goods. The first store received 625.25 kilograms, the second store received 475.50 kilograms, and the remaining goods were divided equally among 3 stores. How many kilograms did each of the 3 stores receive?",
+      "options":[
+         "250.00 kilograms",
+         "300.00 kilograms",
+         "350.00 kilograms",
+         "400.00 kilograms"
+      ],
+      "correctAnswer":0,
+      "explanation":"Goods already delivered to the first two stores = 625.25 + 475.50 = 1,100.75 kilograms. Remaining goods = 1,850.75 − 1,100.75 = 750.00 kilograms. Dividing equally among 3 stores: 750.00 ÷ 3 = 250.00 kilograms. The correct answer should be option index 0.",
+      "tags":[
+         "decimals",
+         "division",
+         "word problem"
+      ]
+   },
+   {
+      "id":"DEC-H-015",
+      "question":"A company has a budget of ₱25,000.00. It spends ₱8,750.50 for equipment, ₱6,249.50 for supplies, and divides the remaining budget equally among 5 departments. How much does each department receive?",
+      "options":[
+         "₱1,800.00",
+         "₱2,000.00",
+         "₱2,100.00",
+         "₱2,500.00"
+      ],
+      "correctAnswer":1,
+      "explanation":"Total expenses = ₱8,750.50 + ₱6,249.50 = ₱15,000.00. Remaining budget = ₱25,000.00 − ₱15,000.00 = ₱10,000.00. Each department receives ₱10,000.00 ÷ 5 = ₱2,000.00.",
+      "tags":[
+         "decimals",
+         "money",
+         "division"
+      ]
+   }
+]
