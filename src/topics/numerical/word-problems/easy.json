@@ -1,0 +1,257 @@
+[
+  {
+    "id": "WP-E-001",
+    "question": "Ana bought 3 notebooks for ₱45 each and 2 pens for ₱15 each. How much did she spend in total?",
+    "options": [
+      "₱150",
+      "₱165",
+      "₱175",
+      "₱180"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The cost of notebooks is 3 × ₱45 = ₱135. The cost of pens is 2 × ₱15 = ₱30. The total amount spent is ₱135 + ₱30 = ₱165.",
+    "tags": [
+      "word problem",
+      "money",
+      "basic arithmetic"
+    ]
+  },
+  {
+    "id": "WP-E-002",
+    "question": "A bus travels 60 kilometers per hour. How far will it travel in 4 hours?",
+    "options": [
+      "180 kilometers",
+      "220 kilometers",
+      "240 kilometers",
+      "260 kilometers"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Distance = Speed × Time. The bus travels 60 × 4 = 240 kilometers in 4 hours.",
+    "tags": [
+      "word problem",
+      "distance",
+      "rate"
+    ]
+  },
+  {
+    "id": "WP-E-003",
+    "question": "Maria is 8 years older than her brother. If her brother is 12 years old, how old is Maria?",
+    "options": [
+      "18 years old",
+      "20 years old",
+      "21 years old",
+      "24 years old"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Maria is 8 years older than her brother. Adding 8 to her brother's age gives 12 + 8 = 20 years old.",
+    "tags": [
+      "word problem",
+      "age",
+      "addition"
+    ]
+  },
+  {
+    "id": "WP-E-004",
+    "question": "A farmer harvested 240 kilograms of rice and placed them equally into 6 sacks. How many kilograms of rice are in each sack?",
+    "options": [
+      "30 kilograms",
+      "35 kilograms",
+      "40 kilograms",
+      "45 kilograms"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The rice is divided equally among 6 sacks. Calculate 240 ÷ 6 = 40. Each sack contains 40 kilograms of rice.",
+    "tags": [
+      "word problem",
+      "division",
+      "quantity"
+    ]
+  },
+  {
+    "id": "WP-E-005",
+    "question": "A worker earns ₱550 per day. How much will the worker earn after working for 6 days?",
+    "options": [
+      "₱2,750",
+      "₱3,000",
+      "₱3,300",
+      "₱3,600"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The worker earns ₱550 each day for 6 days. Total earnings = 550 × 6 = ₱3,300.",
+    "tags": [
+      "word problem",
+      "money",
+      "multiplication"
+    ]
+  },
+  {
+    "id": "WP-E-006",
+    "question": "A store sells notebooks for ₱35 each. If a student buys 8 notebooks and pays with ₱500, how much change will the student receive?",
+    "options": [
+      "₱180",
+      "₱200",
+      "₱220",
+      "₱240"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The total cost of the notebooks is 8 × ₱35 = ₱280. The change is ₱500 − ₱280 = ₱220.",
+    "tags": [
+      "word problem",
+      "money",
+      "subtraction"
+    ]
+  },
+  {
+    "id": "WP-E-007",
+    "question": "A water tank contains 450 liters of water. If 150 liters are used, how many liters of water remain?",
+    "options": [
+      "250 liters",
+      "300 liters",
+      "350 liters",
+      "400 liters"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The remaining water is found by subtracting the amount used from the original amount: 450 − 150 = 300 liters.",
+    "tags": [
+      "word problem",
+      "quantity",
+      "subtraction"
+    ]
+  },
+  {
+    "id": "WP-E-008",
+    "question": "A delivery rider travels 25 kilometers each day. How far will the rider travel in 7 days?",
+    "options": [
+      "150 kilometers",
+      "165 kilometers",
+      "175 kilometers",
+      "185 kilometers"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Distance traveled = Daily distance × Number of days. The rider travels 25 × 7 = 175 kilometers.",
+    "tags": [
+      "word problem",
+      "distance",
+      "multiplication"
+    ]
+  },
+  {
+    "id": "WP-E-009",
+    "question": "A classroom has 48 students. They are divided equally into 6 groups for an activity. How many students are in each group?",
+    "options": [
+      "6 students",
+      "8 students",
+      "10 students",
+      "12 students"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The students are divided equally into 6 groups. Calculate 48 ÷ 6 = 8. Each group has 8 students.",
+    "tags": [
+      "word problem",
+      "division",
+      "grouping"
+    ]
+  },
+  {
+    "id": "WP-E-010",
+    "question": "A family saves ₱1,200 every month. How much will they save after 5 months?",
+    "options": [
+      "₱5,000",
+      "₱5,500",
+      "₱6,000",
+      "₱6,500"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The family saves ₱1,200 each month for 5 months. Total savings = 1,200 × 5 = ₱6,000.",
+    "tags": [
+      "word problem",
+      "money",
+      "multiplication"
+    ]
+  },
+  {
+    "id": "WP-E-011",
+    "question": "A grocery store sells apples at ₱80 per kilogram. If a customer buys 4 kilograms of apples, how much will the customer pay?",
+    "options": [
+      "₱280",
+      "₱300",
+      "₱320",
+      "₱360"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The total cost is found by multiplying the price per kilogram by the number of kilograms: ₱80 × 4 = ₱320.",
+    "tags": [
+      "word problem",
+      "money",
+      "multiplication"
+    ]
+  },
+  {
+    "id": "WP-E-012",
+    "question": "A school purchased 15 boxes of paper. Each box contains 200 sheets. How many sheets of paper did the school purchase in total?",
+    "options": [
+      "2,500 sheets",
+      "3,000 sheets",
+      "3,500 sheets",
+      "4,000 sheets"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The total number of sheets is the number of boxes multiplied by the sheets per box: 15 × 200 = 3,000 sheets.",
+    "tags": [
+      "word problem",
+      "quantity",
+      "multiplication"
+    ]
+  },
+  {
+    "id": "WP-E-013",
+    "question": "A bus has 60 passengers. At the first stop, 18 passengers get off. At the second stop, 12 more passengers get off. How many passengers remain on the bus?",
+    "options": [
+      "25 passengers",
+      "30 passengers",
+      "35 passengers",
+      "40 passengers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "First subtract the passengers who leave at both stops: 18 + 12 = 30. The remaining passengers are 60 − 30 = 30.",
+    "tags": [
+      "word problem",
+      "subtraction",
+      "multi-step"
+    ]
+  },
+  {
+    "id": "WP-E-014",
+    "question": "A worker completed 45 items on Monday and 55 items on Tuesday. If the target is 150 items, how many more items are needed to reach the target?",
+    "options": [
+      "40 items",
+      "45 items",
+      "50 items",
+      "55 items"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The worker completed 45 + 55 = 100 items. The remaining items needed are 150 − 100 = 50 items.",
+    "tags": [
+      "word problem",
+      "addition",
+      "subtraction"
+    ]
+  },
+  {
+    "id": "WP-E-015",
+    "question": "A family spends ₱2,500 on food and ₱1,800 on bills every month. If they earn ₱10,000 monthly, how much money remains after these expenses?",
+    "options": [
+      "₱4,700",
+      "₱5,000",
+      "₱5,700",
+      "₱6,200"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Total expenses are ₱2,500 + ₱1,800 = ₱4,300. Remaining money is ₱10,000 − ₱4,300 = ₱5,700.",
+    "tags": [
+      "word problem",
+      "money",
+      "multi-step"
+    ]
+  }
+]

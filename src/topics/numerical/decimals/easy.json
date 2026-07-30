@@ -1,0 +1,249 @@
+[
+  {
+    "id": "DEC-E-001",
+    "question": "What is the value of 12.5 + 8.75?",
+    "options": [
+      "20.25",
+      "21.25",
+      "21.50",
+      "22.25"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Align the decimal points and add: 12.50 + 8.75 = 21.25.",
+    "tags": [
+      "decimals",
+      "addition",
+      "basic arithmetic"
+    ]
+  },
+  {
+    "id": "DEC-E-002",
+    "question": "What is the value of 25.6 - 13.85?",
+    "options": [
+      "10.75",
+      "11.25",
+      "11.75",
+      "12.25"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Write 25.60 − 13.85 and subtract. The result is 11.75.",
+    "tags": [
+      "decimals",
+      "subtraction",
+      "basic arithmetic"
+    ]
+  },
+  {
+    "id": "DEC-E-003",
+    "question": "What is 4.5 × 3.2?",
+    "options": [
+      "12.4",
+      "13.5",
+      "14.4",
+      "15.2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Multiply 45 × 32 = 1,440. Since the factors have two total decimal places, move the decimal two places: 14.40. Therefore, the answer is 14.4.",
+    "tags": [
+      "decimals",
+      "multiplication"
+    ]
+  },
+  {
+    "id": "DEC-E-004",
+    "question": "What is 18.75 ÷ 5?",
+    "options": [
+      "3.25",
+      "3.50",
+      "3.75",
+      "4.25"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Divide 18.75 by 5: 5 goes into 18.75 three times with a remainder. The exact result is 3.75.",
+    "tags": [
+      "decimals",
+      "division"
+    ]
+  },
+  {
+    "id": "DEC-E-005",
+    "question": "A bottle contains 2.5 liters of water. If 0.75 liters are consumed, how many liters of water remain?",
+    "options": [
+      "1.25 liters",
+      "1.50 liters",
+      "1.75 liters",
+      "2.25 liters"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Subtract the amount consumed from the original amount: 2.50 − 0.75 = 1.75 liters remaining.",
+    "tags": [
+      "decimals",
+      "word problem",
+      "subtraction"
+    ]
+  },
+  {
+    "id": "DEC-E-006",
+    "question": "What is the value of 15.75 + 6.48?",
+    "options": [
+      "21.23",
+      "22.13",
+      "22.23",
+      "23.23"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Align the decimal points and add: 15.75 + 6.48 = 22.23.",
+    "tags": [
+      "decimals",
+      "addition"
+    ]
+  },
+  {
+    "id": "DEC-E-007",
+    "question": "What is the value of 30.50 - 17.85?",
+    "options": [
+      "11.65",
+      "12.65",
+      "12.75",
+      "13.65"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Write 30.50 − 17.85 and subtract. The result is 12.65.",
+    "tags": [
+      "decimals",
+      "subtraction"
+    ]
+  },
+  {
+    "id": "DEC-E-008",
+    "question": "What is 6.25 × 4?",
+    "options": [
+      "20.00",
+      "22.50",
+      "25.00",
+      "26.50"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Multiply 6.25 by 4: 6 × 4 = 24 and 0.25 × 4 = 1. The total is 25.00.",
+    "tags": [
+      "decimals",
+      "multiplication"
+    ]
+  },
+  {
+    "id": "DEC-E-009",
+    "question": "What is 45.6 ÷ 8?",
+    "options": [
+      "5.2",
+      "5.5",
+      "5.7",
+      "6.2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Divide 45.6 by 8. Since 8 × 5.7 = 45.6, the answer is 5.7.",
+    "tags": [
+      "decimals",
+      "division"
+    ]
+  },
+  {
+    "id": "DEC-E-010",
+    "question": "A runner completed 3.75 kilometers in the morning and 2.85 kilometers in the afternoon. How far did the runner travel in total?",
+    "options": [
+      "6.40 kilometers",
+      "6.50 kilometers",
+      "6.60 kilometers",
+      "6.70 kilometers"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Add the two distances: 3.75 + 2.85 = 6.60 kilometers.",
+    "tags": [
+      "decimals",
+      "word problem",
+      "addition"
+    ]
+  },
+  {
+    "id": "DEC-E-011",
+    "question": "Which of the following is the largest number?",
+    "options": [
+      "4.08",
+      "4.80",
+      "4.18",
+      "4.28"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Compare the decimal values. 4.80 is greater than 4.28, 4.18, and 4.08. Therefore, 4.80 is the largest number.",
+    "tags": [
+      "decimals",
+      "comparison"
+    ]
+  },
+  {
+    "id": "DEC-E-012",
+    "question": "Round 18.746 to the nearest hundredth.",
+    "options": [
+      "18.70",
+      "18.74",
+      "18.75",
+      "18.76"
+    ],
+    "correctAnswer": 2,
+    "explanation": "To round 18.746 to the nearest hundredth, look at the thousandths digit (6). Since it is 5 or greater, increase the hundredths digit from 4 to 5. The answer is 18.75.",
+    "tags": [
+      "decimals",
+      "rounding"
+    ]
+  },
+  {
+    "id": "DEC-E-013",
+    "question": "Convert 0.75 into a fraction in simplest form.",
+    "options": [
+      "1/2",
+      "2/3",
+      "3/4",
+      "4/5"
+    ],
+    "correctAnswer": 2,
+    "explanation": "0.75 means 75 hundredths, or 75/100. Simplifying by dividing both numerator and denominator by 25 gives 3/4.",
+    "tags": [
+      "decimals",
+      "conversion",
+      "fractions"
+    ]
+  },
+  {
+    "id": "DEC-E-014",
+    "question": "What is the value of 9.25 + 4.60 - 2.35?",
+    "options": [
+      "10.50",
+      "11.25",
+      "11.50",
+      "12.50"
+    ],
+    "correctAnswer": 2,
+    "explanation": "First add 9.25 + 4.60 = 13.85. Then subtract 2.35: 13.85 − 2.35 = 11.50.",
+    "tags": [
+      "decimals",
+      "multi-step",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "DEC-E-015",
+    "question": "A piece of rope is 12.5 meters long. If 3.75 meters are cut off, how many meters of rope remain?",
+    "options": [
+      "7.75 meters",
+      "8.25 meters",
+      "8.75 meters",
+      "9.25 meters"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Subtract the length removed from the original length: 12.50 − 3.75 = 8.75 meters. The correct answer should be 8.75 meters, which is option index 2.",
+    "tags": [
+      "decimals",
+      "word problem",
+      "subtraction"
+    ]
+  }
+]

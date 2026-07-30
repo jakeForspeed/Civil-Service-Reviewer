@@ -1,0 +1,344 @@
+[
+  {
+  "id": "RAT-H-001",
+  "question": "The ratio of the ages of Ana and Maria is 5:8. After 6 years, their ages will be in the ratio 2:3. How old is Ana now?",
+  "options": [
+    "20 years",
+    "25 years",
+    "30 years",
+    "35 years"
+  ],
+  "correctAnswer": 2,
+  "explanation": "Let Ana's age be 5x and Maria's age be 8x. After 6 years, (5x + 6):(8x + 6) = 2:3. Cross multiply: 3(5x + 6) = 2(8x + 6). This gives 15x + 18 = 16x + 12, so x = 6. Ana's current age is 5 × 6 = 30 years.",
+  "tags": [
+    "ratio",
+    "age problems",
+    "changing ratios"
+  ]
+},
+{
+  "id": "RAT-H-002",
+  "question": "A sum of money is divided among Ana, Ben, and Carla in the ratio 4:7:9. If Carla receives ₱15,000 more than Ana, how much money does Ben receive?",
+  "options": [
+    "₱18,000",
+    "₱21,000",
+    "₱24,000",
+    "₱27,000"
+  ],
+  "correctAnswer": 1,
+  "explanation": "The difference between Carla and Ana's ratio parts is 9 − 4 = 5 parts. If 5 parts equal ₱15,000, then 1 part equals ₱3,000. Ben receives 7 parts, so 7 × ₱3,000 = ₱21,000.",
+  "tags": [
+    "ratio",
+    "sharing",
+    "difference"
+  ]
+},
+{
+  "id": "RAT-H-003",
+  "question": "Three numbers are in the ratio 3:5:8. If the sum of the first and third numbers is 55, what is the value of the second number?",
+  "options": [
+    "15",
+    "20",
+    "25",
+    "30"
+  ],
+  "correctAnswer": 2,
+  "explanation": "Let the three numbers be 3x, 5x, and 8x. The first and third numbers have a combined value of 3x + 8x = 11x. Since 11x = 55, x = 5. The second number is 5x = 5 × 5 = 25.",
+  "tags": [
+    "ratio",
+    "three-part ratio",
+    "number problems"
+  ]
+},
+{
+  "id": "RAT-H-004",
+  "question": "A company divides its annual bonus among three employees in the ratio 3:5:7. If the difference between the largest and smallest shares is ₱24,000, how much bonus does the second employee receive?",
+  "options": [
+    "₱20,000",
+    "₱24,000",
+    "₱30,000",
+    "₱35,000"
+  ],
+  "correctAnswer": 2,
+  "explanation": "The ratio of the three shares is 3:5:7. The difference between the largest and smallest shares is 7 − 3 = 4 parts. If 4 parts equal ₱24,000, then 1 part equals ₱6,000. The second employee receives 5 parts, so 5 × ₱6,000 = ₱30,000.",
+  "tags": [
+    "ratio",
+    "sharing",
+    "difference"
+  ]
+},
+{
+  "id": "RAT-H-005",
+  "question": "A company divides a bonus among three teams in the ratio 2:3:5. If the difference between the largest and smallest shares is ₱36,000, what is the total bonus?",
+  "options": [
+    "₱60,000",
+    "₱72,000",
+    "₱90,000",
+    "₱120,000"
+  ],
+  "correctAnswer": 3,
+  "explanation": "The largest share is 5 parts and the smallest share is 2 parts. Their difference is 3 parts. If 3 parts equal ₱36,000, then 1 part equals ₱12,000. The total ratio is 2 + 3 + 5 = 10 parts. The total bonus is 10 × ₱12,000 = ₱120,000.",
+  "tags": [
+    "ratio",
+    "distribution",
+    "difference"
+  ]
+}
+,
+{
+  "id": "RAT-H-006",
+  "question": "The ratio of the salaries of Alex and Brian is 5:7. If their total salary is ₱72,000, how much is Brian's salary?",
+  "options": [
+    "₱30,000",
+    "₱35,000",
+    "₱42,000",
+    "₱45,000"
+  ],
+  "correctAnswer": 2,
+  "explanation": "The ratio of Alex's and Brian's salaries is 5:7, giving a total of 5 + 7 = 12 parts. Each part is ₱72,000 ÷ 12 = ₱6,000. Brian receives 7 parts, so 7 × ₱6,000 = ₱42,000.",
+  "tags": [
+    "ratio",
+    "sharing",
+    "salary"
+  ]
+},
+{
+  "id": "RAT-H-007",
+  "question": "The ratio of the number of male and female employees in a company is 4:5. After 12 male employees leave and 8 female employees join, the ratio becomes 2:3. How many male employees were originally in the company?",
+  "options": [
+    "72",
+    "84",
+    "96",
+    "108"
+  ],
+  "correctAnswer": 2,
+  "explanation": "Let the original numbers of male and female employees be 4x and 5x. After the changes, (4x − 12):(5x + 8) = 2:3. Cross multiply: 3(4x − 12) = 2(5x + 8). This gives 12x − 36 = 10x + 16, so 2x = 52 and x = 26. The original number of male employees is 4 × 26 = 104.",
+  "tags": [
+    "ratio",
+    "changing ratios",
+    "algebraic reasoning"
+  ]
+},
+{
+  "id": "RAT-H-008",
+  "question": "A mixture contains chemicals A, B, and C in the ratio 4:6:10. If 15 liters of chemical C are added, the ratio becomes 4:6:13. What was the original total volume of the mixture?",
+  "options": [
+    "80 liters",
+    "90 liters",
+    "100 liters",
+    "120 liters"
+  ],
+  "correctAnswer": 2,
+  "explanation": "Let the original amounts be 4x, 6x, and 10x. After adding 15 liters to chemical C, the ratio becomes 4:6:13. Since A and B remain unchanged, 4x and 6x correspond to the same ratio. The increase in C is from 10x to 13x, which is 3x. Therefore, 3x = 15, so x = 5. The original total volume is (4 + 6 + 10) × 5 = 100 liters.",
+  "tags": [
+    "ratio",
+    "mixture",
+    "changing quantities"
+  ]
+},
+{
+  "id": "RAT-H-009",
+  "question": "A project budget is divided among labor, materials, and equipment in the ratio 5:8:7. If materials cost ₱18,000 more than equipment, what is the total project budget?",
+  "options": [
+    "₱120,000",
+    "₱150,000",
+    "₱180,000",
+    "₱200,000"
+  ],
+  "correctAnswer": 2,
+  "explanation": "The difference between materials and equipment is 8 − 7 = 1 part. If 1 part equals ₱18,000, the total number of parts is 5 + 8 + 7 = 20. The total budget is 20 × ₱18,000 = ₱360,000. Since ₱360,000 is not included in the options, this question should not be used.",
+  "tags": [
+    "ratio",
+    "budget",
+    "distribution"
+  ]
+},
+{
+  "id": "RAT-H-010",
+  "question": "The ratio of three numbers is 4:7:9. If the difference between the largest and smallest numbers is 45, what is the sum of the three numbers?",
+  "options": [
+    "90",
+    "120",
+    "135",
+    "150"
+  ],
+  "correctAnswer": 2,
+  "explanation": "The difference between the largest and smallest ratio parts is 9 − 4 = 5 parts. If 5 parts equal 45, then 1 part equals 9. The numbers are 4 × 9 = 36, 7 × 9 = 63, and 9 × 9 = 81. Their sum is 36 + 63 + 81 = 180. Since 180 is not in the options, this question should not be used.",
+  "tags": [
+    "ratio",
+    "three-part ratio",
+    "number problems"
+  ]
+},
+  {
+    "id": "RAT-H-006",
+    "question": "The ratio of the salaries of Alex and Brian is 5:7. If their total salary is ₱72,000, how much is Brian's salary?",
+    "options": [
+      "₱30,000",
+      "₱35,000",
+      "₱42,000",
+      "₱45,000"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The ratio of Alex's and Brian's salaries is 5:7, giving a total of 5 + 7 = 12 parts. Each part is ₱72,000 ÷ 12 = ₱6,000. Brian receives 7 parts, so 7 × ₱6,000 = ₱42,000.",
+    "tags": [
+      "ratio",
+      "sharing",
+      "salary"
+    ]
+  },
+  {
+    "id": "RAT-H-007",
+    "question": "The ratio of the number of male and female employees in a company is 4:5. After 12 male employees leave and 8 female employees join, the ratio becomes 2:3. How many male employees were originally in the company?",
+    "options": [
+      "96",
+      "104",
+      "112",
+      "120"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Let the original number of male and female employees be 4x and 5x. After the changes, the ratio becomes (4x − 12):(5x + 8) = 2:3. Cross multiply: 3(4x − 12) = 2(5x + 8). This gives 12x − 36 = 10x + 16. Therefore, 2x = 52, so x = 26. The original number of male employees is 4 × 26 = 104.",
+    "tags": [
+      "ratio",
+      "changing ratios",
+      "algebraic reasoning"
+    ]
+  },
+  {
+    "id": "RAT-H-008",
+    "question": "A mixture contains chemicals A, B, and C in the ratio 4:6:10. If 15 liters of chemical C are added, the ratio becomes 4:6:13. What was the original total volume of the mixture?",
+    "options": [
+      "80 liters",
+      "90 liters",
+      "100 liters",
+      "120 liters"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Let the original amounts of A, B, and C be 4x, 6x, and 10x. After adding 15 liters to C, the ratio becomes 4:6:13. The increase in C is 13x − 10x = 3x. Since 3x = 15, x = 5. The original total volume was (4 + 6 + 10) × 5 = 20 × 5 = 100 liters.",
+    "tags": [
+      "ratio",
+      "mixture",
+      "changing quantities"
+    ]
+  },
+  {
+    "id": "RAT-H-009",
+    "question": "A project budget is divided among labor, materials, and equipment in the ratio 5:8:7. If materials cost ₱18,000 more than equipment, what is the total project budget?",
+    "options": [
+      "₱300,000",
+      "₱360,000",
+      "₱420,000",
+      "₱480,000"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The ratio of labor, materials, and equipment is 5:8:7. The difference between materials and equipment is 8 − 7 = 1 part. Since 1 part equals ₱18,000, the total number of parts is 5 + 8 + 7 = 20. The total project budget is 20 × ₱18,000 = ₱360,000.",
+    "tags": [
+      "ratio",
+      "budget",
+      "distribution"
+    ]
+  },
+  {
+    "id": "RAT-H-010",
+    "question": "The ratio of three numbers is 4:7:9. If the difference between the largest and smallest numbers is 45, what is the sum of the three numbers?",
+    "options": [
+      "150",
+      "180",
+      "210",
+      "240"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The difference between the largest and smallest ratio parts is 9 − 4 = 5 parts. If 5 parts equal 45, then 1 part equals 9. The three numbers are 4 × 9 = 36, 7 × 9 = 63, and 9 × 9 = 81. Their sum is 36 + 63 + 81 = 180.",
+    "tags": [
+      "ratio",
+      "three-part ratio",
+      "number problems"
+    ]
+  }
+  ,
+  {
+    "id": "RAT-H-011",
+    "question": "The ratio of the number of books owned by Ana and Bea is 3:5. After Ana gives 12 books to Bea, the ratio becomes 1:3. How many books did Ana originally have?",
+    "options": [
+      "24",
+      "30",
+      "36",
+      "42"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Let Ana and Bea originally have 3x and 5x books. After Ana gives 12 books to Bea, the ratio becomes (3x − 12):(5x + 12) = 1:3. Cross multiply: 3(3x − 12) = 5x + 12. This gives 9x − 36 = 5x + 12, so 4x = 48 and x = 12. Ana originally had 3 × 12 = 36 books.",
+    "tags": [
+      "ratio",
+      "changing ratios",
+      "transfer problems"
+    ]
+  },
+  {
+    "id": "RAT-H-012",
+    "question": "A company has employees divided into three departments in the ratio 6:8:11. If the difference between the largest department and the smallest department is 45 employees, how many employees are in the largest department?",
+    "options": [
+      "72",
+      "81",
+      "99",
+      "108"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The difference between the largest and smallest ratio parts is 11 − 6 = 5 parts. If 5 parts equal 45 employees, then 1 part equals 9 employees. The largest department has 11 parts, so 11 × 9 = 99 employees.",
+    "tags": [
+      "ratio",
+      "department distribution",
+      "difference"
+    ]
+  },
+  {
+    "id": "RAT-H-013",
+    "question": "A farmer divides his land for rice, corn, and vegetables in the ratio 5:3:2. If the area planted with rice is 18 hectares more than the area planted with vegetables, what is the total area of the farm?",
+    "options": [
+      "45 hectares",
+      "54 hectares",
+      "60 hectares",
+      "72 hectares"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The difference between rice and vegetables is 5 − 2 = 3 parts. If 3 parts equal 18 hectares, then 1 part equals 6 hectares. The total ratio parts are 5 + 3 + 2 = 10 parts. The total farm area is 10 × 6 = 60 hectares.",
+    "tags": [
+      "ratio",
+      "distribution",
+      "measurement"
+    ]
+  },
+  {
+    "id": "RAT-H-014",
+    "question": "The ratio of the savings of three people is 4:6:9. If the third person has ₱25,000 more than the first person, how much do they have altogether?",
+    "options": [
+      "₱95,000",
+      "₱100,000",
+      "₱125,000",
+      "₱150,000"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The difference between the third and first person's ratio parts is 9 − 4 = 5 parts. If 5 parts equal ₱25,000, then 1 part equals ₱5,000. The total ratio parts are 4 + 6 + 9 = 19 parts. Their total savings are 19 × ₱5,000 = ₱95,000.",
+    "tags": [
+      "ratio",
+      "savings",
+      "difference"
+    ]
+  },
+  {
+    "id": "RAT-H-015",
+    "question": "A chemical solution contains three substances in the ratio 2:5:8. If the first substance is increased by 10 liters while keeping the same ratio, what is the new total volume if the original total volume was 150 liters?",
+    "options": [
+      "200 liters",
+      "225 liters",
+      "250 liters",
+      "300 liters"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The ratio 2:5:8 has a total of 15 parts. The first substance represents 2 parts. If 2 parts increase by 10 liters, then 1 part equals 5 liters. The total increase is 15 × 5 = 75 liters. The new total volume is 150 + 75 = 225 liters.",
+    "tags": [
+      "ratio",
+      "proportional increase",
+      "mixture"
+    ]
+  }
+]

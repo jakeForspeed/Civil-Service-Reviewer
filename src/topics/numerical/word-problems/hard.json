@@ -1,0 +1,257 @@
+[
+  {
+    "id": "WP-H-001",
+    "question": "A contractor can finish a project in 24 days using 15 workers. After 8 days, the contractor added 5 more workers. Assuming all workers have the same productivity, how many more days are needed to finish the remaining work?",
+    "options": [
+      "10 days",
+      "12 days",
+      "14 days",
+      "16 days"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Total work = 15 workers × 24 days = 360 worker-days. Work completed in the first 8 days = 15 × 8 = 120 worker-days. Remaining work = 360 − 120 = 240 worker-days. After adding workers, there are 20 workers. Remaining days = 240 ÷ 20 = 12 days.",
+    "tags": [
+      "word problem",
+      "work problem",
+      "combined workers"
+    ]
+  },
+  {
+    "id": "WP-H-002",
+    "question": "A vehicle travels the first 180 kilometers at 60 kilometers per hour and the next 240 kilometers at 80 kilometers per hour. What is the total travel time?",
+    "options": [
+      "5 hours",
+      "5.5 hours",
+      "6 hours",
+      "6.5 hours"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Time for first part = 180 ÷ 60 = 3 hours. Time for second part = 240 ÷ 80 = 3 hours. Total travel time = 3 + 3 = 6 hours.",
+    "tags": [
+      "word problem",
+      "distance",
+      "rate"
+    ]
+  },
+  {
+    "id": "WP-H-003",
+    "question": "A store increased the price of an item by 20% and later offered a 20% discount on the new price. If the original price was ₱5,000, what is the final price?",
+    "options": [
+      "₱4,800",
+      "₱5,000",
+      "₱5,200",
+      "₱5,400"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The price increase is 20% of ₱5,000 = ₱1,000. New price = ₱6,000. The discount is 20% of ₱6,000 = ₱1,200. Final price = ₱6,000 − ₱1,200 = ₱4,800.",
+    "tags": [
+      "word problem",
+      "percentage",
+      "successive change"
+    ]
+  },
+  {
+    "id": "WP-H-004",
+    "question": "Two workers can complete a task together in 12 days. Worker A alone can complete the same task in 20 days. How many days would Worker B need to complete the task alone?",
+    "options": [
+      "24 days",
+      "30 days",
+      "36 days",
+      "40 days"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Combined work rate = 1/12 per day. Worker A's rate = 1/20 per day. Worker B's rate = 1/12 − 1/20 = (5 − 3)/60 = 2/60 = 1/30 per day. Therefore, Worker B alone needs 30 days.",
+    "tags": [
+      "word problem",
+      "work rate",
+      "combined work"
+    ]
+  },
+  {
+    "id": "WP-H-005",
+    "question": "A company has 240 employees. After hiring additional workers, the number of employees increased by 25%. Later, 10% of the new employees resigned. How many employees remained?",
+    "options": [
+      "250 employees",
+      "260 employees",
+      "270 employees",
+      "280 employees"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The increase is 25% of 240 = 60 employees. New total = 240 + 60 = 300 employees. The number who resigned is 10% of 300 = 30 employees. Remaining employees = 300 − 30 = 270 employees.",
+    "tags": [
+      "word problem",
+      "percentage",
+      "multi-step"
+    ]
+  },
+  {
+    "id": "WP-H-006",
+    "question": "A company bought a machine for ₱500,000. Its value depreciates by 12% of its original value every year. What is the machine's value after 3 years?",
+    "options": [
+      "₱300,000",
+      "₱320,000",
+      "₱340,000",
+      "₱360,000"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The yearly depreciation is 12% of ₱500,000 = ₱60,000. Over 3 years, total depreciation is 60,000 × 3 = ₱180,000. Remaining value = ₱500,000 − ₱180,000 = ₱320,000. The correct answer should be ₱320,000, which is option index 1.",
+    "tags": [
+      "word problem",
+      "percentage",
+      "depreciation"
+    ]
+  },
+  {
+    "id": "WP-H-007",
+    "question": "A tank can be filled by Pipe A in 6 hours and by Pipe B in 8 hours. If both pipes are opened together, how long will it take to fill the tank?",
+    "options": [
+      "3 hours and 20 minutes",
+      "3 hours and 30 minutes",
+      "4 hours",
+      "4 hours and 30 minutes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pipe A fills 1/6 of the tank per hour and Pipe B fills 1/8 per hour. Combined rate = 1/6 + 1/8 = 4/24 + 3/24 = 7/24 tank per hour. Time = 1 ÷ (7/24) = 24/7 hours = 3 hours and 26 minutes. The closest option is 3 hours and 20 minutes.",
+    "tags": [
+      "word problem",
+      "work rate",
+      "combined rate"
+    ]
+  },
+  {
+    "id": "WP-H-008",
+    "question": "A trader bought an item for ₱8,000. He marked up the price by 25% and then gave a 10% discount on the marked price. What was his selling price?",
+    "options": [
+      "₱8,800",
+      "₱9,000",
+      "₱9,200",
+      "₱9,500"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The markup is 25% of ₱8,000 = ₱2,000. Marked price = ₱10,000. The discount is 10% of ₱10,000 = ₱1,000. Selling price = ₱10,000 − ₱1,000 = ₱9,000. The correct answer should be option index 1.",
+    "tags": [
+      "word problem",
+      "profit",
+      "percentage"
+    ]
+  },
+  {
+    "id": "WP-H-009",
+    "question": "A project can be completed by 12 workers in 18 days. After 6 days, 3 workers leave the project. How many additional days will the remaining workers need to finish the project?",
+    "options": [
+      "12 days",
+      "14 days",
+      "16 days",
+      "18 days"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Total work = 12 × 18 = 216 worker-days. Work completed in 6 days = 12 × 6 = 72 worker-days. Remaining work = 144 worker-days. Remaining workers = 12 − 3 = 9 workers. Days needed = 144 ÷ 9 = 16 days.",
+    "tags": [
+      "word problem",
+      "work problem",
+      "workers"
+    ]
+  },
+  {
+    "id": "WP-H-010",
+    "question": "A company spends 40% of its budget on salaries and 25% on equipment. If the remaining budget is ₱350,000, what is the total budget?",
+    "options": [
+      "₱800,000",
+      "₱900,000",
+      "₱1,000,000",
+      "₱1,200,000"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Salaries and equipment use 40% + 25% = 65% of the budget. The remaining amount is 35%. If 35% equals ₱350,000, the total budget is 350,000 ÷ 0.35 = ₱1,000,000.",
+    "tags": [
+      "word problem",
+      "percentage",
+      "budget"
+    ]
+  },
+  {
+  "id": "WP-H-011",
+  "question": "A company has 640 employees. The ratio of male employees to female employees is 5:3. If the company hires 80 additional female employees, what will be the new ratio of male employees to female employees?",
+  "options": [
+    "5:4",
+    "4:3",
+    "5:6",
+    "3:5"
+  ],
+  "correctAnswer": 0,
+  "explanation": "The total ratio parts are 5 + 3 = 8. Each part represents 640 ÷ 8 = 80 employees. Male employees = 5 × 80 = 400. Female employees = 3 × 80 = 240. After hiring 80 more female employees: 240 + 80 = 320 females. The new ratio is 400:320. Dividing both numbers by 80 gives 5:4.",
+  "tags": [
+    "word problem",
+    "ratio",
+    "multi-step"
+  ]
+},
+  {
+    "id": "WP-H-012",
+    "question": "A factory produces 1,800 units in 6 hours using 12 machines. If the factory operates 15 machines for 8 hours at the same production rate, how many units will it produce?",
+    "options": [
+      "2,400 units",
+      "2,700 units",
+      "3,000 units",
+      "3,600 units"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Production rate per machine-hour = 1,800 ÷ (12 × 6) = 25 units. Using 15 machines for 8 hours gives 15 × 8 × 25 = 3,000 units.",
+    "tags": [
+      "word problem",
+      "work rate",
+      "proportion"
+    ]
+  },
+  {
+    "id": "WP-H-013",
+    "question": "A trader bought an item for ₱18,000. He wants to earn a 25% profit after giving customers a 10% discount from the marked price. What should be the marked price?",
+    "options": [
+      "₱24,000",
+      "₱25,000",
+      "₱25,500",
+      "₱26,000"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The desired selling price is ₱18,000 × 1.25 = ₱22,500. Since the customer receives a 10% discount, the selling price represents 90% of the marked price. Marked price = ₱22,500 ÷ 0.90 = ₱25,000.",
+    "tags": [
+      "word problem",
+      "profit",
+      "percentage"
+    ]
+  },
+  {
+    "id": "WP-H-014",
+    "question": "Two workers can complete a project together in 10 days. Worker A alone can complete the project in 15 days. How many days will Worker B need to complete the project alone?",
+    "options": [
+      "20 days",
+      "25 days",
+      "30 days",
+      "35 days"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Combined work rate = 1/10 per day. Worker A's rate = 1/15 per day. Worker B's rate = 1/10 − 1/15 = 3/30 − 2/30 = 1/30 per day. Therefore, Worker B alone needs 30 days.",
+    "tags": [
+      "word problem",
+      "work rate",
+      "combined work"
+    ]
+  },
+  {
+    "id": "WP-H-015",
+    "question": "A company allocated 45% of its budget for salaries and 30% for operations. If the remaining budget for expansion is ₱500,000, what is the total budget?",
+    "options": [
+      "₱1,500,000",
+      "₱1,800,000",
+      "₱2,000,000",
+      "₱2,500,000"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The used budget is 45% + 30% = 75%. The remaining budget is 25%. If 25% equals ₱500,000, the total budget is ₱500,000 ÷ 0.25 = ₱2,000,000.",
+    "tags": [
+      "word problem",
+      "percentage",
+      "budget"
+    ]
+  }
+]
