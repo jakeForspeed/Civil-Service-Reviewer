@@ -1,84 +1,23 @@
-import {
-    getTopics,
-    getSubTopics
-} from "./reviewService";
+import manifest from '../config/manifest.json'
 
 
-function shuffle(array){
+export async function loadAllQuestions(){
 
-    const result = [...array];
+    for( const topic of manifest.topics) {
 
-    for( let i=result.length-1; i>0; i-- ){
+        for(const subtopic of topic.subTopics){
 
-        const random = Math.floor( Math.random()*(i+1) );
-        [ result[i], result[random] ] =
-        [ result[random], result[i] ];
-
-    }
-    return result;
-}
-
-
-
-export async function generateMockQuestions(total = 100) {
-
-    const allQuestions = [];
-
-    const topics = getTopics();
-
-    const difficulties = ["easy", "medium", "hard"];
-
-    for (const topic of topics) {
-
-        const subTopics = getSubTopics(topic.id);
-
-        for (const subTopic of subTopics) {
-
-            for (const difficulty of difficulties) {
-
-                try {
-
-                    const module = await import(
-                        `../topics/${topic.id}/${subTopic.id}/${difficulty}.json`
-                    );
-
-                    const questions = module.default || [];
-
-                    allQuestions.push(
-
-                        ...questions.map(question => ({
-
-                            ...question,
-
-                            topic: topic.name,
-
-                            subTopic: subTopic.name,
-
-                            difficulty
-
-                        }))
-
-                    );
-
-                } catch {
-
-                    console.log(
-                        "Missing:",
-                        topic.id,
-                        subTopic.id,
-                        difficulty
-                    );
-
-                }
-
-            }
-
+            const questions = await loadQuestions(subtopic.path,"hard")
+            
         }
 
+        
     }
 
-    return shuffle(allQuestions).slice(0, total);
-
 }
+async function loadQuestions(path, difficulty) {
 
-
+    const module = await import(`../topics/${path}/${difficulty}.json`);
+    
+    return module.default ?? [];
+}

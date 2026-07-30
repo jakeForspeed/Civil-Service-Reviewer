@@ -1,0 +1,269 @@
+[
+  {
+    "id": "HIST-E-001",
+    "question": "Who is widely recognized as the national hero of the Philippines?",
+    "options": [
+      "Andres Bonifacio",
+      "Emilio Aguinaldo",
+      "Jose Rizal",
+      "Apolinario Mabini"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Dr. Jose Rizal is widely recognized as the national hero of the Philippines because of his writings, particularly Noli Me Tangere and El Filibusterismo, which inspired the Filipino nationalist movement against Spanish colonial rule.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "national-hero"
+    ]
+  },
+  {
+    "id": "HIST-E-002",
+    "question": "On what date did the Philippines declare its independence from Spain?",
+    "options": [
+      "June 12, 1898",
+      "July 4, 1946",
+      "August 30, 1896",
+      "December 30, 1896"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Philippine independence from Spain was proclaimed on June 12, 1898, in Kawit, Cavite by General Emilio Aguinaldo. This date is celebrated annually as Philippine Independence Day.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "philippine-independence"
+    ]
+  },
+  {
+    "id": "HIST-E-003",
+    "question": "Who proclaimed the independence of the Philippines on June 12, 1898?",
+    "options": [
+      "Jose Rizal",
+      "Emilio Aguinaldo",
+      "Andres Bonifacio",
+      "Manuel L. Quezon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "General Emilio Aguinaldo proclaimed Philippine independence from Spain on June 12, 1898, at his ancestral home in Kawit, Cavite.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "emilio-aguinaldo",
+      "independence"
+    ]
+  },
+  {
+    "id": "HIST-E-004",
+    "question": "Who founded the Katipunan, the revolutionary society that fought against Spanish rule?",
+    "options": [
+      "Jose Rizal",
+      "Andres Bonifacio",
+      "Marcelo H. del Pilar",
+      "Antonio Luna"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Andres Bonifacio founded the Kataastaasan, Kagalanggalangang Katipunan ng mga Anak ng Bayan (Katipunan) on July 7, 1892, to seek Philippine independence from Spanish colonial rule.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "katipunan",
+      "andres-bonifacio"
+    ]
+  },
+  {
+    "id": "HIST-E-005",
+    "question": "Which explorer is credited with introducing Christianity to the Philippines in 1521?",
+    "options": [
+      "Miguel Lopez de Legazpi",
+      "Ferdinand Magellan",
+      "Christopher Columbus",
+      "Juan Sebastian Elcano"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ferdinand Magellan arrived in the Philippines in 1521. During his expedition, the first recorded Christian baptisms in the Philippines took place in Cebu, marking the introduction of Christianity.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "magellan",
+      "christianity"
+    ]
+  },
+  {
+    "id": "HIST-E-006",
+    "question": "Who became the first President of the Philippine Commonwealth in 1935?",
+    "options": [
+      "Emilio Aguinaldo",
+      "Manuel L. Quezon",
+      "Sergio Osmena",
+      "Jose P. Laurel"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Manuel L. Quezon was elected as the first President of the Commonwealth of the Philippines in 1935 under the Tydings–McDuffie Act, which established the Commonwealth government.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "commonwealth",
+      "manuel-l-quezon"
+    ]
+  },
+  {
+    "id": "HIST-E-007",
+    "question": "Where was the Philippine independence from Spain proclaimed on June 12, 1898?",
+    "options": [
+      "Malolos, Bulacan",
+      "Kawit, Cavite",
+      "Manila",
+      "Cebu City"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Philippine independence from Spain was proclaimed by General Emilio Aguinaldo on June 12, 1898, at his ancestral home in Kawit, Cavite.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "philippine-independence",
+      "kawit"
+    ]
+  },
+  {
+    "id": "HIST-E-008",
+    "question": "Which Filipino patriot was executed at Bagumbayan (now Rizal Park) on December 30, 1896?",
+    "options": [
+      "Andres Bonifacio",
+      "Emilio Jacinto",
+      "Jose Rizal",
+      "Antonio Luna"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Dr. Jose Rizal was executed by firing squad at Bagumbayan on December 30, 1896. His martyrdom inspired many Filipinos to continue the struggle for independence.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "jose-rizal",
+      "bagumbayan"
+    ]
+  },
+  {
+    "id": "HIST-E-009",
+    "question": "What was the name of the first republic established by Filipinos in 1899?",
+    "options": [
+      "Philippine Commonwealth",
+      "First Philippine Republic",
+      "Second Philippine Republic",
+      "Republic of the Philippines"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The First Philippine Republic, also known as the Malolos Republic, was inaugurated on January 23, 1899, in Malolos, Bulacan, with Emilio Aguinaldo as President.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "first-philippine-republic",
+      "malolos-republic"
+    ]
+  },
+  {
+    "id": "HIST-E-010",
+    "question": "Which country colonized the Philippines for more than 300 years?",
+    "options": [
+      "United States",
+      "Spain",
+      "Japan",
+      "Portugal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Spain colonized the Philippines from 1565, when Miguel Lopez de Legazpi established the first permanent Spanish settlement, until 1898, when Spain ceded the Philippines to the United States through the Treaty of Paris.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "spanish-colonization"
+    ]
+  },
+  {
+    "id": "HIST-E-011",
+    "question": "Who was known as the 'Brains of the Katipunan' because of his writings and leadership?",
+    "options": [
+      "Emilio Aguinaldo",
+      "Apolinario Mabini",
+      "Emilio Jacinto",
+      "Antonio Luna"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Emilio Jacinto was called the 'Brains of the Katipunan.' He wrote the Kartilya ng Katipunan, which served as the organization's guide on moral and civic conduct.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "katipunan",
+      "emilio-jacinto"
+    ]
+  },
+  {
+    "id": "HIST-E-012",
+    "question": "What historic event is commemorated every December 30 in the Philippines?",
+    "options": [
+      "Philippine Independence Day",
+      "Bonifacio Day",
+      "Rizal Day",
+      "National Heroes Day"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Rizal Day is observed every December 30 to commemorate the martyrdom of Dr. Jose Rizal, who was executed on December 30, 1896, at Bagumbayan (now Rizal Park).",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "rizal-day",
+      "jose-rizal"
+    ]
+  },
+  {
+    "id": "HIST-E-013",
+    "question": "Who led the first successful circumnavigation of the world after Ferdinand Magellan was killed in the Philippines?",
+    "options": [
+      "Miguel Lopez de Legazpi",
+      "Juan Sebastian Elcano",
+      "Christopher Columbus",
+      "Ruy Lopez de Villalobos"
+    ],
+    "correctAnswer": 1,
+    "explanation": "After Ferdinand Magellan was killed in the Battle of Mactan in 1521, Juan Sebastian Elcano assumed command of the expedition and completed the first successful circumnavigation of the world in 1522.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "juan-sebastian-elcano",
+      "magellan-expedition"
+    ]
+  },
+  {
+    "id": "HIST-E-014",
+    "question": "Who is recognized as the 'Sublime Paralytic' of the Philippine Revolution?",
+    "options": [
+      "Antonio Luna",
+      "Apolinario Mabini",
+      "Emilio Jacinto",
+      "Marcelo H. del Pilar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Apolinario Mabini was known as the 'Sublime Paralytic' because despite being paralyzed by polio, he served as the chief adviser of Emilio Aguinaldo and made significant contributions to the First Philippine Republic.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "apolinario-mabini",
+      "philippine-revolution"
+    ]
+  },
+  {
+    "id": "HIST-E-015",
+    "question": "Which Filipino hero is known as the 'Father of the Katipunan'?",
+    "options": [
+      "Jose Rizal",
+      "Andres Bonifacio",
+      "Emilio Aguinaldo",
+      "Emilio Jacinto"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Andres Bonifacio founded the Katipunan in 1892 and is widely recognized as the 'Father of the Katipunan' and one of the foremost leaders of the Philippine Revolution.",
+    "tags": [
+      "general-information",
+      "basic-philippine-history",
+      "andres-bonifacio",
+      "katipunan"
+    ]
+  }
+]

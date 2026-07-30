@@ -1,28 +1,102 @@
+import useTest from "../hooks/useTest";
+
+import MockTestHeader from "../components/mock/MockTestHeader";
+import ExamHeader from "../components/mock/ExamHeader";
+import MockExamStats from "../components/mock/MockExamStats";
+
+import TopicAccordion from "../components/mock/TopicAccordion";
+import { useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 
+export default function MockTest() {
 
-import MockHeader from "../components/mock/MockHeader";
-import MockTimer from "../components/mock/MockTimer";
+    const navigate = useNavigate();
 
-import useMockTest from '../hooks/useMockTest';
+    const {
 
-const MockTest = () => {
+        exam,
 
-  const navigate = useNavigate();
+        answers,
 
-  const { timeRemaining } = useMockTest();
+        selectAnswer,
 
-  return (
-    <div className=" flex flex-1 items-center justify-center">
-      <div className=" w-full max-w-5xl">
+        submitTest,
 
-        <MockHeader />
+        result,
 
-        <MockTimer timeRemaining={timeRemaining} />
+        timeRemaining,
 
-      </div>
-    </div>
-  )
+        answeredCount,
+
+        totalQuestions
+
+    } = useTest();
+
+    if (result) {
+
+        // later we'll navigate to Result Page
+
+    }
+
+    useEffect(() => {
+
+        if (result) {
+
+            navigate("/test-result", {
+
+                replace: true,
+
+                state: result
+
+            });
+
+        }
+
+}, [result, navigate]);
+
+useEffect(() => {
+
+    console.log("MockTest mounted");
+
+    return () => {
+
+        console.log("MockTest unmounted");
+
+    };
+
+}, []);
+
+    return (
+
+        <div>
+
+            <MockTestHeader
+                totalQuestions={totalQuestions}
+                duration={110}
+            />
+
+            <MockExamStats
+                timeRemaining={timeRemaining}
+                answered={answeredCount}
+                total={totalQuestions}
+                onFinish={submitTest}
+            />
+
+            <div className="max-w-7xl mx-auto p-6">
+            {
+                exam.map(topic => (
+                    <TopicAccordion
+                        key={topic.topic}
+                        topic={topic}
+                        answers={answers}
+                        selectAnswer={selectAnswer}
+                    />
+                ))
+            }
+          </div>
+
+        </div>
+
+    );
+
 }
-
-export default MockTest

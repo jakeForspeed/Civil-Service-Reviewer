@@ -1,0 +1,242 @@
+[
+  {
+    "id": "NS-M-001",
+    "question": "What number comes next in the series?\n\n6, 11, 18, 27, ___",
+    "options": [
+      "36",
+      "38",
+      "39",
+      "41"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The differences increase by 2: +5, +7, +9. The next difference is +11. Therefore, 27 + 11 = 38.",
+    "tags": [
+      "number-series",
+      "increasing-difference"
+    ]
+  },
+  {
+    "id": "NS-M-002",
+    "question": "What number comes next in the series?\n\n120, 60, 30, 15, ___",
+    "options": [
+      "5",
+      "7.5",
+      "10",
+      "12"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Each number is divided by 2: 120 ÷ 2 = 60, 60 ÷ 2 = 30, 30 ÷ 2 = 15. The next number is 15 ÷ 2 = 7.5.",
+    "tags": [
+      "number-series",
+      "division-pattern"
+    ]
+  },
+  {
+    "id": "NS-M-003",
+    "question": "What number comes next in the series?\n\n3, 8, 18, 38, ___",
+    "options": [
+      "68",
+      "76",
+      "78",
+      "80"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The pattern is multiplying by 2 then adding 2: (3 × 2) + 2 = 8, (8 × 2) + 2 = 18, (18 × 2) + 2 = 38. The next number is (38 × 2) + 2 = 78.",
+    "tags": [
+      "number-series",
+      "mixed-operation"
+    ]
+  },
+  {
+    "id": "NS-M-004",
+    "question": "What number comes next in the series?\n\n4, 9, 19, 39, ___",
+    "options": [
+      "69",
+      "79",
+      "81",
+      "89"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The pattern is multiplying by 2 then adding 1: (4 × 2) + 1 = 9, (9 × 2) + 1 = 19, (19 × 2) + 1 = 39. The next number is (39 × 2) + 1 = 79.",
+    "tags": [
+      "number-series",
+      "mixed-operation"
+    ]
+  },
+  {
+    "id": "NS-M-005",
+    "question": "What number comes next in the series?\n\n100, 92, 76, 52, ___",
+    "options": [
+      "20",
+      "22",
+      "24",
+      "28"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The differences decrease by 8 each time: −8, −16, −24. The next difference is −32. Therefore, 52 − 32 = 20.",
+    "tags": [
+      "number-series",
+      "decreasing-difference"
+    ]
+  },
+  {
+    "id": "NS-M-006",
+    "question": "What number comes next in the series?\n\n2, 6, 12, 20, ___",
+    "options": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The differences increase by 2: +4, +6, +8. The next difference is +10. Therefore, 20 + 10 = 30.",
+    "tags": [
+      "number-series",
+      "increasing-difference"
+    ]
+  },
+  {
+    "id": "NS-M-007",
+    "question": "What number comes next in the series?\n\n5, 15, 45, 135, ___",
+    "options": [
+      "270",
+      "360",
+      "405",
+      "450"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The pattern is multiplying by 3 each time: 5 × 3 = 15, 15 × 3 = 45, 45 × 3 = 135. The next number is 135 × 3 = 405.",
+    "tags": [
+      "number-series",
+      "multiplication-pattern"
+    ]
+  },
+  {
+    "id": "NS-M-008",
+    "question": "What number comes next in the series?\n\n64, 56, 47, 37, ___",
+    "options": [
+      "24",
+      "25",
+      "26",
+      "27"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The differences decrease by 1 each time: −8, −9, −10. The next difference is −11. Therefore, 37 − 11 = 26.",
+    "tags": [
+      "number-series",
+      "decreasing-difference"
+    ]
+  },
+  {
+    "id": "NS-M-009",
+    "question": "What number comes next in the series?\n\n10, 13, 19, 28, ___",
+    "options": [
+      "37",
+      "40",
+      "41",
+      "42"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The differences increase by 3: +3, +6, +9. The next difference is +12. Therefore, 28 + 12 = 40. The correct answer should be option index 1.",
+    "tags": [
+      "number-series",
+      "increasing-difference"
+    ]
+  },
+  {
+    "id": "NS-M-010",
+    "question": "What number comes next in the series?\n\n7, 14, 28, 56, ___",
+    "options": [
+      "96",
+      "102",
+      "112",
+      "120"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The pattern is multiplying by 2 each time: 7 × 2 = 14, 14 × 2 = 28, 28 × 2 = 56. The next number is 56 × 2 = 112.",
+    "tags": [
+      "number-series",
+      "multiplication-pattern"
+    ]
+  },
+  {
+    "id": "NS-M-011",
+    "question": "What number comes next in the series?\n\n3, 7, 15, 31, ___",
+    "options": [
+      "47",
+      "55",
+      "63",
+      "65"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The pattern is multiplying by 2 then adding 1: (3 × 2) + 1 = 7, (7 × 2) + 1 = 15, (15 × 2) + 1 = 31. The next number is (31 × 2) + 1 = 63.",
+    "tags": [
+      "number-series",
+      "mixed-operation"
+    ]
+  },
+  {
+    "id": "NS-M-012",
+    "question": "What number comes next in the series?\n\n200, 180, 150, 110, ___",
+    "options": [
+      "50",
+      "60",
+      "70",
+      "80"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The differences decrease by increasing amounts: 200 − 20 = 180, 180 − 30 = 150, 150 − 40 = 110. The next difference is −50. Therefore, 110 − 50 = 60.",
+    "tags": [
+      "number-series",
+      "decreasing-difference"
+    ]
+  },
+  {
+    "id": "NS-M-013",
+    "question": "What number comes next in the series?\n\n8, 16, 32, 64, ___",
+    "options": [
+      "96",
+      "112",
+      "128",
+      "132"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The pattern is multiplying by 2 each time: 8 × 2 = 16, 16 × 2 = 32, 32 × 2 = 64. The next number is 64 × 2 = 128.",
+    "tags": [
+      "number-series",
+      "multiplication-pattern"
+    ]
+  },
+  {
+    "id": "NS-M-014",
+    "question": "What number comes next in the series?\n\n4, 10, 22, 46, ___",
+    "options": [
+      "86",
+      "92",
+      "94",
+      "96"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The pattern is multiplying by 2 then adding 2: (4 × 2) + 2 = 10, (10 × 2) + 2 = 22, (22 × 2) + 2 = 46. The next number is (46 × 2) + 2 = 94.",
+    "tags": [
+      "number-series",
+      "mixed-operation"
+    ]
+  },
+  {
+    "id": "NS-M-015",
+    "question": "What number comes next in the series?\n\n90, 82, 70, 54, ___",
+    "options": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The differences increase by 4: −8, −12, −16. The next difference is −20. Therefore, 54 − 20 = 34.",
+    "tags": [
+      "number-series",
+      "decreasing-difference"
+    ]
+  }
+]

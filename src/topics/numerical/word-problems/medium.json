@@ -1,0 +1,258 @@
+[
+  {
+  "id": "WP-M-001",
+  "question": "A worker earns ₱650 per day for the first 5 days and ₱800 per day for the next 3 days. How much did the worker earn in total?",
+  "options": [
+    "₱5,250",
+    "₱5,450",
+    "₱5,650",
+    "₱5,850"
+  ],
+  "correctAnswer": 2,
+  "explanation": "The worker's earnings for the first 5 days are 650 × 5 = ₱3,250. The earnings for the next 3 days are 800 × 3 = ₱2,400. Adding both amounts gives ₱3,250 + ₱2,400 = ₱5,650.",
+  "tags": [
+    "word problem",
+    "money",
+    "multi-step"
+  ]
+},
+  {
+    "id": "WP-M-002",
+    "question": "A vehicle travels 240 kilometers in 4 hours. At the same speed, how far can it travel in 7 hours?",
+    "options": [
+      "360 kilometers",
+      "400 kilometers",
+      "420 kilometers",
+      "480 kilometers"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Find the speed first: 240 ÷ 4 = 60 kilometers per hour. In 7 hours, the vehicle travels 60 × 7 = 420 kilometers.",
+    "tags": [
+      "word problem",
+      "distance",
+      "rate"
+    ]
+  },
+  {
+    "id": "WP-M-003",
+    "question": "A store offers a 15% discount on a bag priced at ₱2,000. What is the sale price of the bag?",
+    "options": [
+      "₱1,600",
+      "₱1,700",
+      "₱1,800",
+      "₱1,850"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The discount is 15% of ₱2,000: 0.15 × 2,000 = ₱300. The sale price is ₱2,000 − ₱300 = ₱1,700.",
+    "tags": [
+      "word problem",
+      "percentage",
+      "discount"
+    ]
+  },
+  {
+    "id": "WP-M-004",
+    "question": "The average score of 4 exams is 85. If the first three scores are 80, 90, and 88, what is the score on the fourth exam?",
+    "options": [
+      "78",
+      "82",
+      "85",
+      "90"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The total score needed is 85 × 4 = 340. The first three scores total 80 + 90 + 88 = 258. The fourth score is 340 − 258 = 82.",
+    "tags": [
+      "word problem",
+      "average",
+      "missing value"
+    ]
+  },
+  {
+    "id": "WP-M-005",
+    "question": "A tank is filled by two pumps. The first pump fills 25 liters per minute and the second pump fills 15 liters per minute. How many minutes will it take to fill a 600-liter tank if both pumps work together?",
+    "options": [
+      "12 minutes",
+      "15 minutes",
+      "18 minutes",
+      "20 minutes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The combined filling rate is 25 + 15 = 40 liters per minute. Time needed = 600 ÷ 40 = 15 minutes.",
+    "tags": [
+      "word problem",
+      "rate",
+      "work problem"
+    ]
+  },
+  {
+    "id": "WP-M-006",
+    "question": "A store owner bought 40 shirts at ₱350 each. She sold all the shirts for ₱500 each. How much profit did she earn?",
+    "options": [
+      "₱4,000",
+      "₱5,000",
+      "₱6,000",
+      "₱7,000"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Total cost = 40 × ₱350 = ₱14,000. Total sales = 40 × ₱500 = ₱20,000. Profit = ₱20,000 − ₱14,000 = ₱6,000.",
+    "tags": [
+      "word problem",
+      "profit",
+      "money"
+    ]
+  },
+  {
+    "id": "WP-M-007",
+    "question": "A train travels 360 kilometers in 6 hours. If it increases its speed by 20 kilometers per hour, how far can it travel in 5 hours?",
+    "options": [
+      "360 kilometers",
+      "380 kilometers",
+      "400 kilometers",
+      "420 kilometers"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The original speed is 360 ÷ 6 = 60 kilometers per hour. Increasing the speed by 20 gives 80 kilometers per hour. In 5 hours, the train travels 80 × 5 = 400 kilometers.",
+    "tags": [
+      "word problem",
+      "distance",
+      "speed"
+    ]
+  },
+  {
+    "id": "WP-M-008",
+    "question": "A school has 800 students. If 35% of the students are in the junior level, how many students are not in the junior level?",
+    "options": [
+      "480 students",
+      "500 students",
+      "520 students",
+      "560 students"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Junior students = 35% of 800 = 0.35 × 800 = 280 students. Students not in junior level = 800 − 280 = 520 students.",
+    "tags": [
+      "word problem",
+      "percentage",
+      "quantity"
+    ]
+  },
+  {
+    "id": "WP-M-009",
+    "question": "A construction project requires 1,200 cement bags. The company already has 35% of the required amount. How many more bags are needed to complete the project?",
+    "options": [
+      "720 bags",
+      "760 bags",
+      "780 bags",
+      "820 bags"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The company already has 35% of 1,200 bags: 0.35 × 1,200 = 420 bags. The remaining bags needed are 1,200 − 420 = 780 bags.",
+    "tags": [
+      "word problem",
+      "percentage",
+      "quantity"
+    ]
+  },
+  {
+    "id": "WP-M-010",
+    "question": "A farmer harvested 840 kilograms of rice. He sold 40% of the harvest and stored the remaining rice equally in 7 containers. How many kilograms of rice were stored in each container?",
+    "options": [
+      "60 kilograms",
+      "72 kilograms",
+      "84 kilograms",
+      "96 kilograms"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The amount sold was 40% of 840 = 0.40 × 840 = 336 kilograms. The remaining rice was 840 − 336 = 504 kilograms. Dividing equally into 7 containers: 504 ÷ 7 = 72 kilograms per container.",
+    "tags": [
+      "word problem",
+      "percentage",
+      "division",
+      "multi-step"
+    ]
+  },
+  {
+    "id": "WP-M-011",
+    "question": "A company hired 45 workers to finish a project in 20 days. If the same amount of work must be completed in 15 days, how many additional workers are needed?",
+    "options": [
+      "10 workers",
+      "12 workers",
+      "15 workers",
+      "20 workers"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The total work is measured in worker-days: 45 × 20 = 900 worker-days. To finish in 15 days, the company needs 900 ÷ 15 = 60 workers. Additional workers needed = 60 − 45 = 15 workers. The correct answer should be 15 workers.",
+    "tags": [
+      "word problem",
+      "work problem",
+      "proportion"
+    ]
+  },
+  {
+    "id": "WP-M-012",
+    "question": "A store bought 80 calculators for ₱1,200 each. If the store sold all calculators for ₱1,500 each, how much total profit did the store earn?",
+    "options": [
+      "₱20,000",
+      "₱24,000",
+      "₱28,000",
+      "₱30,000"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Profit per calculator = ₱1,500 − ₱1,200 = ₱300. Total profit = 80 × ₱300 = ₱24,000.",
+    "tags": [
+      "word problem",
+      "profit",
+      "money"
+    ]
+  },
+  {
+    "id": "WP-M-013",
+    "question": "A bus travels 420 kilometers using 35 liters of fuel. At the same rate, how many liters of fuel are needed to travel 600 kilometers?",
+    "options": [
+      "45 liters",
+      "50 liters",
+      "55 liters",
+      "60 liters"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The fuel consumption rate is 35 ÷ 420 liters per kilometer. For 600 kilometers: (35 × 600) ÷ 420 = 50 liters. Therefore, 50 liters of fuel are needed.",
+    "tags": [
+      "word problem",
+      "rate",
+      "proportion"
+    ]
+  },
+  {
+    "id": "WP-M-014",
+    "question": "A student's grades in three subjects are 85, 92, and 88. What grade must the student get in the fourth subject to have an average of 90?",
+    "options": [
+      "90",
+      "92",
+      "95",
+      "98"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The total score needed is 90 × 4 = 360. The first three scores total 85 + 92 + 88 = 265. The required fourth score is 360 − 265 = 95.",
+    "tags": [
+      "word problem",
+      "average",
+      "missing value"
+    ]
+  },
+  {
+    "id": "WP-M-015",
+    "question": "A water tank can hold 2,400 liters. It is currently filled to 65% of its capacity. How many more liters are needed to completely fill the tank?",
+    "options": [
+      "720 liters",
+      "780 liters",
+      "840 liters",
+      "960 liters"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The tank currently contains 65% of 2,400 liters: 0.65 × 2,400 = 1,560 liters. The remaining amount needed is 2,400 − 1,560 = 840 liters.",
+    "tags": [
+      "word problem",
+      "percentage",
+      "quantity"
+    ]
+  }
+]

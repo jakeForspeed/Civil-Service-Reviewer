@@ -6,9 +6,13 @@ import Review from "./pages/Review";
 import Quiz from "./pages/Quiz";
 import Result from "./pages/Result";
 import MockTest from "./pages/MockTest";
+import TestResult from "./pages/TestResult";
+
+import { loadMockTestQuestions } from "./lib/questionLoader";
 
 
 function App() {
+
 
   return (
 
@@ -42,6 +46,11 @@ function App() {
       <Route
         path="/result"
         element={<MainLayout><Result /></MainLayout>}
+      />
+
+      <Route
+        path="/test-result"
+        element={<MainLayout><TestResult /></MainLayout>}
       />
 
 

@@ -17,15 +17,16 @@
     },
 
     "mock": {
-      "questionsPerSession": 100,
+      "questionsPerSession": 110,
+      "questionsPerSubtopic": 5,
       "passingScore": 80,
-      "timeLimitMinutes": null,
-      "shuffleQuestions": true,
+      "timeLimitMinutes": 110,
+      "shuffleQuestions": false,
       "shuffleChoices": true,
       "showExplanation": false,
       "showResultOnlyAtEnd": true,
       "includeAllTopics": true,
-      "difficulty": "mixed"
+      "difficulty": "hard"
     }
   },
 
@@ -163,51 +164,7 @@
       ]
     },
 
-    {
-      "id": "analytical",
-      "name": "Analytical Ability",
-      "icon": "🧠",
-      "color": "#9333EA",
-      "description": "Improve logical reasoning, critical thinking, and analytical decision-making skills.",
-
-      "subTopics": [
-        {
-          "id": "word-analogy",
-          "name": "Word Analogy",
-          "path": "analytical/word-analogy"
-        },
-        {
-          "id": "logical-reasoning",
-          "name": "Logical Reasoning",
-          "path": "analytical/logical-reasoning"
-        },
-        {
-          "id": "identifying-assumptions",
-          "name": "Identifying Assumptions",
-          "path": "analytical/identifying-assumptions"
-        },
-        {
-          "id": "drawing-conclusions",
-          "name": "Drawing Conclusions",
-          "path": "analytical/drawing-conclusions"
-        },
-        {
-          "id": "data-interpretation",
-          "name": "Data Interpretation",
-          "path": "analytical/data-interpretation"
-        },
-        {
-          "id": "pattern-recognition",
-          "name": "Pattern Recognition",
-          "path": "analytical/pattern-recognition"
-        },
-        {
-          "id": "abstract-reasoning",
-          "name": "Abstract Reasoning",
-          "path": "analytical/abstract-reasoning"
-        }
-      ]
-    },
+    
 
     {
       "id": "general-information",

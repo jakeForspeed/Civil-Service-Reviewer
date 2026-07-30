@@ -1,0 +1,258 @@
+[
+  {
+    "id": "SI-E-001",
+    "question": "Juan deposited ₱5,000 in a bank that offers 4% simple interest per year. How much interest will he earn after 3 years?",
+    "options": [
+      "₱400",
+      "₱500",
+      "₱600",
+      "₱700"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Using the simple interest formula SI = (P × R × T) / 100: SI = (5,000 × 4 × 3) / 100 = 600. Juan will earn ₱600 in interest after 3 years.",
+    "tags": [
+      "simple interest",
+      "bank savings",
+      "basic calculation"
+    ]
+  },
+  {
+    "id": "SI-E-002",
+    "question": "Maria borrowed ₱8,000 from a lender at a simple interest rate of 5% per year. How much interest will she pay after 2 years?",
+    "options": [
+      "₱600",
+      "₱800",
+      "₱1,000",
+      "₱1,200"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Using SI = (P × R × T) / 100: SI = (8,000 × 5 × 2) / 100 = 800. Maria will pay ₱800 in interest after 2 years.",
+    "tags": [
+      "simple interest",
+      "loan",
+      "basic calculation"
+    ]
+  },
+  {
+    "id": "SI-E-003",
+    "question": "A person invested ₱10,000 at a simple interest rate of 6% per year. What will be the total amount after 4 years?",
+    "options": [
+      "₱11,400",
+      "₱12,000",
+      "₱12,400",
+      "₱13,000"
+    ],
+    "correctAnswer": 2,
+    "explanation": "First calculate the simple interest: SI = (10,000 × 6 × 4) / 100 = ₱2,400. The total amount is A = P + SI = ₱10,000 + ₱2,400 = ₱12,400.",
+    "tags": [
+      "simple interest",
+      "total amount",
+      "investment"
+    ]
+  },
+  {
+    "id": "SI-E-004",
+    "question": "How much principal was invested if the simple interest earned was ₱900 at a rate of 5% per year for 3 years?",
+    "options": [
+      "₱4,000",
+      "₱5,000",
+      "₱6,000",
+      "₱7,000"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Using SI = (P × R × T) / 100, substitute the values: 900 = (P × 5 × 3) / 100. Therefore, 900 = 15P / 100. Solving gives P = (900 × 100) / 15 = ₱6,000.",
+    "tags": [
+      "simple interest",
+      "finding principal",
+      "reverse calculation"
+    ]
+  },
+  {
+    "id": "SI-E-005",
+    "question": "A loan of ₱15,000 earns ₱1,500 in simple interest over 2 years. What is the annual interest rate?",
+    "options": [
+      "4%",
+      "5%",
+      "6%",
+      "7%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Using SI = (P × R × T) / 100: 1,500 = (15,000 × R × 2) / 100. Simplifying gives 1,500 = 300R. Therefore, R = 1,500 ÷ 300 = 5%.",
+    "tags": [
+      "simple interest",
+      "finding rate",
+      "reverse calculation"
+    ]
+  }
+,  {
+    "id": "SI-E-006",
+    "question": "Pedro invested ₱12,000 at a simple interest rate of 3% per year. How much interest will he earn after 5 years?",
+    "options": [
+      "₱1,200",
+      "₱1,500",
+      "₱1,800",
+      "₱2,000"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Using SI = (P × R × T) / 100: SI = (12,000 × 3 × 5) / 100 = 1,800. Pedro will earn ₱1,800 in interest after 5 years.",
+    "tags": [
+      "simple interest",
+      "investment",
+      "basic calculation"
+    ]
+  },
+  {
+    "id": "SI-E-007",
+    "question": "A loan of ₱20,000 is charged a simple interest rate of 4% per year. How much total amount must be paid after 3 years?",
+    "options": [
+      "₱21,600",
+      "₱22,000",
+      "₱22,400",
+      "₱24,000"
+    ],
+    "correctAnswer": 2,
+    "explanation": "First calculate the interest: SI = (20,000 × 4 × 3) / 100 = ₱2,400. The total amount is A = P + SI = ₱20,000 + ₱2,400 = ₱22,400.",
+    "tags": [
+      "simple interest",
+      "loan",
+      "total amount"
+    ]
+  },
+  {
+    "id": "SI-E-008",
+    "question": "How much simple interest will ₱7,500 earn at a rate of 8% per year for 2 years?",
+    "options": [
+      "₱900",
+      "₱1,000",
+      "₱1,200",
+      "₱1,500"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Using SI = (P × R × T) / 100: SI = (7,500 × 8 × 2) / 100 = ₱1,200. The interest earned is ₱1,200.",
+    "tags": [
+      "simple interest",
+      "investment",
+      "basic calculation"
+    ]
+  },
+  {
+    "id": "SI-E-009",
+    "question": "A person borrowed ₱6,000 and paid ₱720 in simple interest after 3 years. What was the annual interest rate?",
+    "options": [
+      "3%",
+      "4%",
+      "5%",
+      "6%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Using SI = (P × R × T) / 100: 720 = (6,000 × R × 3) / 100. This becomes 720 = 180R. Solving gives R = 720 ÷ 180 = 4%.",
+    "tags": [
+      "simple interest",
+      "finding rate",
+      "reverse calculation"
+    ]
+  },
+  {
+    "id": "SI-E-010",
+    "question": "An investment of ₱25,000 earns ₱3,750 in simple interest at a rate of 5% per year. How long was the money invested?",
+    "options": [
+      "2 years",
+      "3 years",
+      "4 years",
+      "5 years"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Using SI = (P × R × T) / 100: 3,750 = (25,000 × 5 × T) / 100. This becomes 3,750 = 1,250T. Solving gives T = 3 years.",
+    "tags": [
+      "simple interest",
+      "finding time",
+      "reverse calculation"
+    ]
+  },
+  {
+    "id": "SI-E-011",
+    "question": "A student borrowed ₱4,000 at a simple interest rate of 6% per year. How much interest will the student pay after 2 years?",
+    "options": [
+      "₱360",
+      "₱480",
+      "₱520",
+      "₱600"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Using SI = (P × R × T) / 100: SI = (4,000 × 6 × 2) / 100 = ₱480. The student will pay ₱480 in interest after 2 years.",
+    "tags": [
+      "simple interest",
+      "loan",
+      "basic calculation"
+    ]
+  },
+  {
+    "id": "SI-E-012",
+    "question": "A bank offers 5% simple interest per year. If ₱18,000 is deposited for 4 years, how much interest will be earned?",
+    "options": [
+      "₱2,800",
+      "₱3,000",
+      "₱3,600",
+      "₱4,000"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Using SI = (P × R × T) / 100: SI = (18,000 × 5 × 4) / 100 = ₱3,600. The interest earned after 4 years is ₱3,600.",
+    "tags": [
+      "simple interest",
+      "bank savings",
+      "investment"
+    ]
+  },
+  {
+    "id": "SI-E-013",
+    "question": "A person invested ₱9,000 and earned ₱1,080 in simple interest after 3 years. What was the annual interest rate?",
+    "options": [
+      "3%",
+      "4%",
+      "5%",
+      "6%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Using SI = (P × R × T) / 100: 1,080 = (9,000 × R × 3) / 100. This becomes 1,080 = 270R. Solving gives R = 1,080 ÷ 270 = 4%.",
+    "tags": [
+      "simple interest",
+      "finding rate",
+      "reverse calculation"
+    ]
+  },
+  {
+    "id": "SI-E-014",
+    "question": "How long will it take for ₱10,000 to earn ₱2,000 in simple interest at a rate of 5% per year?",
+    "options": [
+      "2 years",
+      "3 years",
+      "4 years",
+      "5 years"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Using SI = (P × R × T) / 100: 2,000 = (10,000 × 5 × T) / 100. This becomes 2,000 = 500T. Solving gives T = 4 years.",
+    "tags": [
+      "simple interest",
+      "finding time",
+      "reverse calculation"
+    ]
+  },
+  {
+    "id": "SI-E-015",
+    "question": "A loan of ₱25,000 is charged at a simple interest rate of 8% per year for 2 years. What is the total amount to be paid?",
+    "options": [
+      "₱27,000",
+      "₱28,000",
+      "₱29,000",
+      "₱30,000"
+    ],
+    "correctAnswer": 2,
+    "explanation": "First calculate the interest: SI = (25,000 × 8 × 2) / 100 = ₱4,000. The total amount is A = P + SI = ₱25,000 + ₱4,000 = ₱29,000.",
+    "tags": [
+      "simple interest",
+      "loan",
+      "total amount"
+    ]
+  }
+
+]

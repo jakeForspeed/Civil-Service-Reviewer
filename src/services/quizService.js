@@ -34,7 +34,7 @@ export async function getQuestions(topic, subTopic, difficulty) {
 
     const questions = module.default ?? [];
 
-    return pickRandom(questions, 5);
+    return pickRandom(questions, 15);
 
 }
 

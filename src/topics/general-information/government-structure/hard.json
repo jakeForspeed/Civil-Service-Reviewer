@@ -1,0 +1,272 @@
+[
+  {
+    "id": "GOV-H-001",
+    "question": "Under the 1987 Philippine Constitution, which body has the exclusive power to initiate all cases of impeachment?",
+    "options": [
+      "House of Representatives",
+      "Senate",
+      "Supreme Court",
+      "Office of the Ombudsman"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The House of Representatives has the exclusive power to initiate all cases of impeachment by approving articles of impeachment. The Senate has the sole power to try and decide impeachment cases.",
+    "tags": [
+      "general-information",
+      "government-structure",
+      "impeachment",
+      "constitution"
+    ]
+  },
+  {
+    "id": "GOV-H-002",
+    "question": "Which constitutional doctrine allows courts to review whether acts of government officials or institutions violate the Constitution?",
+    "options": [
+      "Judicial review",
+      "Executive privilege",
+      "Administrative supervision",
+      "Legislative inquiry"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Judicial review is the power of courts, particularly the Supreme Court, to determine whether laws, government actions, or official acts are consistent with the Constitution.",
+    "tags": [
+      "general-information",
+      "government-structure",
+      "judiciary",
+      "judicial-review"
+    ]
+  },
+  {
+    "id": "GOV-H-003",
+    "question": "Which statement correctly describes the constitutional relationship between the President and Congress regarding national legislation?",
+    "options": [
+      "The President may propose laws, but Congress exercises the power to enact legislation",
+      "The President alone has the authority to create all national laws",
+      "Congress can directly enforce laws without the Executive branch",
+      "The President can permanently prevent Congress from passing any law"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The President may recommend legislative measures and approve or veto bills passed by Congress, but the power to enact laws belongs to Congress under the legislative process.",
+    "tags": [
+      "general-information",
+      "government-structure",
+      "separation-of-powers",
+      "legislative-process"
+    ]
+  },
+  {
+    "id": "GOV-H-004",
+    "question": "Which constitutional principle prevents public officers from using government authority for personal benefit and requires accountability in public service?",
+    "options": [
+      "Public office is a public trust",
+      "Separation of church and state",
+      "Freedom of contract",
+      "Territorial sovereignty"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Article XI, Section 1 of the 1987 Constitution states that public office is a public trust. Public officers must serve with responsibility, integrity, loyalty, and efficiency, and remain accountable to the people.",
+    "tags": [
+      "general-information",
+      "government-structure",
+      "public-accountability",
+      "constitution"
+    ]
+  },
+  {
+    "id": "GOV-H-005",
+    "question": "Which statement correctly describes the power of the Supreme Court under the 1987 Philippine Constitution?",
+    "options": [
+      "It has the power to determine whether government acts violate the Constitution",
+      "It creates the annual national budget",
+      "It directly manages executive departments",
+      "It approves all appointments made by the President"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Supreme Court exercises judicial review, allowing it to determine whether laws, treaties, and government actions are consistent with the Constitution.",
+    "tags": [
+      "general-information",
+      "government-structure",
+      "supreme-court",
+      "judicial-review"
+    ]
+  },
+  {
+    "id": "GOV-H-006",
+    "question": "Under the principle of checks and balances, which action demonstrates the authority of one branch to limit another branch?",
+    "options": [
+      "The President vetoes a bill passed by Congress",
+      "The Supreme Court writes all national laws",
+      "Congress directly commands local governments",
+      "The Senate replaces judicial decisions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The President's veto power is an example of checks and balances because it allows the Executive branch to limit the Legislative branch by rejecting a bill passed by Congress, subject to constitutional procedures.",
+    "tags": [
+      "general-information",
+      "government-structure",
+      "checks-and-balances",
+      "separation-of-powers"
+    ]
+  },
+  {
+    "id": "GOV-H-007",
+    "question": "Which body has the authority to confirm certain appointments made by the President under the 1987 Philippine Constitution?",
+    "options": [
+      "Commission on Appointments",
+      "Civil Service Commission",
+      "Supreme Court",
+      "House of Representatives"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Commission on Appointments, composed of members of Congress, has the authority to confirm certain presidential appointments as provided by the Constitution, including appointments of department secretaries and other officials.",
+    "tags": [
+      "general-information",
+      "government-structure",
+      "commission-on-appointments",
+      "presidential-appointments"
+    ]
+  },
+  {
+    "id": "GOV-H-008",
+    "question": "Which constitutional principle means that government authority originates from the people?",
+    "options": [
+      "Popular sovereignty",
+      "Judicial supremacy",
+      "Administrative autonomy",
+      "Executive privilege"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Popular sovereignty means that sovereignty resides in the people, and all government authority comes from them. This principle is stated in Article II, Section 1 of the 1987 Philippine Constitution.",
+    "tags": [
+      "general-information",
+      "government-structure",
+      "constitutional-principles",
+      "popular-sovereignty"
+    ]
+  },
+  {
+    "id": "GOV-H-009",
+    "question": "Which statement best describes the role of the Commission on Audit (COA) as a constitutional commission?",
+    "options": [
+      "It independently examines government revenues, expenditures, and use of public funds",
+      "It creates laws concerning government spending",
+      "It appoints all government officials",
+      "It conducts and supervises national elections"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Commission on Audit (COA) is an independent constitutional commission responsible for auditing government accounts and ensuring accountability in the use of public funds and property.",
+    "tags": [
+      "general-information",
+      "government-structure",
+      "constitutional-commissions",
+      "coa"
+    ]
+  },
+  {
+    "id": "GOV-H-010",
+    "question": "Which constitutional mechanism allows the Senate to conduct an impeachment trial after the House of Representatives approves articles of impeachment?",
+    "options": [
+      "The Senate's power to try and decide impeachment cases",
+      "The Senate's power to create executive agencies",
+      "The Senate's authority to appoint all government officials",
+      "The Senate's power to interpret all laws"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Under the 1987 Constitution, the Senate has the sole power to try and decide all cases of impeachment after the House of Representatives initiates the proceedings.",
+    "tags": [
+      "general-information",
+      "government-structure",
+      "impeachment",
+      "senate"
+    ]
+  },
+  {
+    "id": "GOV-H-011",
+    "question": "Which constitutional concept ensures that government officials may be held responsible for violations committed while performing public duties?",
+    "options": [
+      "Public accountability",
+      "Absolute immunity",
+      "Government secrecy",
+      "Administrative independence"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Public accountability requires government officials and employees to remain responsible for their actions and serve with integrity, responsibility, and efficiency as mandated by the Constitution.",
+    "tags": [
+      "general-information",
+      "government-structure",
+      "public-accountability",
+      "constitution"
+    ]
+  },
+  {
+    "id": "GOV-H-012",
+    "question": "Which situation best illustrates the constitutional principle of separation of powers?",
+    "options": [
+      "Congress creates laws, the Executive implements them, and the Judiciary interprets them",
+      "The President performs all functions of government without limitation",
+      "The Supreme Court directly creates government policies",
+      "Congress controls all government agencies and courts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Separation of powers divides government functions among three branches: the Legislative branch creates laws, the Executive branch enforces laws, and the Judiciary interprets laws.",
+    "tags": [
+      "general-information",
+      "government-structure",
+      "separation-of-powers",
+      "three-branches"
+    ]
+  },
+  {
+    "id": "GOV-H-013",
+    "question": "Which constitutional body has the authority to investigate and prosecute cases involving alleged misconduct or wrongdoing by public officials?",
+    "options": [
+      "Office of the Ombudsman",
+      "Commission on Audit",
+      "Commission on Elections",
+      "National Economic and Development Authority"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Office of the Ombudsman investigates and prosecutes public officials and employees who may be responsible for illegal, unjust, improper, or inefficient acts, helping promote accountability in government.",
+    "tags": [
+      "general-information",
+      "government-structure",
+      "ombudsman",
+      "public-accountability"
+    ]
+  },
+  {
+    "id": "GOV-H-014",
+    "question": "Which statement correctly describes the constitutional independence of the three branches of government?",
+    "options": [
+      "Each branch has separate powers but may limit the others through checks and balances",
+      "The Executive branch has authority over all actions of the other branches",
+      "The Legislative branch may remove all decisions made by courts",
+      "The Judiciary directly manages government departments"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The three branches of government have separate functions and powers, but the Constitution provides checks and balances to prevent abuse and maintain accountability among branches.",
+    "tags": [
+      "general-information",
+      "government-structure",
+      "separation-of-powers",
+      "checks-and-balances"
+    ]
+  },
+  {
+    "id": "GOV-H-015",
+    "question": "Which constitutional body reviews the qualifications and conduct of public officials in relation to administrative complaints involving government personnel?",
+    "options": [
+      "Civil Service Commission (CSC)",
+      "Commission on Elections (COMELEC)",
+      "Commission on Audit (COA)",
+      "Bangko Sentral ng Pilipinas (BSP)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Civil Service Commission (CSC) oversees the civil service system, including the enforcement of civil service rules, personnel standards, and administrative matters involving government employees.",
+    "tags": [
+      "general-information",
+      "government-structure",
+      "civil-service",
+      "public-personnel"
+    ]
+  }
+]
