@@ -60,7 +60,7 @@ export function createMockTest(config = {}) {
 
         topic.subtopics.forEach(subtopic => {
 
-            const count = questionsPerSubtopic[subtopic.name] ?? 1;
+            const count = questionsPerSubtopic[subtopic.name] ?? 2;
 
             const selectedQuestions = shuffle(subtopic.questions)
                 .slice(0, count)
