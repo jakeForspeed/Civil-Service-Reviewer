@@ -1,0 +1,258 @@
+{
+  "app": {
+    "name": "Civil Service Reviewer",
+    "version": "1.0.0",
+    "author": "Robert Jake Matao"
+  },
+
+  "quiz": {
+    "review": {
+      "questionsPerSession": 15,
+      "passingScore": 70,
+      "shuffleQuestions": true,
+      "shuffleChoices": true,
+      "showExplanation": true,
+      "allowRetry": true,
+      "timerEnabled": false
+    },
+
+    "mock": {
+      "questionsPerSession": 100,
+      "passingScore": 80,
+      "timeLimitMinutes": null,
+      "shuffleQuestions": true,
+      "shuffleChoices": true,
+      "showExplanation": false,
+      "showResultOnlyAtEnd": true,
+      "includeAllTopics": true,
+      "difficulty": "mixed"
+    }
+  },
+
+  "modes": [
+    {
+      "id": "review",
+      "name": "Review",
+      "icon": "📚",
+      "description": "Practice selected topics with detailed explanations after every question."
+    },
+    {
+      "id": "mock-test",
+      "name": "Mock Test",
+      "icon": "📝",
+      "description": "Take a simulated Civil Service Exam with randomized questions from all topics."
+    }
+  ],
+
+  "difficulties": [
+    {
+      "id": "easy",
+      "name": "Easy",
+      "color": "#22C55E",
+      "order": 1
+    },
+    {
+      "id": "medium",
+      "name": "Medium",
+      "color": "#EAB308",
+      "order": 2
+    },
+    {
+      "id": "hard",
+      "name": "Hard",
+      "color": "#DC2626",
+      "order": 3
+    }
+  ],
+
+  "topics": [
+    {
+      "id": "verbal",
+      "name": "Verbal Ability",
+      "icon": "📚",
+      "color": "#2563EB",
+      "description": "Practice English vocabulary, grammar, sentence construction, and language comprehension.",
+
+      "subTopics": [
+        {
+          "id": "vocabulary",
+          "name": "Vocabulary",
+          "path": "verbal/vocabulary"
+        },
+        {
+          "id": "grammar",
+          "name": "Grammar and Correct Usage",
+          "path": "verbal/grammar"
+        },
+        {
+          "id": "sentence-completion",
+          "name": "Sentence Completion",
+          "path": "verbal/sentence-completion"
+        },
+        {
+          "id": "identifying-errors",
+          "name": "Identifying Errors",
+          "path": "verbal/identifying-errors"
+        },
+        {
+          "id": "paragraph-organization",
+          "name": "Paragraph Organization",
+          "path": "verbal/paragraph-organization"
+        }
+      ]
+    },
+
+    {
+      "id": "numerical",
+      "name": "Numerical Ability",
+      "icon": "🧮",
+      "color": "#16A34A",
+      "description": "Practice mathematical computations and quantitative problem solving.",
+
+      "subTopics": [
+        {
+          "id": "basic-arithmetic",
+          "name": "Basic Arithmetic",
+          "path": "numerical/basic-arithmetic"
+        },
+        {
+          "id": "fractions",
+          "name": "Fractions",
+          "path": "numerical/fractions"
+        },
+        {
+          "id": "decimals",
+          "name": "Decimals",
+          "path": "numerical/decimals"
+        },
+        {
+          "id": "percentages",
+          "name": "Percentages",
+          "path": "numerical/percentages"
+        },
+        {
+          "id": "ratios-and-proportions",
+          "name": "Ratios and Proportions",
+          "path": "numerical/ratios-and-proportions"
+        },
+        {
+          "id": "averages",
+          "name": "Averages",
+          "path": "numerical/averages"
+        },
+        {
+          "id": "simple-interest",
+          "name": "Simple Interest",
+          "path": "numerical/simple-interest"
+        },
+        {
+          "id": "word-problems",
+          "name": "Word Problems",
+          "path": "numerical/word-problems"
+        },
+        {
+          "id": "number-series",
+          "name": "Number Series",
+          "path": "numerical/number-series"
+        },
+        {
+          "id": "basic-algebra",
+          "name": "Basic Algebra",
+          "path": "numerical/basic-algebra"
+        }
+      ]
+    },
+
+    {
+      "id": "analytical",
+      "name": "Analytical Ability",
+      "icon": "🧠",
+      "color": "#9333EA",
+      "description": "Improve logical reasoning, critical thinking, and analytical decision-making skills.",
+
+      "subTopics": [
+        {
+          "id": "word-analogy",
+          "name": "Word Analogy",
+          "path": "analytical/word-analogy"
+        },
+        {
+          "id": "logical-reasoning",
+          "name": "Logical Reasoning",
+          "path": "analytical/logical-reasoning"
+        },
+        {
+          "id": "identifying-assumptions",
+          "name": "Identifying Assumptions",
+          "path": "analytical/identifying-assumptions"
+        },
+        {
+          "id": "drawing-conclusions",
+          "name": "Drawing Conclusions",
+          "path": "analytical/drawing-conclusions"
+        },
+        {
+          "id": "data-interpretation",
+          "name": "Data Interpretation",
+          "path": "analytical/data-interpretation"
+        },
+        {
+          "id": "pattern-recognition",
+          "name": "Pattern Recognition",
+          "path": "analytical/pattern-recognition"
+        },
+        {
+          "id": "abstract-reasoning",
+          "name": "Abstract Reasoning",
+          "path": "analytical/abstract-reasoning"
+        }
+      ]
+    },
+
+    {
+      "id": "general-information",
+      "name": "General Information",
+      "icon": "🏛️",
+      "color": "#EA580C",
+      "description": "Review Philippine laws, government, history, ethics, environment, and current events.",
+
+      "subTopics": [
+        {
+          "id": "1987-philippine-constitution",
+          "name": "1987 Philippine Constitution",
+          "path": "general-information/1987-philippine-constitution"
+        },
+        {
+          "id": "ra-6713",
+          "name": "Republic Act No. 6713",
+          "path": "general-information/ra-6713"
+        },
+        {
+          "id": "peace-and-human-rights",
+          "name": "Peace and Human Rights",
+          "path": "general-information/peace-and-human-rights"
+        },
+        {
+          "id": "environmental-management",
+          "name": "Environmental Management and Protection",
+          "path": "general-information/environmental-management"
+        },
+        {
+          "id": "basic-philippine-history",
+          "name": "Basic Philippine History",
+          "path": "general-information/basic-philippine-history"
+        },
+        {
+          "id": "government-structure",
+          "name": "Government Structure",
+          "path": "general-information/government-structure"
+        },
+        {
+          "id": "current-events",
+          "name": "Current Events",
+          "path": "general-information/current-events"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+[
+  {
+    "id": "GRAM-H-001",
+    "question": "Choose the sentence that is grammatically correct.",
+    "options": [
+      "Each of the applicants, together with their references, are required to attend the orientation.",
+      "Each of the applicants, together with his or her references, is required to attend the orientation.",
+      "Each of the applicants, together with their references, is required to attend the orientation.",
+      "Each of the applicants, together with his or her references, are required to attend the orientation."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The subject is 'Each,' which is singular. The phrase 'together with his or her references' is a parenthetical phrase and does not affect subject–verb agreement. Therefore, the verb must be 'is.' In formal grammar, the singular antecedent 'Each' also requires the singular pronoun 'his or her.' Choices A and D incorrectly use the plural verb 'are,' while Choice C uses the plural pronoun 'their,' which does not agree with the singular antecedent in formal written English.",
+    "tags": [
+      "advanced subject-verb agreement",
+      "pronoun agreement"
+    ]
+  },
+  {
+    "id": "GRAM-H-002",
+    "question": "Choose the sentence that demonstrates correct subject–verb agreement with a correlative conjunction.",
+    "options": [
+      "Neither the assistant managers nor the director have approved the proposal.",
+      "Neither the assistant managers nor the director has approved the proposal.",
+      "Neither the assistant managers or the director has approved the proposal.",
+      "Neither the assistant managers nor the director have approves the proposal."
+    ],
+    "correctAnswer": 1,
+    "explanation": "With 'neither...nor,' the verb agrees with the subject closest to it. The nearest subject is 'the director,' which is singular, so the correct verb is 'has.' Choice A incorrectly uses 'have.' Choice C incorrectly uses 'or' instead of 'nor.' Choice D contains both incorrect verb agreement ('have') and an incorrect past participle ('approves' instead of 'approved').",
+    "tags": [
+      "correlative conjunctions",
+      "subject-verb agreement"
+    ]
+  },
+  {
+    "id": "GRAM-H-003",
+    "question": "Choose the sentence that correctly uses inversion after a negative expression.",
+    "options": [
+      "Rarely I have seen such an organized office.",
+      "Rarely have I seen such an organized office.",
+      "Rarely I had seen such an organized office.",
+      "Rarely has seen I such an organized office."
+    ],
+    "correctAnswer": 1,
+    "explanation": "When a sentence begins with a negative or limiting expression such as 'Rarely,' 'Never,' 'Seldom,' or 'Hardly,' subject–auxiliary inversion is required. Therefore, 'Rarely have I seen...' is the correct construction. The remaining options either fail to invert the subject and auxiliary or place the words in an incorrect order.",
+    "tags": [
+      "inversion",
+      "advanced sentence structure"
+    ]
+  },
+  {
+    "id": "GRAM-H-004",
+    "question": "Choose the sentence that correctly completes the comparison.",
+    "options": [
+      "Maria is more experienced than any supervisor in the department.",
+      "Maria is more experienced than any other supervisor in the department.",
+      "Maria is more experienced than all supervisors in the department.",
+      "Maria is the more experienced than any supervisor in the department."
+    ],
+    "correctAnswer": 1,
+    "explanation": "When comparing one member of a group with the rest of that same group, the expression 'any other' is required. Without 'other,' the sentence illogically compares Maria with herself. Choice C implies Maria is more experienced than herself as well as everyone else, while Choice D incorrectly combines the comparative form with the definite article.",
+    "tags": [
+      "comparisons",
+      "logical sentence structure"
+    ]
+  },
+  {
+    "id": "GRAM-H-005",
+    "question": "Choose the sentence that is grammatically correct.",
+    "options": [
+      "The committee have reached a unanimous decision after several hours of discussion.",
+      "The committee has reached a unanimous decision after several hours of discussion.",
+      "The committee were reaching a unanimous decision after several hours of discussion.",
+      "The committee are reaching a unanimous decision after several hours of discussion."
+    ],
+    "correctAnswer": 1,
+    "explanation": "In American English, which is the standard generally followed in Philippine schools and the Civil Service Examination, collective nouns such as 'committee' are treated as singular when acting as one unit. Therefore, 'The committee has reached...' is correct. The other choices incorrectly use plural verbs with a singular collective noun in this context.",
+    "tags": [
+      "collective nouns",
+      "subject-verb agreement"
+    ]
+  },
+  {
+    "id": "GRAM-H-006",
+    "question": "Choose the sentence that correctly uses 'who' or 'whom'.",
+    "options": [
+      "Whom do you believe will represent the department at the conference?",
+      "Who do you believe will represent the department at the conference?",
+      "Who do you believe the committee selected to represent the department?",
+      "Whom do you believe is responsible for the delay?"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Although 'who' follows the phrase 'do you believe,' it functions as the subject of the verb 'will represent' in the embedded clause ('who will represent the department'). Therefore, the subjective pronoun 'who' is correct. Choice C is incorrect because 'who' functions as the object of 'selected' and should be 'whom.' Choice D is incorrect because 'whom' is incorrectly used as the subject of 'is responsible.'",
+    "tags": [
+      "who vs whom",
+      "pronoun case"
+    ]
+  },
+  {
+    "id": "GRAM-H-007",
+    "question": "Choose the sentence that is grammatically correct.",
+    "options": [
+      "She is more experienced than me.",
+      "She is more experienced than I.",
+      "She is more experienced than myself.",
+      "She is more experienced than mine."
+    ],
+    "correctAnswer": 1,
+    "explanation": "In formal grammar, the comparison is understood as 'She is more experienced than I am.' Therefore, the subjective pronoun 'I' is correct. 'Me' is common in informal speech but is considered less formal in written English. 'Myself' is a reflexive pronoun and cannot replace 'I' or 'me' here, while 'mine' is a possessive pronoun and is incorrect in this context.",
+    "tags": [
+      "pronoun case",
+      "comparisons"
+    ]
+  },
+  {
+    "id": "GRAM-H-008",
+    "question": "Choose the sentence that correctly uses the subjunctive mood.",
+    "options": [
+      "The supervisor insisted that every employee submits the required documents.",
+      "The supervisor insisted that every employee submitted the required documents.",
+      "The supervisor insisted that every employee submit the required documents.",
+      "The supervisor insisted that every employee has submitted the required documents."
+    ],
+    "correctAnswer": 2,
+    "explanation": "After verbs expressing demands, recommendations, or requests (such as 'insist,' 'recommend,' 'require,' or 'suggest'), the subjunctive mood uses the base form of the verb regardless of the subject. Therefore, 'submit' is correct. The other choices incorrectly use finite verb forms.",
+    "tags": [
+      "subjunctive mood"
+    ]
+  },
+  {
+    "id": "GRAM-H-009",
+    "question": "Choose the sentence that correctly uses the idiomatic expression.",
+    "options": [
+      "The manager is capable to lead a large team.",
+      "The manager is capable for leading a large team.",
+      "The manager is capable of leading a large team.",
+      "The manager is capable with leading a large team."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The adjective 'capable' is correctly followed by the preposition 'of' and a gerund (-ing form). Therefore, 'capable of leading' is the correct idiomatic expression. The combinations 'capable to,' 'capable for,' and 'capable with' are not standard English.",
+    "tags": [
+      "idiomatic expressions",
+      "prepositions"
+    ]
+  },
+  {
+    "id": "GRAM-H-010",
+    "question": "Choose the sentence that is grammatically correct.",
+    "options": [
+        "Neither the employees nor the manager are available today.",
+        "Neither the employees nor the manager is available today.",
+        "Neither the employees or the manager is available today.",
+        "Neither the employees nor the manager have available today."
+    ],
+    "correctAnswer": 1,
+    "explanation": "With the correlative conjunction 'neither...nor,' the verb agrees with the subject closest to it. Since the nearest subject is 'the manager,' which is singular, the correct verb is 'is.' Choice A incorrectly uses the plural verb 'are.' Choice C incorrectly uses 'or' instead of 'nor.' Choice D contains an incorrect verb form.",
+    "tags": [
+        "correlative conjunctions",
+        "subject-verb agreement",
+        "pronouns"
+        ]
+    },
+    {
+    "id": "GRAM-H-011",
+    "question": "Choose the sentence that correctly uses an absolute phrase.",
+    "options": [
+      "The meeting having ended, everyone returned to their offices.",
+      "Having ended the meeting, everyone returned to their offices.",
+      "The meeting was ended, everyone returned to their offices.",
+      "Ending the meeting, the offices became quiet."
+    ],
+    "correctAnswer": 0,
+    "explanation": "An absolute phrase consists of a noun and a participle (or participial phrase) that modifies the entire sentence rather than the subject. 'The meeting having ended' is an absolute phrase providing background information before the main clause. Choice B contains a participial phrase that suggests 'everyone' ended the meeting, which changes the meaning. Choice C creates a comma splice by joining two independent clauses with only a comma. Choice D contains a dangling modifier because 'the offices' cannot perform the action of 'ending the meeting.'",
+    "tags": [
+      "absolute phrases",
+      "advanced sentence structure"
+    ]
+  },
+  {
+    "id": "GRAM-H-012",
+    "question": "Choose the sentence with correct parallel structure.",
+    "options": [
+      "The director values honesty, working hard, and accountability.",
+      "The director values being honest, working hard, and being accountable.",
+      "The director values honesty, to work hard, and accountability.",
+      "The director values honest, hardworking, and accountability."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Items in a series should have the same grammatical form. In Choice B, all three elements are parallel gerund phrases: 'being honest,' 'working hard,' and 'being accountable.' Choice A mixes nouns and gerunds. Choice C mixes nouns with an infinitive phrase. Choice D incorrectly mixes adjectives with a noun.",
+    "tags": [
+      "advanced parallelism"
+    ]
+  },
+  {
+    "id": "GRAM-H-013",
+    "question": "Choose the sentence that is the most concise without changing its meaning.",
+    "options": [
+      "The reason is because the documents were incomplete.",
+      "The reason is that the documents were incomplete.",
+      "The reason why is because the documents were incomplete.",
+      "The reason for this is because the documents were incomplete."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Choice B is concise and grammatically correct. The phrase 'the reason is because' is redundant because both 'reason' and 'because' express causation. Likewise, 'the reason why is because' repeats the same idea unnecessarily. Effective writing avoids unnecessary repetition while preserving meaning.",
+    "tags": [
+      "conciseness",
+      "redundancy"
+    ]
+  },
+  {
+    "id": "GRAM-H-014",
+    "question": "Choose the sentence that correctly punctuates a nonrestrictive appositive.",
+    "options": [
+      "Maria Santos the regional director will deliver the keynote address.",
+      "Maria Santos, the regional director, will deliver the keynote address.",
+      "Maria Santos the regional director, will deliver the keynote address.",
+      "Maria Santos, the regional director will deliver the keynote address."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A nonrestrictive appositive adds extra information about a noun and must be enclosed by commas. In this sentence, 'the regional director' simply provides additional information about Maria Santos, so commas are required before and after the appositive. The other choices either omit a required comma or use commas incorrectly.",
+    "tags": [
+      "appositives",
+      "punctuation"
+    ]
+  },
+  {
+    "id": "GRAM-H-015",
+    "question": "Choose the sentence with correct sequence of tenses in reported speech.",
+    "options": [
+      "The instructor said that the examination begins at eight o'clock.",
+      "The instructor said that the examination began at eight o'clock.",
+      "The instructor said that the examination begin at eight o'clock.",
+      "The instructor said that the examination beginning at eight o'clock."
+    ],
+    "correctAnswer": 1,
+    "explanation": "When the reporting verb is in the past tense ('said'), the verb in the reported clause is generally backshifted to the past tense if referring to the same time frame. Therefore, 'began' is the correct form. Choice A does not follow the normal sequence of tenses. Choices C and D use incorrect verb forms.",
+    "tags": [
+      "reported speech",
+      "sequence of tenses"
+    ]
+  },
+  {
+    "id": "GRAM-H-016",
+    "question": "Choose the sentence that is grammatically correct.",
+    "options": [
+      "Not only the employees but also the manager were present during the inspection.",
+      "Not only the employees but also the manager was present during the inspection.",
+      "Not only the employees but also the manager have been present during the inspection.",
+      "Not only the employees but also the manager were being present during the inspection."
+    ],
+    "correctAnswer": 1,
+    "explanation": "With the correlative conjunction 'not only...but also,' the verb agrees with the subject closest to it. The nearest subject is 'the manager,' which is singular, so the correct verb is 'was.' Choice A incorrectly uses the plural verb 'were.' Choice C incorrectly uses 'have been,' which does not agree with the singular subject. Choice D contains an incorrect passive construction ('were being present'), which is not idiomatic English.",
+    "tags": [
+      "correlative conjunctions",
+      "subject-verb agreement",
+      "mixed review"
+    ]
+  },
+  {
+    "id": "GRAM-H-017",
+    "question": "Choose the sentence that is grammatically correct.",
+    "options": [
+      "Seldom we encounter applicants who are as well prepared as she.",
+      "Seldom do we encounter applicants who are as well prepared as she.",
+      "Seldom do we encounter applicants whom are as well prepared as she.",
+      "Seldom we do encounter applicants who are as well prepared than she."
+    ],
+    "correctAnswer": 1,
+    "explanation": "When a sentence begins with a limiting expression such as 'Seldom,' subject–auxiliary inversion is required ('do we encounter'). The relative pronoun 'who' correctly refers to 'applicants,' and the comparative structure 'as...as' is correctly formed. Choice A lacks inversion. Choice C incorrectly uses 'whom' as the subject of the relative clause. Choice D contains both faulty inversion and the incorrect comparative expression 'as...than.'",
+    "tags": [
+      "inversion",
+      "relative pronouns",
+      "comparatives"
+    ]
+  },
+  {
+    "id": "GRAM-H-018",
+    "question": "Choose the sentence that is grammatically correct.",
+    "options": [
+      "The proposal, together with its supporting documents, were submitted before the deadline.",
+      "The proposal, together with its supporting documents, was submitted before the deadline.",
+      "The proposal, together with their supporting documents, was submitted before the deadline.",
+      "The proposal together with its supporting documents were submitted before the deadline."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The true subject is 'The proposal,' which is singular. The phrase 'together with its supporting documents' is parenthetical and does not affect subject–verb agreement. Therefore, the singular verb 'was' is correct. Choice A and D incorrectly use 'were.' Choice C incorrectly changes the singular possessive pronoun 'its' to the plural 'their.'",
+    "tags": [
+      "subject-verb agreement",
+      "parenthetical expressions",
+      "pronoun agreement"
+    ]
+  },
+  {
+    "id": "GRAM-H-019",
+    "question": "Choose the sentence that is grammatically correct.",
+    "options": [
+      "Had the report been reviewed earlier, several errors would have been prevented.",
+      "Had the report was reviewed earlier, several errors would have been prevented.",
+      "Had the report reviewed earlier, several errors would have been prevented.",
+      "Had the report been reviewed earlier, several errors will have been prevented."
+    ],
+    "correctAnswer": 0,
+    "explanation": "This sentence uses an inverted third conditional. The correct structure is 'Had + subject + past participle...' followed by 'would have + past participle.' Choice A correctly follows this pattern. Choice B incorrectly uses 'was' after 'Had.' Choice C omits the auxiliary 'been.' Choice D incorrectly mixes the conditional with the future auxiliary 'will.'",
+    "tags": [
+      "inverted conditionals",
+      "perfect tenses",
+      "advanced sentence structure"
+    ]
+  },
+  {
+    "id": "GRAM-H-020",
+    "question": "Choose the sentence that is grammatically correct.",
+    "options": [
+      "Each supervisor, as well as the department heads, are expected to submit their evaluation before Friday.",
+      "Each supervisor, as well as the department heads, is expected to submit his or her evaluation before Friday.",
+      "Each supervisor, as well as the department heads, are expected to submit his or her evaluation before Friday.",
+      "Each supervisor, as well as the department heads, is expected to submit their evaluation before Friday."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The true subject is 'Each supervisor,' which is singular. The phrase 'as well as the department heads' is parenthetical and does not affect subject–verb agreement, so the correct verb is 'is.' In formal written English, the singular antecedent 'Each supervisor' also requires the singular possessive 'his or her.' Choices A and C incorrectly use the plural verb 'are.' Choice D uses the plural pronoun 'their,' which does not agree with the singular antecedent in formal grammar.",
+    "tags": [
+      "subject-verb agreement",
+      "pronoun agreement",
+      "mixed review"
+    ]
+  }
+]

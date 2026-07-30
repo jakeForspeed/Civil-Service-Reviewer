@@ -1,0 +1,114 @@
+{
+    "questions":[
+        {
+            "id": "QID-VA-001",
+            "topic": "Verbal Ability",
+            "subTopic": [
+                {
+                    "id": "VA-ST-001",
+                    "subTopicName": "Vocabulary",
+                    "questions":[
+                        {
+                            "id":"VAV-001",
+                            "difficulty":"easy",
+                            "question":"Choose the word that is most similar in meaning to 'Abundant'.",
+                            "options":[
+                                "Scarce",
+                                "Plentiful",
+                                "Rare",
+                                "Limited"
+                            ],  
+                            "correctAnswer":"Plentiful",
+                            "explanation":"The word 'Abundant' means existing or available in large quantities; plentiful. Therefore, the word most similar in meaning is 'Plentiful'."
+                        },
+                        {
+                            "id":"VAV-002",
+                            "difficulty":"medium",
+                            "question":"Select the word that is most opposite in meaning to 'Benevolent'.",
+                            "options":[
+                                "Kind",
+                                "Generous",
+                                "Malevolent",
+                                "Charitable"
+                            ],  
+                            "correctAnswer":"Malevolent",
+                            "explanation":"The word 'Benevolent' means well-meaning and kindly. The opposite of this is 'Malevolent', which means having or showing a wish to do evil to others."
+                        }
+                    ]
+                },
+                {
+                    "id": "VA-ST-002",
+                    "subTopicName": "Grammar and Correct Usage",
+                    "questions":[
+                        {
+                            "id":"VAG-001",
+                            "difficulty":"easy",
+                            "question":"Identify the correct sentence.",
+                            "options":[
+                                "She don't like ice cream.",
+                                "She doesn't likes ice cream.",
+                                "She doesn't like ice cream.",
+                                "She don't likes ice cream."
+                            ],  
+                            "correctAnswer":"She doesn't like ice cream.",
+                            "explanation":"The correct form is 'She doesn't like ice cream.' because 'doesn't' is the contraction of 'does not', and it should be followed by the base form of the verb, which is 'like'."
+                        },
+                        {
+                            "id":"VAG-002",
+                            "difficulty":"medium",
+                            "question":"Choose the sentence that uses the correct form of the verb.",
+                            "options":[
+                                "He go to school every day.",
+                                "He goes to school every day.",
+                                "He going to school every day.",
+                                "He gone to school every day."
+                            ],  
+                            "correctAnswer":"He goes to school every day.",
+                            "explanation":"The correct form is 'He goes to school every day.' because 'goes' is the third person singular present tense of the verb 'go'."
+                        }
+                    ]
+                }
+            ]
+            
+        },
+        {
+            "id":"QID-NA-001",
+            "topic":"Numerical Ability",
+            "subTopic":[
+                {
+                    "id":"NE-ST-001",
+                    "subTopicName":"Percentages",
+                    "questions":[
+                        {
+                            "id":"NEP-001",
+                            "difficulty":"easy",   
+                            "question":"What is 20% of 150?",
+                            "options":[
+                                "20",
+                                "25",
+                                "30",
+                                "35"
+                            ],  
+                            "correctAnswer":"30",
+                            "explanation":"To find 20% of 150, multiply 150 by 0.20: 150 * 0.20 = 30."
+                        },
+                        {
+                            "id":"NEP-002",
+                            "difficulty":"medium",   
+                            "question":"If a product originally costs $200 and is on sale for 25% off, what is the sale price?",
+                            "options":[
+                                "$150",
+                                "$160",
+                                "$170",
+                                "$180"
+                            ],  
+                            "correctAnswer":"$150",
+                            "explanation":"To find the sale price, calculate 25% of $200: 200 * 0.25 = $50. Subtract this from the original price: 200 - 50 = $150."
+                        }
+                    ]
+                }
+            ]
+        }
+        
+    ]
+}

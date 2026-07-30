@@ -1,0 +1,242 @@
+[
+  {
+    "id": "BA-E-001",
+    "question": "What is the sum of 348 and 276?",
+    "options": [
+      "614",
+      "624",
+      "634",
+      "644"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Add the numbers: 348 + 276 = 624.",
+    "tags": [
+      "addition",
+      "whole numbers"
+    ]
+  },
+  {
+    "id": "BA-E-002",
+    "question": "What is 925 − 468?",
+    "options": [
+      "447",
+      "457",
+      "467",
+      "477"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Subtract carefully: 925 − 468 = 457.",
+    "tags": [
+      "subtraction",
+      "whole numbers"
+    ]
+  },
+  {
+    "id": "BA-E-003",
+    "question": "What is the product of 36 and 8?",
+    "options": [
+      "278",
+      "288",
+      "296",
+      "306"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Multiply: 36 × 8 = 288.",
+    "tags": [
+      "multiplication"
+    ]
+  },
+  {
+    "id": "BA-E-004",
+    "question": "What is 144 ÷ 12?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Since 12 × 12 = 144, the quotient is 12.",
+    "tags": [
+      "division"
+    ]
+  },
+  {
+    "id": "BA-E-005",
+    "question": "Evaluate: 18 + 24 ÷ 6",
+    "options": [
+      "7",
+      "11",
+      "22",
+      "27"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Apply the order of operations. Perform division first: 24 ÷ 6 = 4. Then add: 18 + 4 = 22.",
+    "tags": [
+      "order of operations",
+      "basic arithmetic"
+    ]
+  }
+,
+{
+  "id": "BA-E-006",
+  "question": "What is the value of 7.5 + 2.8?",
+  "options": [
+    "9.3",
+    "10.2",
+    "10.3",
+    "11.3"
+  ],
+  "correctAnswer": 2,
+  "explanation": "Add the decimals carefully: 7.5 + 2.8 = 10.3.",
+  "tags": [
+    "addition",
+    "decimals"
+  ]
+},
+{
+  "id": "BA-E-007",
+  "question": "What is 3/4 + 1/4?",
+  "options": [
+    "1/2",
+    "3/4",
+    "1",
+    "1 1/4"
+  ],
+  "correctAnswer": 2,
+  "explanation": "The fractions have the same denominator, so add the numerators: (3 + 1)/4 = 4/4 = 1.",
+  "tags": [
+    "fractions",
+    "addition"
+  ]
+},
+{
+  "id": "BA-E-008",
+  "question": "The numbers are 12, 15, 18, and 19. What is their average?",
+  "options": [
+    "15",
+    "16",
+    "16.5",
+    "17"
+  ],
+  "correctAnswer": 1,
+  "explanation": "Add the numbers: 12 + 15 + 18 + 19 = 64. Divide by 4: 64 ÷ 4 = 16.",
+  "tags": [
+    "average",
+    "mean"
+  ]
+},
+{
+  "id": "BA-E-009",
+  "question": "What is 25% of 80?",
+  "options": [
+    "15",
+    "20",
+    "25",
+    "30"
+  ],
+  "correctAnswer": 1,
+  "explanation": "Convert 25% to 0.25, then multiply: 0.25 × 80 = 20.",
+  "tags": [
+    "percentage"
+  ]
+},
+{
+  "id": "BA-E-010",
+  "question": "Maria bought 5 notebooks costing ₱18 each. How much did she pay in all?",
+  "options": [
+    "₱80",
+    "₱85",
+    "₱90",
+    "₱95"
+  ],
+  "correctAnswer": 2,
+  "explanation": "Multiply the number of notebooks by the cost of each notebook: 5 × ₱18 = ₱90.",
+  "tags": [
+    "word problems",
+    "multiplication"
+  ]
+}
+,
+{
+  "id": "BA-E-011",
+  "question": "Evaluate: (14 + 6) × 3",
+  "options": [
+    "40",
+    "50",
+    "60",
+    "70"
+  ],
+  "correctAnswer": 2,
+  "explanation": "Evaluate the expression inside the parentheses first: 14 + 6 = 20. Then multiply: 20 × 3 = 60.",
+  "tags": [
+    "order of operations",
+    "basic arithmetic"
+  ]
+},
+{
+  "id": "BA-E-012",
+  "question": "A recipe needs 2 cups of sugar for 8 servings. How many cups of sugar are needed for 16 servings?",
+  "options": [
+    "2",
+    "3",
+    "4",
+    "6"
+  ],
+  "correctAnswer": 2,
+  "explanation": "Since 16 servings is twice 8 servings, multiply the sugar by 2: 2 × 2 = 4 cups.",
+  "tags": [
+    "ratio",
+    "proportion",
+    "word problems"
+  ]
+},
+{
+  "id": "BA-E-013",
+  "question": "What is 10% of 250?",
+  "options": [
+    "15",
+    "20",
+    "25",
+    "30"
+  ],
+  "correctAnswer": 2,
+  "explanation": "Convert 10% to 0.10, then multiply: 0.10 × 250 = 25.",
+  "tags": [
+    "percentage"
+  ]
+},
+{
+  "id": "BA-E-014",
+  "question": "A store gives a ₱50 discount on a bag priced at ₱320. What is the sale price?",
+  "options": [
+    "₱260",
+    "₱270",
+    "₱280",
+    "₱290"
+  ],
+  "correctAnswer": 1,
+  "explanation": "Subtract the discount from the original price: ₱320 − ₱50 = ₱270.",
+  "tags": [
+    "word problems",
+    "subtraction",
+    "shopping"
+  ]
+},
+{
+  "id": "BA-E-015",
+  "question": "A class has 18 boys and 12 girls. How many students are there in all?",
+  "options": [
+    "20",
+    "24",
+    "28",
+    "30"
+  ],
+  "correctAnswer": 3,
+  "explanation": "Add the number of boys and girls: 18 + 12 = 30 students.",
+  "tags": [
+    "word problems",
+    "addition"
+  ]
+}
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "id": "VOC-E-001",
+    "question": "Choose the word that is most similar in meaning to 'Abundant'.",
+    "options": ["Scarce", "Plentiful", "Rare", "Limited"],
+    "correctAnswer": 1,
+    "explanation": "'Abundant' means existing in large quantities. 'Plentiful' is the closest synonym because it also means available in large amounts.",
+    "tags": ["synonym"]
+  },
+  {
+    "id": "VOC-E-002",
+    "question": "Choose the word opposite in meaning to 'Ancient'.",
+    "options": ["Old", "Historic", "Modern", "Traditional"],
+    "correctAnswer": 2,
+    "explanation": "'Ancient' means very old. The opposite is 'Modern', which refers to something current or recent.",
+    "tags": ["antonym"]
+  },
+  {
+    "id": "VOC-E-003",
+    "question": "Choose the synonym of 'Rapid'.",
+    "options": ["Slow", "Fast", "Weak", "Late"],
+    "correctAnswer": 1,
+    "explanation": "'Rapid' means happening quickly. 'Fast' has the same meaning.",
+    "tags": ["synonym"]
+  },
+  {
+    "id": "VOC-E-004",
+    "question": "Choose the opposite of 'Brave'.",
+    "options": ["Fearful", "Bold", "Strong", "Loyal"],
+    "correctAnswer": 0,
+    "explanation": "'Brave' means courageous. 'Fearful' means afraid, making it the opposite.",
+    "tags": ["antonym"]
+  },
+  {
+    "id": "VOC-E-005",
+    "question": "Choose the synonym of 'Honest'.",
+    "options": ["Truthful", "Dishonest", "Lazy", "Silent"],
+    "correctAnswer": 0,
+    "explanation": "'Honest' means truthful and sincere. Therefore, 'Truthful' is the correct synonym.",
+    "tags": ["synonym"]
+  },
+  {
+    "id": "VOC-E-006",
+    "question": "Choose the word opposite in meaning to 'Bright'.",
+    "options": ["Shiny", "Smart", "Dark", "Clear"],
+    "correctAnswer": 2,
+    "explanation": "'Bright' can mean full of light. The opposite is 'Dark'.",
+    "tags": ["antonym"]
+  },
+  {
+    "id": "VOC-E-007",
+    "question": "Choose the synonym of 'Begin'.",
+    "options": ["Start", "End", "Stop", "Finish"],
+    "correctAnswer": 0,
+    "explanation": "'Begin' means to start something. 'Start' is the closest synonym.",
+    "tags": ["synonym"]
+  },
+  {
+    "id": "VOC-E-008",
+    "question": "Choose the opposite of 'Empty'.",
+    "options": ["Vacant", "Hollow", "Full", "Bare"],
+    "correctAnswer": 2,
+    "explanation": "'Empty' means containing nothing. The opposite is 'Full'.",
+    "tags": ["antonym"]
+  },
+  {
+    "id": "VOC-E-009",
+    "question": "Choose the synonym of 'Tiny'.",
+    "options": ["Large", "Small", "Huge", "Tall"],
+    "correctAnswer": 1,
+    "explanation": "'Tiny' means very small. 'Small' is the correct synonym.",
+    "tags": ["synonym"]
+  },
+  {
+    "id": "VOC-E-010",
+    "question": "Choose the opposite of 'Noisy'.",
+    "options": ["Loud", "Quiet", "Busy", "Crowded"],
+    "correctAnswer": 1,
+    "explanation": "'Noisy' means full of sound. 'Quiet' means having little or no noise.",
+    "tags": ["antonym"]
+  },
+  {
+    "id": "VOC-E-011",
+    "question": "Choose the synonym of 'Happy'.",
+    "options": ["Sad", "Angry", "Joyful", "Tired"],
+    "correctAnswer": 2,
+    "explanation": "'Happy' means feeling pleasure or joy. 'Joyful' is the closest synonym.",
+    "tags": ["synonym"]
+  },
+  {
+    "id": "VOC-E-012",
+    "question": "Choose the opposite of 'Strong'.",
+    "options": ["Powerful", "Weak", "Brave", "Firm"],
+    "correctAnswer": 1,
+    "explanation": "'Strong' means having power. 'Weak' means lacking strength.",
+    "tags": ["antonym"]
+  },
+  {
+    "id": "VOC-E-013",
+    "question": "Choose the synonym of 'Quick'.",
+    "options": ["Slow", "Rapid", "Late", "Heavy"],
+    "correctAnswer": 1,
+    "explanation": "'Quick' means fast. 'Rapid' has the same meaning.",
+    "tags": ["synonym"]
+  },
+  {
+    "id": "VOC-E-014",
+    "question": "Choose the opposite of 'Early'.",
+    "options": ["Soon", "Prompt", "Late", "Quick"],
+    "correctAnswer": 2,
+    "explanation": "'Early' means before the expected time. The opposite is 'Late'.",
+    "tags": ["antonym"]
+  },
+  {
+    "id": "VOC-E-015",
+    "question": "Choose the synonym of 'Clean'.",
+    "options": ["Dirty", "Neat", "Messy", "Rough"],
+    "correctAnswer": 1,
+    "explanation": "'Clean' means free from dirt. 'Neat' is the closest synonym among the choices.",
+    "tags": ["synonym"]
+  },
+  {
+    "id": "VOC-E-016",
+    "question": "Choose the opposite of 'Rich'.",
+    "options": ["Wealthy", "Prosperous", "Poor", "Lucky"],
+    "correctAnswer": 2,
+    "explanation": "'Rich' means having a lot of money. The opposite is 'Poor'.",
+    "tags": ["antonym"]
+  },
+  {
+    "id": "VOC-E-017",
+    "question": "Choose the synonym of 'Smart'.",
+    "options": ["Clever", "Slow", "Weak", "Quiet"],
+    "correctAnswer": 0,
+    "explanation": "'Smart' means intelligent. 'Clever' is the closest synonym.",
+    "tags": ["synonym"]
+  },
+  {
+    "id": "VOC-E-018",
+    "question": "Choose the opposite of 'Open'.",
+    "options": ["Wide", "Free", "Closed", "Large"],
+    "correctAnswer": 2,
+    "explanation": "'Open' means not shut. The opposite is 'Closed'.",
+    "tags": ["antonym"]
+  },
+  {
+    "id": "VOC-E-019",
+    "question": "Choose the synonym of 'Easy'.",
+    "options": ["Difficult", "Simple", "Hard", "Complex"],
+    "correctAnswer": 1,
+    "explanation": "'Easy' means not difficult. 'Simple' is the closest synonym.",
+    "tags": ["synonym"]
+  },
+  {
+    "id": "VOC-E-020",
+    "question": "Choose the opposite of 'Cold'.",
+    "options": ["Cool", "Warm", "Frozen", "Chilly"],
+    "correctAnswer": 1,
+    "explanation": "'Cold' means low in temperature. The opposite is 'Warm'.",
+    "tags": ["antonym"]
+  },
+  {
+    "id": "VOC-E-021",
+    "question": "Choose the synonym of 'Large'.",
+    "options": ["Tiny", "Huge", "Small", "Short"],
+    "correctAnswer": 1,
+    "explanation": "'Large' means big in size. 'Huge' is the closest synonym.",
+    "tags": ["synonym"]
+  },
+  {
+    "id": "VOC-E-022",
+    "question": "Choose the opposite of 'Hot'.",
+    "options": ["Warm", "Boiling", "Cold", "Mild"],
+    "correctAnswer": 2,
+    "explanation": "'Hot' means high in temperature. The opposite is 'Cold'.",
+    "tags": ["antonym"]
+  },
+  {
+    "id": "VOC-E-023",
+    "question": "Choose the synonym of 'Silent'.",
+    "options": ["Loud", "Quiet", "Busy", "Bright"],
+    "correctAnswer": 1,
+    "explanation": "'Silent' means making little or no sound. 'Quiet' is the closest synonym.",
+    "tags": ["synonym"]
+  },
+  {
+    "id": "VOC-E-024",
+    "question": "Choose the opposite of 'Tall'.",
+    "options": ["High", "Long", "Short", "Big"],
+    "correctAnswer": 2,
+    "explanation": "'Tall' refers to great height. The opposite is 'Short'.",
+    "tags": ["antonym"]
+  },
+  {
+    "id": "VOC-E-025",
+    "question": "Choose the synonym of 'Glad'.",
+    "options": ["Happy", "Sad", "Angry", "Tired"],
+    "correctAnswer": 0,
+    "explanation": "'Glad' means pleased or happy. 'Happy' is the correct synonym.",
+    "tags": ["synonym"]
+  },
+  {
+    "id": "VOC-E-026",
+    "question": "Choose the opposite of 'Friendly'.",
+    "options": ["Kind", "Helpful", "Hostile", "Polite"],
+    "correctAnswer": 2,
+    "explanation": "'Friendly' means kind and pleasant. 'Hostile' means unfriendly.",
+    "tags": ["antonym"]
+  },
+  {
+    "id": "VOC-E-027",
+    "question": "Choose the synonym of 'Finish'.",
+    "options": ["Begin", "Start", "Complete", "Open"],
+    "correctAnswer": 2,
+    "explanation": "'Finish' means to complete something.",
+    "tags": ["synonym"]
+  },
+  {
+    "id": "VOC-E-028",
+    "question": "Choose the opposite of 'Light' (weight).",
+    "options": ["Bright", "Heavy", "Thin", "Soft"],
+    "correctAnswer": 1,
+    "explanation": "When referring to weight, 'Light' means not heavy. The opposite is 'Heavy'.",
+    "tags": ["antonym"]
+  },
+  {
+    "id": "VOC-E-029",
+    "question": "Choose the synonym of 'Correct'.",
+    "options": ["Wrong", "Right", "False", "Bad"],
+    "correctAnswer": 1,
+    "explanation": "'Correct' means right or accurate.",
+    "tags": ["synonym"]
+  },
+  {
+    "id": "VOC-E-030",
+    "question": "Choose the opposite of 'True'.",
+    "options": ["Correct", "Real", "False", "Right"],
+    "correctAnswer": 2,
+    "explanation": "'True' means accurate or correct. The opposite is 'False'.",
+    "tags": ["antonym"]
+  },
+  {
+    "id": "VOC-E-031",
+    "question": "Choose the synonym of 'Safe'.",
+    "options": ["Dangerous", "Secure", "Risky", "Weak"],
+    "correctAnswer": 1,
+    "explanation": "'Safe' means protected from danger. 'Secure' is the closest synonym.",
+    "tags": ["synonym"]
+  },
+  {
+    "id": "VOC-E-032",
+    "question": "Choose the opposite of 'Near'.",
+    "options": ["Close", "Beside", "Far", "Next"],
+    "correctAnswer": 2,
+    "explanation": "'Near' means close. The opposite is 'Far'.",
+    "tags": ["antonym"]
+  },
+  {
+    "id": "VOC-E-033",
+    "question": "Choose the synonym of 'Buy'.",
+    "options": ["Sell", "Purchase", "Give", "Borrow"],
+    "correctAnswer": 1,
+    "explanation": "'Buy' means to purchase something.",
+    "tags": ["synonym"]
+  },
+  {
+    "id": "VOC-E-034",
+    "question": "Choose the opposite of 'Win'.",
+    "options": ["Gain", "Succeed", "Lose", "Achieve"],
+    "correctAnswer": 2,
+    "explanation": "'Win' means to be victorious. The opposite is 'Lose'.",
+    "tags": ["antonym"]
+  },
+  {
+    "id": "VOC-E-035",
+    "question": "Choose the synonym of 'Gift'.",
+    "options": ["Present", "Punishment", "Loss", "Debt"],
+    "correctAnswer": 0,
+    "explanation": "'Gift' and 'Present' both mean something given to someone.",
+    "tags": ["synonym"]
+  },
+  {
+    "id": "VOC-E-036",
+    "question": "Choose the opposite of 'Give'.",
+    "options": ["Offer", "Donate", "Receive", "Share"],
+    "correctAnswer": 2,
+    "explanation": "'Give' means to hand over something. The opposite is 'Receive'.",
+    "tags": ["antonym"]
+  },
+  {
+    "id": "VOC-E-037",
+    "question": "Choose the synonym of 'Help'.",
+    "options": ["Assist", "Harm", "Ignore", "Refuse"],
+    "correctAnswer": 0,
+    "explanation": "'Help' means to assist someone.",
+    "tags": ["synonym"]
+  },
+  {
+    "id": "VOC-E-038",
+    "question": "Choose the opposite of 'Above'.",
+    "options": ["Over", "Higher", "Below", "Top"],
+    "correctAnswer": 2,
+    "explanation": "'Above' means at a higher position. The opposite is 'Below'.",
+    "tags": ["antonym"]
+  },
+  {
+    "id": "VOC-E-039",
+    "question": "Choose the synonym of 'Ask'.",
+    "options": ["Answer", "Request", "Ignore", "Hide"],
+    "correctAnswer": 1,
+    "explanation": "'Ask' means to request information or something from someone.",
+    "tags": ["synonym"]
+  },
+  {
+    "id": "VOC-E-040",
+    "question": "Choose the opposite of 'Arrive'.",
+    "options": ["Come", "Reach", "Depart", "Enter"],
+    "correctAnswer": 2,
+    "explanation": "'Arrive' means to reach a place. The opposite is 'Depart', which means to leave.",
+    "tags": ["antonym"]
+  }
+]

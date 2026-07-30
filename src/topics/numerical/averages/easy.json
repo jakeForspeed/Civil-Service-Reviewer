@@ -1,0 +1,82 @@
+[
+  {
+    "id": "AVG-E-001",
+    "question": "What is the average of 12, 18, 20, and 30?",
+    "options": [
+      "18",
+      "20",
+      "22",
+      "24"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Add the numbers: 12 + 18 + 20 + 30 = 80. Divide by 4: 80 ÷ 4 = 20.",
+    "tags": [
+      "average",
+      "mean"
+    ]
+  },
+  {
+    "id": "AVG-E-002",
+    "question": "The average of five numbers is 14. What is their total sum?",
+    "options": [
+      "60",
+      "65",
+      "70",
+      "75"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sum = Average × Number of values = 14 × 5 = 70.",
+    "tags": [
+      "average",
+      "sum"
+    ]
+  },
+  {
+    "id": "AVG-E-003",
+    "question": "Maria scored 78, 82, and 90 on three quizzes. What was her average score?",
+    "options": [
+      "82",
+      "83",
+      "84",
+      "85"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Add the scores: 78 + 82 + 90 = 250. Divide by 3: 250 ÷ 3 = 83.33. Rounded to the nearest whole number, the average is 83.",
+    "tags": [
+      "average",
+      "word problems"
+    ]
+  },
+  {
+    "id": "AVG-E-004",
+    "question": "The average age of four children is 10 years. What is the total of their ages?",
+    "options": [
+      "36",
+      "38",
+      "40",
+      "42"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Total age = Average × Number of children = 10 × 4 = 40 years.",
+    "tags": [
+      "average",
+      "age problems"
+    ]
+  },
+  {
+    "id": "AVG-E-005",
+    "question": "What is the average of 15, 25, 35, 45, and 55?",
+    "options": [
+      "33",
+      "34",
+      "35",
+      "36"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Add the numbers: 15 + 25 + 35 + 45 + 55 = 175. Divide by 5: 175 ÷ 5 = 35.",
+    "tags": [
+      "average",
+      "mean"
+    ]
+  }
+]
