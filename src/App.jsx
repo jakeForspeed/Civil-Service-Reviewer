@@ -8,7 +8,6 @@ import Result from "./pages/Result";
 import MockTest from "./pages/MockTest";
 import TestResult from "./pages/TestResult";
 
-import { loadMockTestQuestions } from "./lib/questionLoader";
 
 
 function App() {
