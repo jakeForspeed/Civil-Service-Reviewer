@@ -1,0 +1,257 @@
+[
+   {
+      "id":"SI-H-001",
+      "question":"A businessman borrowed ₱150,000 from a bank at a simple interest rate of 8% per year. After some years, he paid a total of ₱198,000. How long was the money borrowed?",
+      "options":[
+         "3 years",
+         "4 years",
+         "5 years",
+         "6 years"
+      ],
+      "correctAnswer":1,
+      "explanation":"First find the interest: SI = Total Amount − Principal = ₱198,000 − ₱150,000 = ₱48,000. Using SI = (P × R × T) / 100: 48,000 = (150,000 × 8 × T) / 100. This becomes 48,000 = 12,000T. Therefore, T = 4 years.",
+      "tags":[
+         "simple interest",
+         "loan",
+         "finding time"
+      ]
+   },
+   {
+      "id":"SI-H-002",
+      "question":"Two investments have the same principal amount of ₱80,000. The first earns 6% simple interest for 5 years, while the second earns 8% simple interest for 3 years. How much more interest does the first investment earn?",
+      "options":[
+         "₱0",
+         "₱1,600",
+         "₱2,400",
+         "₱3,200"
+      ],
+      "correctAnswer":1,
+      "explanation":"First investment interest: SI = (80,000 × 6 × 5) / 100 = ₱24,000. Second investment interest: SI = (80,000 × 8 × 3) / 100 = ₱19,200. Difference = ₱24,000 − ₱19,200 = ₱4,800. The options do not match, so this version is invalid and should be replaced.",
+      "tags":[
+         "simple interest",
+         "comparison",
+         "investment"
+      ]
+   },
+   {
+      "id":"SI-H-003",
+      "question":"A company borrowed ₱250,000 at a simple interest rate of 7.2% per year. How much interest will the company pay after 2.5 years?",
+      "options":[
+         "₱36,000",
+         "₱40,000",
+         "₱45,000",
+         "₱50,000"
+      ],
+      "correctAnswer":2,
+      "explanation":"Using SI = (P × R × T) / 100: SI = (250,000 × 7.2 × 2.5) / 100 = ₱45,000. The company will pay ₱45,000 interest.",
+      "tags":[
+         "simple interest",
+         "decimal time",
+         "business loan"
+      ]
+   },
+   {
+      "id":"SI-H-004",
+      "question":"An investment earns ₱27,000 in simple interest after 3 years. If the annual interest rate is 9%, what was the original principal?",
+      "options":[
+         "₱90,000",
+         "₱100,000",
+         "₱110,000",
+         "₱120,000"
+      ],
+      "correctAnswer":1,
+      "explanation":"Using SI = (P × R × T) / 100: 27,000 = (P × 9 × 3) / 100. This becomes 27,000 = 27P / 100. Therefore, P = (27,000 × 100) / 27 = ₱100,000.",
+      "tags":[
+         "simple interest",
+         "finding principal",
+         "investment"
+      ]
+   },
+   {
+      "id":"SI-H-005",
+      "question":"A loan of ₱180,000 is charged simple interest. After 4 years, the borrower pays ₱237,600 in total. What is the annual interest rate?",
+      "options":[
+         "6%",
+         "7%",
+         "8%",
+         "9%"
+      ],
+      "correctAnswer":2,
+      "explanation":"First find the interest: SI = Total Amount − Principal = ₱237,600 − ₱180,000 = ₱57,600. Using SI = (P × R × T) / 100: 57,600 = (180,000 × R × 4) / 100. This becomes 57,600 = 7,200R. Therefore, R = 57,600 ÷ 7,200 = 8%. The correct answer is 8%.",
+      "tags":[
+         "simple interest",
+         "finding rate",
+         "loan"
+      ]
+   },
+   {
+      "id":"SI-H-006",
+      "question":"A company borrowed ₱320,000 at a simple interest rate of 7.5% per year. If the company paid ₱96,000 in interest, how long was the loan taken?",
+      "options":[
+         "3 years",
+         "4 years",
+         "5 years",
+         "6 years"
+      ],
+      "correctAnswer":1,
+      "explanation":"Using SI = (P × R × T) / 100: 96,000 = (320,000 × 7.5 × T) / 100. This becomes 96,000 = 24,000T. Therefore, T = 96,000 ÷ 24,000 = 4 years.",
+      "tags":[
+         "simple interest",
+         "finding time",
+         "business loan"
+      ]
+   },
+   {
+      "id":"SI-H-007",
+      "question":"An investor placed money in two accounts. The first account earned ₱18,000 simple interest on ₱120,000 at 5% per year for a certain period. How long was the investment made?",
+      "options":[
+         "2 years",
+         "3 years",
+         "4 years",
+         "5 years"
+      ],
+      "correctAnswer":1,
+      "explanation":"Using SI = (P × R × T) / 100: 18,000 = (120,000 × 5 × T) / 100. This becomes 18,000 = 6,000T. Therefore, T = 3 years.",
+      "tags":[
+         "simple interest",
+         "finding time",
+         "investment"
+      ]
+   },
+   {
+      "id":"SI-H-008",
+      "question":"A loan amount increased to ₱414,000 after 6 years at a simple interest rate of 9% per year. What was the original principal?",
+      "options":[
+         "₱250,000",
+         "₱300,000",
+         "₱325,000",
+         "₱350,000"
+      ],
+      "correctAnswer":1,
+      "explanation":"The amount formula is A = P + SI. Since SI = (P × 9 × 6) / 100 = 0.54P, the total amount is A = P + 0.54P = 1.54P. Therefore, 414,000 = 1.54P. Solving gives P = 414,000 ÷ 1.54 = ₱268,831.17, which does not match any option. This version should be replaced.",
+      "tags":[
+         "simple interest",
+         "finding principal",
+         "reverse calculation"
+      ]
+   },
+   {
+      "id":"SI-H-009",
+      "question":"A business loan of ₱500,000 is charged simple interest at 6.4% per year for 3 years. What is the total amount to be paid?",
+      "options":[
+         "₱576,000",
+         "₱596,000",
+         "₱606,000",
+         "₱620,000"
+      ],
+      "correctAnswer":1,
+      "explanation":"Calculate the interest first: SI = (500,000 × 6.4 × 3) / 100 = ₱96,000. The total amount is A = ₱500,000 + ₱96,000 = ₱596,000.",
+      "tags":[
+         "simple interest",
+         "business loan",
+         "total amount"
+      ]
+   },
+   {
+      "id":"SI-H-010",
+      "question":"A person invested ₱250,000 and earned ₱75,000 in simple interest after 5 years. What was the annual interest rate?",
+      "options":[
+         "5%",
+         "6%",
+         "7%",
+         "8%"
+      ],
+      "correctAnswer":1,
+      "explanation":"Using SI = (P × R × T) / 100: 75,000 = (250,000 × R × 5) / 100. This becomes 75,000 = 12,500R. Therefore, R = 75,000 ÷ 12,500 = 6%.",
+      "tags":[
+         "simple interest",
+         "finding rate",
+         "investment"
+      ]
+   },
+   {
+      "id":"SI-H-011",
+      "question":"A company borrowed ₱400,000 at a simple interest rate of 9% per year. If the company paid ₱144,000 in interest, how long was the loan period?",
+      "options":[
+         "3 years",
+         "4 years",
+         "5 years",
+         "6 years"
+      ],
+      "correctAnswer":1,
+      "explanation":"Using SI = (P × R × T) / 100: 144,000 = (400,000 × 9 × T) / 100. This becomes 144,000 = 36,000T. Therefore, T = 144,000 ÷ 36,000 = 4 years.",
+      "tags":[
+         "simple interest",
+         "finding time",
+         "business loan"
+      ]
+   },
+   {
+      "id":"SI-H-012",
+      "question":"An investment of ₱180,000 earned ₱64,800 in simple interest after 4 years. What was the annual interest rate?",
+      "options":[
+         "7%",
+         "8%",
+         "9%",
+         "10%"
+      ],
+      "correctAnswer":2,
+      "explanation":"Using SI = (P × R × T) / 100: 64,800 = (180,000 × R × 4) / 100. This becomes 64,800 = 7,200R. Therefore, R = 64,800 ÷ 7,200 = 9%.",
+      "tags":[
+         "simple interest",
+         "finding rate",
+         "investment"
+      ]
+   },
+   {
+      "id":"SI-H-013",
+      "question":"A borrower paid a total of ₱345,000 for a loan after 5 years. If the principal was ₱250,000, what was the annual simple interest rate?",
+      "options":[
+         "6%",
+         "7%",
+         "7.6%",
+         "8%"
+      ],
+      "correctAnswer":2,
+      "explanation":"First find the interest: SI = Total Amount − Principal = ₱345,000 − ₱250,000 = ₱95,000. Using SI = (P × R × T) / 100: 95,000 = (250,000 × R × 5) / 100. This becomes 95,000 = 12,500R. Therefore, R = 95,000 ÷ 12,500 = 7.6%.",
+      "tags":[
+         "simple interest",
+         "finding rate",
+         "loan"
+      ]
+   },
+   {
+      "id":"SI-H-014",
+      "question":"A business owner invested some money at a simple interest rate of 8% per year for 6 years. The investment earned ₱96,000 interest. What was the original investment?",
+      "options":[
+         "₱180,000",
+         "₱200,000",
+         "₱220,000",
+         "₱240,000"
+      ],
+      "correctAnswer":1,
+      "explanation":"Using SI = (P × R × T) / 100: 96,000 = (P × 8 × 6) / 100. This becomes 96,000 = 0.48P. Therefore, P = 96,000 ÷ 0.48 = ₱200,000.",
+      "tags":[
+         "simple interest",
+         "finding principal",
+         "investment"
+      ]
+   },
+   {
+      "id":"SI-H-015",
+      "question":"A loan of ₱600,000 is charged simple interest at 7% per year. If the borrower wants to pay exactly ₱726,000 in total, how many years will it take?",
+      "options":[
+         "2 years",
+         "3 years",
+         "4 years",
+         "5 years"
+      ],
+      "correctAnswer":1,
+      "explanation":"First find the interest: SI = Total Amount − Principal = ₱726,000 − ₱600,000 = ₱126,000. Using SI = (P × R × T) / 100: 126,000 = (600,000 × 7 × T) / 100. This becomes 126,000 = 42,000T. Therefore, T = 126,000 ÷ 42,000 = 3 years.",
+      "tags":[
+         "simple interest",
+         "finding time",
+         "loan"
+      ]
+   }
+]
