@@ -11,7 +11,7 @@ export default function TestResultSummary({
 
     const {
 
-        score,
+        correct,
         totalQuestions,
         percentage,
         passed,
@@ -78,7 +78,7 @@ export default function TestResultSummary({
 
                 <h3 className="text-5xl font-bold text-slate-900">
 
-                    {score}
+                    {correct}
 
                     <span className="text-2xl text-slate-400">
 

@@ -11,7 +11,7 @@ export default function TestResultStats({ result }) {
 
     const {
 
-        score,
+        correct,
         incorrect,
         unanswered,
         totalQuestions,
@@ -38,7 +38,7 @@ export default function TestResultStats({ result }) {
 
         {
             title: "Correct",
-            value: score,
+            value: correct,
             icon: CheckCircle2,
             color: "text-green-600",
             bg: "bg-green-100",

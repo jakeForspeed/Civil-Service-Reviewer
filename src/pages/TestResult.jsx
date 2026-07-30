@@ -39,7 +39,7 @@ export default function TestResult() {
 
     }
 
-
+    console.log(result)
     return (
 
         <div className="flex flex-col">
