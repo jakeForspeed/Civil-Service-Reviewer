@@ -1,0 +1,270 @@
+[
+  {
+    "id": "GOV-M-001",
+    "question": "Under the principle of separation of powers, what is the primary purpose of dividing government authority among the three branches of government?",
+    "options": [
+      "To prevent the concentration and abuse of power",
+      "To allow one branch to control all government decisions",
+      "To eliminate the need for checks and balances",
+      "To transfer all authority to local governments"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The separation of powers divides government authority among the Legislative, Executive, and Judicial branches to prevent abuse of power and maintain a system of checks and balances.",
+    "tags": [
+      "general-information",
+      "government-structure",
+      "separation-of-powers",
+      "checks-and-balances"
+    ]
+  },
+  {
+    "id": "GOV-M-002",
+    "question": "Which constitutional body is responsible for protecting the rights of government employees and ensuring merit-based appointments in the civil service?",
+    "options": [
+      "Civil Service Commission (CSC)",
+      "Commission on Audit (COA)",
+      "Commission on Elections (COMELEC)",
+      "Department of Budget and Management (DBM)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Civil Service Commission (CSC) is the central personnel agency of the Philippine government. It ensures that appointments in the civil service are based on merit, fitness, and established rules.",
+    "tags": [
+      "general-information",
+      "government-structure",
+      "constitutional-commissions",
+      "civil-service"
+    ]
+  },
+  {
+    "id": "GOV-M-003",
+    "question": "Which chamber of Congress has the exclusive power to initiate impeachment cases against certain high-ranking government officials?",
+    "options": [
+      "House of Representatives",
+      "Senate",
+      "Supreme Court",
+      "Cabinet"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The House of Representatives has the exclusive power to initiate impeachment cases by filing and approving articles of impeachment. The Senate conducts the impeachment trial.",
+    "tags": [
+      "general-information",
+      "government-structure",
+      "congress",
+      "impeachment"
+    ]
+  },
+  {
+    "id": "GOV-M-004",
+    "question": "Which principle allows each branch of government to limit the powers of the other branches?",
+    "options": [
+      "Checks and balances",
+      "Popular sovereignty",
+      "Rule of succession",
+      "Administrative decentralization"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Checks and balances allow each branch of government to monitor and limit the actions of the other branches, preventing any branch from becoming too powerful.",
+    "tags": [
+      "general-information",
+      "government-structure",
+      "checks-and-balances"
+    ]
+  },
+  {
+    "id": "GOV-M-005",
+    "question": "Which constitutional commission is tasked with examining, auditing, and settling government accounts involving public funds?",
+    "options": [
+      "Commission on Audit (COA)",
+      "Civil Service Commission (CSC)",
+      "Commission on Elections (COMELEC)",
+      "Office of the Ombudsman"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Commission on Audit (COA) is an independent constitutional commission responsible for auditing government revenues, expenditures, and the use of public funds and property.",
+    "tags": [
+      "general-information",
+      "government-structure",
+      "constitutional-commissions",
+      "coa"
+    ]
+  },
+  {
+    "id": "GOV-M-006",
+    "question": "What is the primary role of the Judiciary in the Philippine government?",
+    "options": [
+      "To interpret laws and settle legal disputes",
+      "To create national laws",
+      "To implement government programs",
+      "To manage government finances"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Judiciary interprets laws, resolves legal disputes, and determines whether government actions comply with the Constitution and existing laws.",
+    "tags": [
+      "general-information",
+      "government-structure",
+      "judiciary"
+    ]
+  },
+  {
+    "id": "GOV-M-007",
+    "question": "Which constitutional commission is responsible for enforcing laws related to elections and ensuring the conduct of free, orderly, and honest elections?",
+    "options": [
+      "Commission on Elections (COMELEC)",
+      "Commission on Audit (COA)",
+      "Civil Service Commission (CSC)",
+      "Supreme Court"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Commission on Elections (COMELEC) is an independent constitutional commission tasked with enforcing and administering election laws and ensuring the integrity of electoral processes.",
+    "tags": [
+      "general-information",
+      "government-structure",
+      "constitutional-commissions",
+      "comelec"
+    ]
+  },
+  {
+    "id": "GOV-M-008",
+    "question": "Under the principle of local autonomy, what authority is generally granted to local government units (LGUs)?",
+    "options": [
+      "The power to manage their local affairs within the limits of law",
+      "The power to override national laws",
+      "The power to create a separate national government",
+      "The power to abolish constitutional offices"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Local autonomy allows LGUs to govern their local affairs, provide services, and exercise powers granted by law while remaining part of the national government structure.",
+    "tags": [
+      "general-information",
+      "government-structure",
+      "local-autonomy",
+      "lgus"
+    ]
+  },
+  {
+    "id": "GOV-M-009",
+    "question": "Which statement best describes the role of Congress in the Philippine government?",
+    "options": [
+      "It exercises legislative power by creating and amending laws",
+      "It interprets laws and resolves court cases",
+      "It directly enforces laws through government agencies",
+      "It manages all local government operations"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Congress exercises legislative power, which includes creating, amending, and repealing laws. It is composed of the Senate and the House of Representatives.",
+    "tags": [
+      "general-information",
+      "government-structure",
+      "legislative-branch",
+      "congress"
+    ]
+  },
+  {
+    "id": "GOV-M-010",
+    "question": "Which branch of the Philippine government has the authority to approve the national budget proposed by the President?",
+    "options": [
+      "Legislative branch",
+      "Judicial branch",
+      "Executive branch",
+      "Constitutional commissions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Legislative branch, through Congress, has the power of the purse, including reviewing and approving the national budget proposed by the Executive branch.",
+    "tags": [
+      "general-information",
+      "government-structure",
+      "legislative-branch",
+      "national-budget"
+    ]
+  },
+  {
+    "id": "GOV-M-011",
+    "question": "What is the primary purpose of the Ombudsman in the Philippine government?",
+    "options": [
+      "To investigate and prosecute public officials involved in misconduct",
+      "To create national laws",
+      "To conduct national elections",
+      "To manage government employee promotions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Office of the Ombudsman investigates and prosecutes public officials and employees who may be guilty of illegal, unjust, improper, or inefficient acts.",
+    "tags": [
+      "general-information",
+      "government-structure",
+      "ombudsman",
+      "accountability"
+    ]
+  },
+  {
+    "id": "GOV-M-012",
+    "question": "Which constitutional principle ensures that no branch of government becomes more powerful than the others?",
+    "options": [
+      "Checks and balances",
+      "Unlimited authority",
+      "Centralized control",
+      "Political succession"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Checks and balances ensure that each branch of government can limit or monitor the actions of other branches, maintaining balance and preventing abuse of power.",
+    "tags": [
+      "general-information",
+      "government-structure",
+      "constitutional-principles",
+      "checks-and-balances"
+    ]
+  },
+  {
+    "id": "GOV-M-013",
+    "question": "Which constitutional office is responsible for protecting citizens from abuses committed by public officials and employees?",
+    "options": [
+      "Office of the Ombudsman",
+      "Commission on Audit",
+      "Commission on Elections",
+      "Civil Service Commission"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Office of the Ombudsman protects citizens by investigating complaints against public officials and employees and prosecuting those involved in misconduct or corruption.",
+    "tags": [
+      "general-information",
+      "government-structure",
+      "ombudsman",
+      "public-accountability"
+    ]
+  },
+  {
+    "id": "GOV-M-014",
+    "question": "Which local government official presides over the Sangguniang Panlalawigan, the legislative council of a province?",
+    "options": [
+      "Vice Governor",
+      "Governor",
+      "Mayor",
+      "Barangay Captain"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Vice Governor serves as the presiding officer of the Sangguniang Panlalawigan, the provincial legislative body, while the Governor serves as the chief executive of the province.",
+    "tags": [
+      "general-information",
+      "government-structure",
+      "local-government",
+      "province"
+    ]
+  },
+  {
+    "id": "GOV-M-015",
+    "question": "Which constitutional body is primarily responsible for ensuring that government officials and employees follow ethical standards and conduct?",
+    "options": [
+      "Civil Service Commission (CSC)",
+      "Commission on Elections (COMELEC)",
+      "Commission on Audit (COA)",
+      "Bangko Sentral ng Pilipinas (BSP)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Civil Service Commission (CSC) promotes integrity and professionalism in government service by enforcing civil service rules and regulations, including standards of conduct for public employees.",
+    "tags": [
+      "general-information",
+      "government-structure",
+      "civil-service",
+      "ethics"
+    ]
+  }
+]
