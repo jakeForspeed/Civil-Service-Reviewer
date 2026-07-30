@@ -1,0 +1,312 @@
+[
+  {
+    "id": "GRAM-E-001",
+    "question": "Choose the sentence that is grammatically correct.",
+    "options": [
+      "She don't like coffee.",
+      "She doesn't likes coffee.",
+      "She doesn't like coffee.",
+      "She don't likes coffee."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct sentence is 'She doesn't like coffee.' When using 'does not' or 'doesn't', the main verb must always be in its base form. Therefore, 'like' is correct, not 'likes'. 'She don't' is also incorrect because the singular subject 'She' requires 'doesn't', not 'don't'.",
+    "tags": [
+      "subject-verb agreement",
+      "auxiliary verbs"
+    ]
+  },
+  {
+    "id": "GRAM-E-002",
+    "question": "Choose the sentence that is grammatically correct.",
+    "options": [
+      "He go to work every day.",
+      "He goes to work every day.",
+      "He going to work every day.",
+      "He gone to work every day."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct sentence is 'He goes to work every day.' In the simple present tense, third-person singular subjects (he, she, it) require the verb to end in '-s' or '-es'. Therefore, 'goes' is correct.",
+    "tags": [
+      "simple present tense",
+      "subject-verb agreement"
+    ]
+  },
+  {
+    "id": "GRAM-E-003",
+    "question": "Choose the sentence that is grammatically correct.",
+    "options": [
+      "The students was preparing for the examination.",
+      "The students were preparing for the examination.",
+      "The students is preparing for the examination.",
+      "The students has preparing for the examination."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The subject 'students' is plural, so it requires the plural helping verb 'were'. 'Was' is used with singular subjects, while 'is' and 'has' are also singular forms. Therefore, 'The students were preparing for the examination.' is the correct sentence.",
+    "tags": [
+      "subject-verb agreement",
+      "past continuous tense"
+    ]
+  },
+  {
+    "id": "GRAM-E-004",
+    "question": "Choose the sentence that is grammatically correct.",
+    "options": [
+      "Everyone have submitted their assignment.",
+      "Everyone has submitted his or her assignment.",
+      "Everyone have submitted his assignment.",
+      "Everyone has submit their assignment."
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Everyone' is an indefinite pronoun that is grammatically singular. Therefore, it takes the singular verb 'has'. In formal grammar, 'his or her assignment' correctly agrees with the singular subject. The other options contain errors in subject-verb agreement or incorrect verb forms.",
+    "tags": [
+      "indefinite pronouns",
+      "subject-verb agreement"
+    ]
+  },
+  {
+    "id": "GRAM-E-005",
+    "question": "Choose the sentence that is grammatically correct.",
+    "options": [
+      "She bought an umbrella yesterday.",
+      "She bought a umbrella yesterday.",
+      "She buy an umbrella yesterday.",
+      "She buying an umbrella yesterday."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The word 'umbrella' begins with a vowel sound, so the correct article is 'an'. In addition, because the action happened yesterday, the verb should be in the past tense: 'bought'. Therefore, 'She bought an umbrella yesterday.' is the correct sentence.",
+    "tags": [
+      "articles",
+      "past tense"
+    ]
+  },
+  {
+    "id": "GRAM-E-006",
+    "question": "Choose the sentence that is grammatically correct.",
+    "options": [
+      "The meeting will start in 8:00 AM.",
+      "The meeting will start on 8:00 AM.",
+      "The meeting will start at 8:00 AM.",
+      "The meeting will start to 8:00 AM."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct preposition used for a specific time is 'at'. We say 'at 8:00 AM', 'at noon', or 'at midnight'. 'In' is used for months, years, and longer periods, while 'on' is used for specific days and dates.",
+    "tags": [
+      "prepositions"
+    ]
+  },
+  {
+    "id": "GRAM-E-007",
+    "question": "Choose the sentence that is grammatically correct.",
+    "options": [
+      "Maria and me went to the library.",
+      "Maria and I went to the library.",
+      "Maria and myself went to the library.",
+      "Maria and mine went to the library."
+    ],
+    "correctAnswer": 1,
+    "explanation": "When the pronoun is part of the subject, the subjective pronoun 'I' must be used. 'Me' is an object pronoun and cannot function as part of the subject. 'Myself' is a reflexive pronoun and should only be used when referring back to the subject.",
+    "tags": [
+      "pronouns"
+    ]
+  },
+  {
+    "id": "GRAM-E-008",
+    "question": "Choose the sentence that is grammatically correct.",
+    "options": [
+      "She sings beautiful.",
+      "She sings beautifully.",
+      "She beautiful sings.",
+      "She beautifully song."
+    ],
+    "correctAnswer": 1,
+    "explanation": "An adverb modifies a verb. Since 'sings' is a verb, it should be modified by the adverb 'beautifully', not the adjective 'beautiful'. Therefore, 'She sings beautifully.' is the correct sentence.",
+    "tags": [
+      "adverbs",
+      "parts of speech"
+    ]
+  },
+  {
+    "id": "GRAM-E-009",
+    "question": "Choose the sentence that is grammatically correct.",
+    "options": [
+      "I stayed home because it was raining.",
+      "I stayed home because was raining.",
+      "I stayed home because raining.",
+      "I stayed home because is raining."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The conjunction 'because' introduces a dependent clause that must contain both a subject and a verb. 'It was raining' is a complete clause with the subject 'it' and the verb 'was raining'. The other choices omit necessary grammatical elements.",
+    "tags": [
+      "conjunctions",
+      "sentence structure"
+    ]
+  },
+  {
+    "id": "GRAM-E-010",
+    "question": "Choose the sentence that is grammatically correct.",
+    "options": [
+      "The teacher gave the students their assignments.",
+      "The teacher gave the students his assignments.",
+      "The teacher gave the students theirs assignments.",
+      "The teacher gave the students them assignments."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The possessive pronoun 'their' correctly shows that the assignments belong to the students. 'His' incorrectly refers to the singular teacher, 'theirs' cannot be used before a noun, and 'them' is an object pronoun rather than a possessive determiner.",
+    "tags": [
+      "possessive pronouns"
+    ]
+  },
+  {
+    "id": "GRAM-E-011",
+    "question": "Choose the sentence that is grammatically correct.",
+    "options": [
+      "my favorite subject is English.",
+      "My favorite subject is english.",
+      "My favorite subject is English.",
+      "my favorite subject is english."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Every sentence should begin with a capital letter. In addition, the names of languages such as English, Filipino, and Spanish are proper nouns and must always be capitalized. Therefore, 'My favorite subject is English.' is the correct sentence.",
+    "tags": [
+      "capitalization"
+    ]
+  },
+  {
+    "id": "GRAM-E-012",
+    "question": "Choose the sentence that is correctly punctuated.",
+    "options": [
+      "Where are you going.",
+      "Where are you going?",
+      "Where are you going!",
+      "Where are you going,"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A direct question should end with a question mark (?). Since the sentence asks where someone is going, the correct punctuation is a question mark.",
+    "tags": [
+      "punctuation"
+    ]
+  },
+  {
+    "id": "GRAM-E-013",
+    "question": "Choose the sentence that is grammatically correct.",
+    "options": [
+      "The books are in the table.",
+      "The books are on the table.",
+      "The books are at the table.",
+      "The books are into the table."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct preposition is 'on' because the books are resting on the surface of the table. 'In' means inside, 'at' refers to a location rather than a surface, and 'into' indicates movement toward the inside of something.",
+    "tags": [
+      "prepositions"
+    ]
+  },
+  {
+    "id": "GRAM-E-014",
+    "question": "Choose the sentence that is grammatically correct.",
+    "options": [
+      "John is more tall than Mark.",
+      "John is taller than Mark.",
+      "John is tallest than Mark.",
+      "John is much tallest than Mark."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The adjective 'tall' forms its comparative by adding '-er', resulting in 'taller'. We use the comparative form when comparing two people. 'More tall' is incorrect because 'tall' is a one-syllable adjective, and 'tallest' is the superlative form used when comparing three or more.",
+    "tags": [
+      "comparative adjectives"
+    ]
+  },
+  {
+    "id": "GRAM-E-015",
+    "question": "Choose the sentence that is grammatically correct.",
+    "options": [
+      "They will visits their grandparents tomorrow.",
+      "They will visit their grandparents tomorrow.",
+      "They will visited their grandparents tomorrow.",
+      "They will visiting their grandparents tomorrow."
+    ],
+    "correctAnswer": 1,
+    "explanation": "After the helping verb 'will', the main verb must always be in its base form. Therefore, 'visit' is correct. The forms 'visits', 'visited', and 'visiting' cannot immediately follow 'will'.",
+    "tags": [
+      "future tense",
+      "auxiliary verbs"
+    ]
+  },
+  {
+    "id": "GRAM-E-016",
+    "question": "Choose the sentence that is grammatically correct.",
+    "options": [
+      "You must to wear your identification card.",
+      "You must wearing your identification card.",
+      "You must wear your identification card.",
+      "You must wears your identification card."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Modal verbs such as 'must', 'can', 'may', 'should', and 'will' are always followed by the base form of the verb. Therefore, 'wear' is correct. The forms 'to wear', 'wearing', and 'wears' are incorrect after the modal verb 'must'.",
+    "tags": [
+      "modal verbs"
+    ]
+  },
+  {
+    "id": "GRAM-E-017",
+    "question": "Choose the sentence that is grammatically correct.",
+    "options": [
+      "I wanted to attend the meeting but I was sick.",
+      "I wanted to attend the meeting and I was sick.",
+      "I wanted to attend the meeting because I was sick.",
+      "I wanted to attend the meeting or I was sick."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The conjunction 'but' correctly joins two ideas that contrast with each other. The speaker wanted to attend the meeting, but illness prevented it. 'And' merely adds information, 'because' incorrectly gives the reason for wanting to attend, and 'or' presents an unnecessary choice.",
+    "tags": [
+      "coordinating conjunctions"
+    ]
+  },
+  {
+    "id": "GRAM-E-018",
+    "question": "Choose the sentence that is grammatically correct.",
+    "options": [
+      "She prepared herself for the interview.",
+      "She prepared herselfs for the interview.",
+      "She prepared her for the interview.",
+      "She prepared hers for the interview."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A reflexive pronoun refers back to the subject of the sentence. Since 'She' is both the subject and the person receiving the action, the correct reflexive pronoun is 'herself'. The other choices use incorrect or nonexistent pronoun forms.",
+    "tags": [
+      "reflexive pronouns"
+    ]
+  },
+  {
+    "id": "GRAM-E-019",
+    "question": "Choose the sentence that is grammatically correct.",
+    "options": [
+      "The committee have reached a decision.",
+      "The committee has reached a decision.",
+      "The committee are reaching a decision.",
+      "The committee were reached a decision."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A collective noun such as 'committee', 'team', or 'family' is generally treated as singular in American English, which is the standard followed in most Philippine schools and government examinations. Therefore, the singular verb 'has' correctly agrees with the singular subject 'committee'.",
+    "tags": [
+      "collective nouns",
+      "subject-verb agreement"
+    ]
+  },
+  {
+    "id": "GRAM-E-020",
+    "question": "Choose the sentence that is grammatically correct.",
+    "options": [
+      "Its a beautiful day to study.",
+      "It's a beautiful day to study.",
+      "Its' a beautiful day to study.",
+      "It is' a beautiful day to study."
+    ],
+    "correctAnswer": 1,
+    "explanation": "'It's' is the contraction of 'it is' or 'it has'. 'Its' is a possessive pronoun showing ownership, as in 'The dog wagged its tail.' Since the sentence means 'It is a beautiful day to study,' the correct form is 'It's'.",
+    "tags": [
+      "commonly confused words",
+      "contractions"
+    ]
+  }
+]

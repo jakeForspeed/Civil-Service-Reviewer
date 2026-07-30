@@ -1,0 +1,272 @@
+[
+  {
+    "id": "HR-M-001",
+    "question": "What is the primary function of the Commission on Human Rights (CHR) under the 1987 Philippine Constitution?",
+    "options": [
+      "To investigate human rights violations and promote the protection of human dignity",
+      "To create criminal laws for human rights offenses",
+      "To manage government budgets and expenditures",
+      "To conduct and supervise national elections"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Commission on Human Rights (CHR) is an independent constitutional body responsible for investigating human rights violations and promoting the protection of human rights in the Philippines.",
+    "tags": [
+      "general-information",
+      "peace-and-human-rights",
+      "commission-on-human-rights",
+      "constitution"
+    ]
+  },
+  {
+    "id": "HR-M-002",
+    "question": "Which principle states that all individuals possess equal dignity and rights regardless of race, gender, religion, or social status?",
+    "options": [
+      "Equality and non-discrimination",
+      "Political authority",
+      "State sovereignty",
+      "Administrative control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Equality and non-discrimination are fundamental human rights principles that recognize the equal dignity and rights of every person without unfair treatment based on personal characteristics.",
+    "tags": [
+      "general-information",
+      "peace-and-human-rights",
+      "equality",
+      "non-discrimination"
+    ]
+  },
+  {
+    "id": "HR-M-003",
+    "question": "Which approach is considered an effective way to resolve conflicts while promoting peace?",
+    "options": [
+      "Dialogue and peaceful negotiation",
+      "Use of threats and intimidation",
+      "Suppression of different opinions",
+      "Retaliation against opposing groups"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Dialogue and peaceful negotiation encourage communication, understanding, and cooperation, making them effective methods for resolving conflicts without violence.",
+    "tags": [
+      "general-information",
+      "peace-and-human-rights",
+      "peace-building",
+      "conflict-resolution"
+    ]
+  },
+  {
+    "id": "HR-M-004",
+    "question": "Which constitutional right protects individuals from unreasonable searches and seizures by authorities?",
+    "options": [
+      "Right against unreasonable searches and seizures",
+      "Right to freedom of assembly",
+      "Right to information",
+      "Right to education"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The right against unreasonable searches and seizures is protected under the Bill of Rights and requires authorities to follow legal requirements, such as obtaining a valid warrant, before conducting searches in most cases.",
+    "tags": [
+      "general-information",
+      "peace-and-human-rights",
+      "bill-of-rights",
+      "privacy"
+    ]
+  },
+  {
+    "id": "HR-M-005",
+    "question": "Why is respect for human rights important in maintaining peace and order in society?",
+    "options": [
+      "It promotes fairness, prevents abuses, and builds trust among people",
+      "It allows authorities to ignore legal procedures",
+      "It removes all responsibilities from citizens",
+      "It gives unlimited power to certain groups"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Respect for human rights helps maintain peace by preventing abuses, promoting justice, and encouraging cooperation and trust between individuals and institutions.",
+    "tags": [
+      "general-information",
+      "peace-and-human-rights",
+      "human-rights",
+      "peace-and-order"
+    ]
+  },
+  {
+    "id": "HR-M-006",
+    "question": "Which international document is considered a foundational statement of universal human rights?",
+    "options": [
+      "Universal Declaration of Human Rights (UDHR)",
+      "United Nations Charter on Trade",
+      "Geneva Convention on Commerce",
+      "International Monetary Agreement"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Universal Declaration of Human Rights (UDHR), adopted by the United Nations in 1948, established fundamental human rights and freedoms that apply to all people.",
+    "tags": [
+      "general-information",
+      "peace-and-human-rights",
+      "udhr",
+      "international-human-rights"
+    ]
+  },
+  {
+    "id": "HR-M-007",
+    "question": "Which right allows citizens to participate in government decision-making through elections?",
+    "options": [
+      "Right of suffrage",
+      "Right against self-incrimination",
+      "Right to privacy",
+      "Right to property"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The right of suffrage is the constitutional right of qualified citizens to vote and participate in choosing their government representatives.",
+    "tags": [
+      "general-information",
+      "peace-and-human-rights",
+      "right-of-suffrage",
+      "democratic-rights"
+    ]
+  },
+  {
+    "id": "HR-M-008",
+    "question": "Which action best reflects the principle of human dignity?",
+    "options": [
+      "Treating every person with respect regardless of differences",
+      "Judging people based on stereotypes",
+      "Denying basic rights to certain groups",
+      "Using discrimination to maintain order"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Respecting human dignity means recognizing the inherent worth of every person and treating individuals fairly regardless of differences.",
+    "tags": [
+      "general-information",
+      "peace-and-human-rights",
+      "human-dignity",
+      "equality"
+    ]
+  },
+  {
+    "id": "HR-M-009",
+    "question": "What is the purpose of peace education in communities?",
+    "options": [
+      "To develop understanding, tolerance, and nonviolent ways of resolving conflicts",
+      "To encourage hostility between groups",
+      "To prevent people from discussing social issues",
+      "To promote the use of force in disagreements"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Peace education promotes values such as respect, tolerance, dialogue, and cooperation to help individuals resolve conflicts peacefully.",
+    "tags": [
+      "general-information",
+      "peace-and-human-rights",
+      "peace-education",
+      "conflict-resolution"
+    ]
+  },
+  {
+    "id": "HR-M-010",
+    "question": "Which constitutional guarantee protects individuals from being punished without a fair trial?",
+    "options": [
+      "Due process of law",
+      "Freedom of assembly",
+      "Right to travel",
+      "Freedom of religion"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Due process of law ensures that a person cannot be deprived of life, liberty, or property without proper legal procedures, including a fair opportunity to be heard.",
+    "tags": [
+      "general-information",
+      "peace-and-human-rights",
+      "due-process",
+      "constitutional-rights"
+    ]
+  },
+  {
+    "id": "HR-M-011",
+    "question": "Which principle requires that government actions affecting human rights must be based on fairness and lawful procedures?",
+    "options": [
+      "Rule of law",
+      "Political favoritism",
+      "Unlimited authority",
+      "Social exclusion"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The rule of law requires that all persons and government institutions are subject to laws that are applied fairly, protecting individuals from arbitrary actions.",
+    "tags": [
+      "general-information",
+      "peace-and-human-rights",
+      "rule-of-law",
+      "human-rights-protection"
+    ]
+  },
+  {
+    "id": "HR-M-012",
+    "question": "Why is the protection of human rights considered important in a democratic society?",
+    "options": [
+      "It limits abuse of power and protects individual freedoms",
+      "It allows government officials to act without restrictions",
+      "It removes the need for laws and institutions",
+      "It gives certain groups unlimited authority"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Human rights protection is essential in democracy because it safeguards freedoms, promotes equality, and prevents abuse of authority by individuals or institutions.",
+    "tags": [
+      "general-information",
+      "peace-and-human-rights",
+      "democracy",
+      "human-rights-protection"
+    ]
+  },
+  {
+    "id": "HR-M-013",
+    "question": "Which constitutional commission is responsible for promoting and protecting human rights in the Philippines?",
+    "options": [
+      "Commission on Human Rights (CHR)",
+      "Commission on Elections (COMELEC)",
+      "Commission on Audit (COA)",
+      "Civil Service Commission (CSC)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Commission on Human Rights (CHR) is an independent constitutional office created to investigate human rights violations and promote the protection of human rights.",
+    "tags": [
+      "general-information",
+      "peace-and-human-rights",
+      "commission-on-human-rights",
+      "constitutional-body"
+    ]
+  },
+  {
+    "id": "HR-M-014",
+    "question": "Which concept means that individuals should be able to exercise their rights while respecting the rights of others?",
+    "options": [
+      "Responsible freedom",
+      "Absolute authority",
+      "Social discrimination",
+      "Political domination"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Responsible freedom means that people may exercise their rights but must also recognize that their actions should not violate the rights and freedoms of others.",
+    "tags": [
+      "general-information",
+      "peace-and-human-rights",
+      "freedom",
+      "responsibility"
+    ]
+  },
+  {
+    "id": "HR-M-015",
+    "question": "Which action by citizens helps strengthen peace and human rights in a democratic society?",
+    "options": [
+      "Participating responsibly and respecting the rights of others",
+      "Ignoring violations of people's rights",
+      "Supporting discrimination against groups",
+      "Using violence to settle disagreements"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Responsible citizen participation and respect for the rights of others help promote democracy, social harmony, and peaceful communities.",
+    "tags": [
+      "general-information",
+      "peace-and-human-rights",
+      "citizenship",
+      "democracy"
+    ]
+  }
+]

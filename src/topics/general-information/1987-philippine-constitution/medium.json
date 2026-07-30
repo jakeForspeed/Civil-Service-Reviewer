@@ -1,0 +1,266 @@
+[
+  {
+    "id": "CONST-M-001",
+    "question": "Which Article of the 1987 Philippine Constitution contains the Declaration of Principles and State Policies?",
+    "options": [
+      "Article I",
+      "Article II",
+      "Article III",
+      "Article IV"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Article II of the 1987 Philippine Constitution contains the Declaration of Principles and State Policies, which serves as a guide for the government in the exercise of its powers.",
+    "tags": [
+      "general-information",
+      "1987-constitution",
+      "state-principles"
+    ]
+  },
+  {
+    "id": "CONST-M-002",
+    "question": "Which of the following is guaranteed under the Bill of Rights in the 1987 Philippine Constitution?",
+    "options": [
+      "Freedom of speech",
+      "Free college education",
+      "Lifetime government employment",
+      "Tax exemption for all citizens"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Article III (Bill of Rights) guarantees freedoms such as freedom of speech, expression, religion, and the press. The other choices are not constitutional rights guaranteed by the Bill of Rights.",
+    "tags": [
+      "general-information",
+      "1987-constitution",
+      "bill-of-rights"
+    ]
+  },
+  {
+    "id": "CONST-M-003",
+    "question": "Under the 1987 Philippine Constitution, what is the primary function of the Judicial Branch?",
+    "options": [
+      "To enact laws",
+      "To enforce laws",
+      "To interpret laws and settle actual controversies involving legally demandable rights",
+      "To prepare the national budget"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Article VIII vests judicial power in the courts. Judicial power includes the duty to settle actual controversies involving rights that are legally demandable and enforceable and to determine whether there has been grave abuse of discretion by any branch or instrumentality of the government.",
+    "tags": [
+      "general-information",
+      "1987-constitution",
+      "judiciary"
+    ]
+  },
+  {
+    "id": "CONST-M-004",
+    "question": "Which constitutional principle provides that no person shall be deprived of life, liberty, or property without due process of law?",
+    "options": [
+      "Equal Protection of the Laws",
+      "Due Process of Law",
+      "Judicial Review",
+      "Popular Sovereignty"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Article III, Section 1 of the 1987 Philippine Constitution provides that no person shall be deprived of life, liberty, or property without due process of law. This protects individuals against arbitrary government action.",
+    "tags": [
+      "general-information",
+      "1987-constitution",
+      "bill-of-rights",
+      "due-process"
+    ]
+  },
+  {
+    "id": "CONST-M-005",
+    "question": "Which of the following is a Constitutional Commission created by the 1987 Philippine Constitution?",
+    "options": [
+      "Department of Justice",
+      "Civil Service Commission",
+      "Department of Education",
+      "National Bureau of Investigation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Article IX of the 1987 Philippine Constitution establishes three Constitutional Commissions: the Civil Service Commission (CSC), the Commission on Elections (COMELEC), and the Commission on Audit (COA).",
+    "tags": [
+      "general-information",
+      "1987-constitution",
+      "constitutional-commissions"
+    ]
+  },
+  {
+    "id": "CONST-M-006",
+    "question": "Under the 1987 Philippine Constitution, who has the authority to declare the existence of a state of war?",
+    "options": [
+      "The President alone",
+      "The Supreme Court",
+      "Congress, by a vote of two-thirds of both Houses in joint session assembled, voting separately",
+      "The National Security Council"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Article VI, Section 23(1) of the 1987 Philippine Constitution provides that Congress, by a vote of two-thirds of both Houses in joint session assembled, voting separately, has the sole power to declare the existence of a state of war.",
+    "tags": [
+      "general-information",
+      "1987-constitution",
+      "legislative",
+      "war-powers"
+    ]
+  },
+  {
+    "id": "CONST-M-007",
+    "question": "Which of the following is a constitutional right of an accused person under the 1987 Philippine Constitution?",
+    "options": [
+      "The right to vote while detained",
+      "The right to be presumed innocent until the contrary is proved",
+      "The right to hold public office while under trial",
+      "The right to refuse payment of taxes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Article III, Section 14(2) of the 1987 Philippine Constitution provides that an accused shall be presumed innocent until the contrary is proved. This is one of the fundamental rights guaranteed under the Bill of Rights.",
+    "tags": [
+      "general-information",
+      "1987-constitution",
+      "bill-of-rights",
+      "rights-of-the-accused"
+    ]
+  },
+  {
+    "id": "CONST-M-008",
+    "question": "Which of the following best describes the principle of separation of powers under the 1987 Philippine Constitution?",
+    "options": [
+      "Each branch of government performs functions assigned to it by the Constitution.",
+      "The President may exercise all powers of government during emergencies.",
+      "Congress supervises all decisions of the Supreme Court.",
+      "The Judiciary may enact laws whenever necessary."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Constitution distributes governmental powers among the Executive, Legislative, and Judiciary. Each branch has its own powers and responsibilities while serving as a check on the others.",
+    "tags": [
+      "general-information",
+      "1987-constitution",
+      "separation-of-powers"
+    ]
+  },
+  {
+    "id": "CONST-M-009",
+    "question": "Under the 1987 Philippine Constitution, the privilege of the writ of habeas corpus may be suspended only in cases of:",
+    "options": [
+      "National elections",
+      "Invasion or rebellion, when the public safety requires it",
+      "Economic crisis",
+      "Natural disasters"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Article VII, Section 18 of the 1987 Philippine Constitution provides that the privilege of the writ of habeas corpus may be suspended only in cases of invasion or rebellion when the public safety requires it.",
+    "tags": [
+      "general-information",
+      "1987-constitution",
+      "writ-of-habeas-corpus",
+      "executive-powers"
+    ]
+  },
+  {
+  "id": "CONST-M-010",
+  "question": "Under the 1987 Philippine Constitution, which of the following is a qualification to become President of the Philippines?",
+  "options": [
+    "At least 40 years old",
+    "At least 35 years old",
+    "A naturalized Filipino citizen",
+    "A resident of the Philippines for at least 5 years immediately preceding the election"
+  ],
+  "correctAnswer": 0,
+  "explanation": "Article VII, Section 2 of the 1987 Philippine Constitution provides that the President must be a natural-born citizen of the Philippines, a registered voter, able to read and write, at least 40 years of age on the day of the election, and a resident of the Philippines for at least 10 years immediately preceding the election.",
+  "tags": [
+    "general-information",
+    "1987-constitution",
+    "executive-branch",
+    "qualifications"
+  ]
+},
+  {
+    "id": "CONST-M-011",
+    "question": "Which constitutional principle ensures that no branch of government becomes too powerful by allowing each branch to limit the powers of the others?",
+    "options": [
+      "Popular Sovereignty",
+      "Checks and Balances",
+      "Judicial Independence",
+      "Local Autonomy"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The principle of checks and balances allows the Executive, Legislative, and Judiciary to exercise constitutional powers that limit or check one another, preventing the concentration of governmental power.",
+    "tags": [
+      "general-information",
+      "1987-constitution",
+      "checks-and-balances"
+    ]
+  },
+  {
+    "id": "CONST-M-012",
+    "question": "Which of the following rights is protected by the Bill of Rights under Article III of the 1987 Philippine Constitution?",
+    "options": [
+      "The right against unreasonable searches and seizures",
+      "The right to free housing",
+      "The right to government employment",
+      "The right to exemption from taxation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Article III, Section 2 of the 1987 Philippine Constitution protects people against unreasonable searches and seizures, except in cases allowed by law and supported by a valid warrant or recognized exceptions.",
+    "tags": [
+      "general-information",
+      "1987-constitution",
+      "bill-of-rights",
+      "search-and-seizure"
+    ]
+  },
+   {
+    "id": "CONST-M-013",
+    "question": "Under the 1987 Philippine Constitution, which branch of government has the exclusive power to initiate all appropriation, revenue, and tariff bills?",
+    "options": [
+      "The Senate",
+      "The House of Representatives",
+      "The Supreme Court",
+      "The Office of the President"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Article VI, Section 24 of the 1987 Philippine Constitution provides that all appropriation, revenue, tariff bills, bills authorizing an increase of the public debt, bills of local application, and private bills shall originate exclusively in the House of Representatives, although the Senate may propose or concur with amendments.",
+    "tags": [
+      "general-information",
+      "1987-constitution",
+      "legislative",
+      "house-of-representatives"
+    ]
+  },
+  {
+    "id": "CONST-M-014",
+    "question": "Which of the following is NOT one of the three Constitutional Commissions created under Article IX of the 1987 Philippine Constitution?",
+    "options": [
+      "Civil Service Commission",
+      "Commission on Elections",
+      "Commission on Audit",
+      "Commission on Human Rights"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The three Constitutional Commissions are the Civil Service Commission (Article IX-B), the Commission on Elections (Article IX-C), and the Commission on Audit (Article IX-D). The Commission on Human Rights is created under Article XIII and is an independent constitutional office, but it is not one of the Constitutional Commissions under Article IX.",
+    "tags": [
+      "general-information",
+      "1987-constitution",
+      "constitutional-commissions",
+      "commission-on-human-rights"
+    ]
+  },
+  {
+    "id": "CONST-M-015",
+    "question": "Under the 1987 Philippine Constitution, judicial power is vested in:",
+    "options": [
+      "The Supreme Court only",
+      "The Supreme Court and such lower courts as may be established by law",
+      "The Court of Appeals only",
+      "The Sandiganbayan only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Article VIII, Section 1 of the 1987 Philippine Constitution provides that judicial power is vested in one Supreme Court and in such lower courts as may be established by law.",
+    "tags": [
+      "general-information",
+      "1987-constitution",
+      "judiciary",
+      "judicial-power"
+    ]
+  }
+]

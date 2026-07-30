@@ -1,0 +1,273 @@
+[
+  {
+    "id": "CONST-H-001",
+    "question": "Which constitutional principle prevents any one branch of the Philippine government from exercising powers exclusively assigned to another branch?",
+    "options": [
+      "Popular Sovereignty",
+      "Separation of Powers",
+      "Local Autonomy",
+      "Judicial Supremacy"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The doctrine of Separation of Powers distributes governmental powers among the Legislative, Executive, and Judiciary. Each branch exercises powers assigned by the Constitution, preventing the concentration of power in a single branch.",
+    "tags": [
+      "general-information",
+      "1987-constitution",
+      "separation-of-powers",
+      "constitutional-principles"
+    ]
+  },
+  {
+    "id": "CONST-H-002",
+    "question": "Under Article VIII of the 1987 Philippine Constitution, judicial power includes the duty of the courts to determine whether there has been:",
+    "options": [
+      "A violation of local ordinances only",
+      "Grave abuse of discretion amounting to lack or excess of jurisdiction by any branch or instrumentality of the government",
+      "A disagreement between the President and Congress",
+      "An administrative violation committed by a private citizen"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Article VIII, Section 1 expanded judicial power by authorizing courts to determine whether any branch or instrumentality of the government committed grave abuse of discretion amounting to lack or excess of jurisdiction.",
+    "tags": [
+      "general-information",
+      "1987-constitution",
+      "judicial-power",
+      "judiciary"
+    ]
+  },
+  {
+    "id": "CONST-H-003",
+    "question": "The Senate may propose or concur with amendments to appropriation and revenue bills even though such bills must originate exclusively from the:",
+    "options": [
+      "Supreme Court",
+      "House of Representatives",
+      "Office of the President",
+      "Commission on Audit"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Article VI, Section 24 provides that appropriation, revenue, tariff, and certain other bills shall originate exclusively in the House of Representatives. However, the Senate may propose or concur with amendments.",
+    "tags": [
+      "general-information",
+      "1987-constitution",
+      "legislative",
+      "house-of-representatives"
+    ]
+  },
+  {
+    "id": "CONST-H-004",
+    "question": "Under the 1987 Philippine Constitution, which of the following is NOT a requirement for a valid declaration of martial law by the President?",
+    "options": [
+      "There must be invasion or rebellion.",
+      "Public safety must require it.",
+      "Congress must first declare the existence of a state of war.",
+      "The duration shall not exceed sixty days unless extended by Congress."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Article VII, Section 18 provides that the President may declare martial law in case of invasion or rebellion when public safety requires it. The declaration is effective for a period not exceeding 60 days unless extended by Congress. A prior declaration of a state of war by Congress is not a constitutional requirement.",
+    "tags": [
+      "general-information",
+      "1987-constitution",
+      "martial-law",
+      "executive-powers"
+    ]
+  },
+  {
+    "id": "CONST-H-005",
+    "question": "Which constitutional safeguard allows Congress to revoke the President's proclamation of martial law or suspension of the privilege of the writ of habeas corpus?",
+    "options": [
+      "A majority vote of both Houses voting jointly",
+      "A two-thirds vote of the Senate only",
+      "A majority vote of the House of Representatives only",
+      "A unanimous vote of the Supreme Court"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Article VII, Section 18 provides that Congress, voting jointly by a majority vote of all its Members in regular or special session, may revoke the President's proclamation of martial law or suspension of the privilege of the writ of habeas corpus. The President cannot set aside such revocation.",
+    "tags": [
+      "general-information",
+      "1987-constitution",
+      "checks-and-balances",
+      "martial-law"
+    ]
+  },
+  {
+    "id": "CONST-H-006",
+    "question": "Under the 1987 Philippine Constitution, which body has the constitutional duty to review, in an appropriate proceeding filed by any citizen, the sufficiency of the factual basis of a proclamation of martial law or suspension of the privilege of the writ of habeas corpus?",
+    "options": [
+      "Commission on Elections",
+      "Congress",
+      "Supreme Court",
+      "Commission on Audit"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Article VII, Section 18 authorizes the Supreme Court, upon the filing by any citizen of an appropriate proceeding, to review the sufficiency of the factual basis of the proclamation of martial law or suspension of the privilege of the writ of habeas corpus and to promulgate its decision within thirty days.",
+    "tags": [
+      "general-information",
+      "1987-constitution",
+      "supreme-court",
+      "martial-law",
+      "judicial-review"
+    ]
+  },
+  {
+    "id": "CONST-H-007",
+    "question": "Under the 1987 Philippine Constitution, which of the following powers belongs exclusively to the Senate?",
+    "options": [
+      "Originate appropriation bills",
+      "Try and decide impeachment cases",
+      "Confirm appointments of department secretaries",
+      "Declare martial law"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Article XI, Section 3(6) of the 1987 Philippine Constitution provides that the Senate has the sole power to try and decide impeachment cases. The House of Representatives has the exclusive power to initiate impeachment cases.",
+    "tags": [
+      "general-information",
+      "1987-constitution",
+      "senate",
+      "impeachment"
+    ]
+  },
+  {
+    "id": "CONST-H-008",
+    "question": "Which constitutional body has the exclusive power to initiate all cases of impeachment under the 1987 Philippine Constitution?",
+    "options": [
+      "The Senate",
+      "The Supreme Court",
+      "The House of Representatives",
+      "The Office of the Ombudsman"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Article XI, Section 3(1) of the 1987 Philippine Constitution states that the House of Representatives shall have the exclusive power to initiate all cases of impeachment.",
+    "tags": [
+      "general-information",
+      "1987-constitution",
+      "house-of-representatives",
+      "impeachment"
+    ]
+  },
+  {
+    "id": "CONST-H-009",
+    "question": "Which of the following officials is NOT subject to impeachment under the 1987 Philippine Constitution?",
+    "options": [
+      "President",
+      "Chief Justice",
+      "Chairperson of the Commission on Audit",
+      "Secretary of Justice"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Article XI, Section 2 provides that the President, Vice-President, Members of the Supreme Court, Members of the Constitutional Commissions, and the Ombudsman may be removed from office by impeachment. The Secretary of Justice is not an impeachable officer.",
+    "tags": [
+      "general-information",
+      "1987-constitution",
+      "impeachment",
+      "public-officers"
+    ]
+  },
+  {
+    "id": "CONST-H-010",
+    "question": "Under the 1987 Philippine Constitution, what vote is required for the Senate to convict an impeached official?",
+    "options": [
+      "Majority of all Senators",
+      "Two-thirds of all the Members of the Senate",
+      "Three-fourths of all Senators",
+      "Unanimous vote of all Senators present"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Article XI, Section 3(6) of the 1987 Philippine Constitution provides that no person shall be convicted without the concurrence of two-thirds of all the Members of the Senate.",
+    "tags": [
+      "general-information",
+      "1987-constitution",
+      "impeachment",
+      "senate"
+    ]
+  },
+  {
+    "id": "CONST-H-011",
+    "question": "Under Article III of the 1987 Philippine Constitution, evidence obtained in violation of the right against unreasonable searches and seizures is generally:",
+    "options": [
+      "Admissible if obtained in good faith",
+      "Admissible if approved by the prosecutor",
+      "Inadmissible for any purpose in any proceeding",
+      "Admissible only in administrative cases"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Article III, Section 3(2) provides that any evidence obtained in violation of the Constitution or the Bill of Rights shall be inadmissible for any purpose in any proceeding. This is known as the exclusionary rule.",
+    "tags": [
+      "general-information",
+      "1987-constitution",
+      "bill-of-rights",
+      "exclusionary-rule"
+    ]
+  },
+  {
+    "id": "CONST-H-012",
+    "question": "Which constitutional principle is illustrated when the Supreme Court declares a law unconstitutional because it violates the Constitution?",
+    "options": [
+      "Popular Sovereignty",
+      "Judicial Review",
+      "Civilian Supremacy",
+      "Local Autonomy"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Judicial review is the power of the courts, particularly the Supreme Court, to determine whether laws or governmental acts conform to the Constitution. This power is recognized under Article VIII of the 1987 Philippine Constitution.",
+    "tags": [
+      "general-information",
+      "1987-constitution",
+      "judicial-review",
+      "judiciary"
+    ]
+  },
+  {
+    "id": "CONST-H-013",
+    "question": "Which of the following best describes the constitutional principle of civilian supremacy over the military?",
+    "options": [
+      "The Armed Forces may exercise governmental powers during emergencies without civilian authority.",
+      "The Armed Forces is the supreme governing body during times of war.",
+      "Civilian authority is, at all times, supreme over the military.",
+      "The President may permanently transfer executive power to the Armed Forces."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Article II, Section 3 of the 1987 Philippine Constitution provides that civilian authority is, at all times, supreme over the military. The Armed Forces of the Philippines is the protector of the people and the State.",
+    "tags": [
+      "general-information",
+      "1987-constitution",
+      "state-principles",
+      "civilian-supremacy"
+    ]
+  },
+  {
+    "id": "CONST-H-014",
+    "question": "Under the 1987 Philippine Constitution, public office is regarded as:",
+    "options": [
+      "A property right of every elected official",
+      "A public trust",
+      "A contractual privilege",
+      "A hereditary right"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Article XI, Section 1 of the 1987 Philippine Constitution declares that public office is a public trust. Public officers and employees must at all times be accountable to the people and serve them with responsibility, integrity, loyalty, and efficiency.",
+    "tags": [
+      "general-information",
+      "1987-constitution",
+      "accountability",
+      "public-office"
+    ]
+  },
+  {
+    "id": "CONST-H-015",
+    "question": "Which of the following constitutional provisions embodies the principle that no person shall be twice put in jeopardy of punishment for the same offense?",
+    "options": [
+      "The Equal Protection Clause",
+      "The Due Process Clause",
+      "The Double Jeopardy Clause",
+      "The Free Exercise Clause"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Article III, Section 21 of the 1987 Philippine Constitution provides that no person shall be twice put in jeopardy of punishment for the same offense. This constitutional protection is commonly known as the Double Jeopardy Clause.",
+    "tags": [
+      "general-information",
+      "1987-constitution",
+      "bill-of-rights",
+      "double-jeopardy"
+    ]
+  }
+]

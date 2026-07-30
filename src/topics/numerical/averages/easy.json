@@ -1,0 +1,245 @@
+[
+  {
+    "id": "AVG-E-001",
+    "question": "What is the average of 12, 18, 20, and 30?",
+    "options": [
+      "18",
+      "20",
+      "22",
+      "24"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Add the numbers: 12 + 18 + 20 + 30 = 80. Divide by 4: 80 ÷ 4 = 20.",
+    "tags": [
+      "average",
+      "mean"
+    ]
+  },
+  {
+    "id": "AVG-E-002",
+    "question": "The average of five numbers is 14. What is their total sum?",
+    "options": [
+      "60",
+      "65",
+      "70",
+      "75"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sum = Average × Number of values = 14 × 5 = 70.",
+    "tags": [
+      "average",
+      "sum"
+    ]
+  },
+  {
+    "id": "AVG-E-003",
+    "question": "Maria scored 78, 82, and 90 on three quizzes. What was her average score?",
+    "options": [
+      "82",
+      "83",
+      "84",
+      "85"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Add the scores: 78 + 82 + 90 = 250. Divide by 3: 250 ÷ 3 = 83.33. Rounded to the nearest whole number, the average is 83.",
+    "tags": [
+      "average",
+      "word problems"
+    ]
+  },
+  {
+    "id": "AVG-E-004",
+    "question": "The average age of four children is 10 years. What is the total of their ages?",
+    "options": [
+      "36",
+      "38",
+      "40",
+      "42"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Total age = Average × Number of children = 10 × 4 = 40 years.",
+    "tags": [
+      "average",
+      "age problems"
+    ]
+  },
+  {
+    "id": "AVG-E-005",
+    "question": "What is the average of 15, 25, 35, 45, and 55?",
+    "options": [
+      "33",
+      "34",
+      "35",
+      "36"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Add the numbers: 15 + 25 + 35 + 45 + 55 = 175. Divide by 5: 175 ÷ 5 = 35.",
+    "tags": [
+      "average",
+      "mean"
+    ]
+  }
+  ,
+{
+  "id": "AVG-E-006",
+  "question": "The average of four numbers is 25. If three of the numbers are 18, 24, and 30, what is the fourth number?",
+  "options": [
+    "26",
+    "28",
+    "30",
+    "32"
+  ],
+  "correctAnswer": 1,
+  "explanation": "The total value of the four numbers is 25 × 4 = 100. The sum of the known numbers is 18 + 24 + 30 = 72. The fourth number is 100 − 72 = 28.",
+  "tags": [
+    "average",
+    "missing value"
+  ]
+},
+{
+  "id": "AVG-E-007",
+  "question": "A student obtained the following scores: 85, 90, 75, and 80. What is the student's average score?",
+  "options": [
+    "80",
+    "82.5",
+    "85",
+    "87.5"
+  ],
+  "correctAnswer": 1,
+  "explanation": "Add the scores: 85 + 90 + 75 + 80 = 330. Divide by the number of scores: 330 ÷ 4 = 82.5.",
+  "tags": [
+    "average",
+    "test scores"
+  ]
+},
+{
+  "id": "AVG-E-008",
+  "question": "The average number of customers served by a store in 5 days is 40. How many customers were served in total during those days?",
+  "options": [
+    "180",
+    "190",
+    "200",
+    "220"
+  ],
+  "correctAnswer": 2,
+  "explanation": "Total customers = Average × Number of days. Therefore, 40 × 5 = 200 customers.",
+  "tags": [
+    "average",
+    "total value"
+  ]
+},
+{
+  "id": "AVG-E-009",
+  "question": "The average weight of three boxes is 18 kilograms. If two boxes weigh 15 kilograms and 20 kilograms, what is the weight of the third box?",
+  "options": [
+    "17 kilograms",
+    "18 kilograms",
+    "19 kilograms",
+    "20 kilograms"
+  ],
+  "correctAnswer": 2,
+  "explanation": "The total weight of the three boxes is 18 × 3 = 54 kilograms. The first two boxes weigh 15 + 20 = 35 kilograms. The third box weighs 54 − 35 = 19 kilograms.",
+  "tags": [
+    "average",
+    "missing value",
+    "word problems"
+  ]
+},
+{
+  "id": "AVG-E-010",
+  "question": "A player scored 16, 22, 18, 24, and 20 points in five games. What was the average score per game?",
+  "options": [
+    "18",
+    "19",
+    "20",
+    "21"
+  ],
+  "correctAnswer": 2,
+  "explanation": "Add all scores: 16 + 22 + 18 + 24 + 20 = 100. Divide by 5 games: 100 ÷ 5 = 20.",
+  "tags": [
+    "average",
+    "sports scores"
+  ]
+}
+,
+{
+  "id": "AVG-E-011",
+  "question": "The average score of 6 students in a quiz is 85. What is the total score of all students?",
+  "options": [
+    "480",
+    "500",
+    "510",
+    "520"
+  ],
+  "correctAnswer": 2,
+  "explanation": "Total score = Average × Number of students. Therefore, 85 × 6 = 510.",
+  "tags": [
+    "average",
+    "total value"
+  ]
+},
+{
+  "id": "AVG-E-012",
+  "question": "The average of four numbers is 32. If three of the numbers are 25, 30, and 35, what is the fourth number?",
+  "options": [
+    "36",
+    "38",
+    "40",
+    "42"
+  ],
+  "correctAnswer": 2,
+  "explanation": "The total value of the four numbers is 32 × 4 = 128. The sum of the known numbers is 25 + 30 + 35 = 90. The fourth number is 128 − 90 = 38.",
+  "tags": [
+    "average",
+    "missing value"
+  ]
+},
+{
+  "id": "AVG-E-013",
+  "question": "A worker earned an average of ₱650 per day for 5 days. How much did the worker earn in total?",
+  "options": [
+    "₱3,000",
+    "₱3,150",
+    "₱3,250",
+    "₱3,500"
+  ],
+  "correctAnswer": 2,
+  "explanation": "Total earnings = Average daily income × Number of days. Therefore, ₱650 × 5 = ₱3,250.",
+  "tags": [
+    "average",
+    "income"
+  ]
+},
+{
+  "id": "AVG-E-014",
+  "question": "The average height of 5 plants is 24 centimeters. If a sixth plant that is 30 centimeters tall is added, what is the new average height?",
+  "options": [
+    "24 centimeters",
+    "25 centimeters",
+    "26 centimeters",
+    "27 centimeters"
+  ],
+  "correctAnswer": 1,
+  "explanation": "The total height of the first five plants is 24 × 5 = 120 centimeters. Add the sixth plant: 120 + 30 = 150 centimeters. Divide by 6 plants: 150 ÷ 6 = 25 centimeters.",
+  "tags": [
+    "average",
+    "new average"
+  ]
+},
+{
+  "id": "AVG-E-015",
+  "question": "The average number of books read by 4 students is 6 books. If three students read 5, 7, and 8 books, how many books did the fourth student read?",
+  "options": [
+    "3",
+    "4",
+    "5",
+    "6"
+  ],
+  "correctAnswer": 2,
+  "explanation": "The total number of books read is 6 × 4 = 24. The first three students read 5 + 7 + 8 = 20 books. The fourth student read 24 − 20 = 4 books.",
+  "tags": [
+    "average",
+    "missing value"
+  ]
+}
+]
