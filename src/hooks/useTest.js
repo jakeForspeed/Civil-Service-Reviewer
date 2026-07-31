@@ -14,7 +14,7 @@ import {
     clearTest,
 } from "../services/storage";
 
-const EXAM_DURATION = 2 * 60; // Change to 110 * 60 for production
+const EXAM_DURATION = 10 * 60; // Change to 110 * 60 for production
 
 export default function useTest(config = {}) {
 
