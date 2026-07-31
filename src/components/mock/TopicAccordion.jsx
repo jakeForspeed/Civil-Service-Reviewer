@@ -18,7 +18,11 @@ export default function TopicAccordion({
 
 }) {
 
-    const [openSubtopics, setOpenSubtopics] = useState({});
+    const [openSubtopics, setOpenSubtopics] = useState(() =>
+                Object.fromEntries(
+                    topic.subtopics.map(subtopic => [subtopic.name, true])
+                )
+            );
 
     function toggle(name) {
 
